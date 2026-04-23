@@ -72,10 +72,10 @@ class OCRDemo:
         self.max_width = max_width
         self.checkpoint_path = checkpoint_path
 
-    def predict_from_editor(self, editor_value: Any) -> tuple[np.ndarray | None, str, str]:
+    def predict_from_editor(self, editor_value: Any) -> tuple[str, str]:
         image = extract_editor_image(editor_value)
         if image is None:
-            return None, "", "Upload ảnh tài liệu, dùng Crop để cắt một dòng/cụm chữ rồi bấm Run OCR."
+            return "", "Upload ảnh tài liệu, dùng Crop để cắt một dòng/cụm chữ rồi bấm Run OCR."
 
         tensor = preprocess(image, self.image_height, self.max_width).to(self.device)
         with torch.no_grad():
@@ -86,7 +86,7 @@ class OCRDemo:
             f"Checkpoint: {self.checkpoint_path.name}\n"
             "Mẹo: crop sát một dòng hoặc một cụm chữ ngang để model đọc ổn định hơn."
         )
-        return image, prediction, note
+        return prediction, note
 
 
 def sample_examples() -> list[list[str]]:
@@ -122,7 +122,6 @@ def build_interface(demo: OCRDemo) -> gr.Blocks:
                 height=520,
             )
             with gr.Column():
-                crop_preview = gr.Image(type="numpy", label="Crop preview")
                 text_output = gr.Textbox(label="Text prediction", lines=3)
                 note_output = gr.Textbox(label="Notes", lines=4)
                 run_button = gr.Button("Run OCR", variant="primary")
@@ -138,7 +137,7 @@ def build_interface(demo: OCRDemo) -> gr.Blocks:
         run_button.click(
             fn=demo.predict_from_editor,
             inputs=editor,
-            outputs=[crop_preview, text_output, note_output],
+            outputs=[text_output, note_output],
         )
     return app
 
