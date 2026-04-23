@@ -8,6 +8,7 @@ from pathlib import Path
 import torch
 from torch import nn
 from torch.optim import AdamW
+from torch.optim.lr_scheduler import ReduceLROnPlateau
 from torch.utils.data import DataLoader, Subset
 
 from ocr_pipeline.dataset import OCRCropDataset, OCRVocab, collate_fn
@@ -137,6 +138,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--device", type=str, default="cuda" if torch.cuda.is_available() else "cpu")
     parser.add_argument("--max-train-samples", type=int, default=0, help="Optional limit for quick smoke tests.")
     parser.add_argument("--max-val-samples", type=int, default=0, help="Optional limit for quick smoke tests.")
+    parser.add_argument("--resume", type=Path, default=None, help="Resume training from a previous checkpoint.")
+    parser.add_argument("--lr-patience", type=int, default=4, help="Epochs to wait before reducing LR.")
+    parser.add_argument("--lr-factor", type=float, default=0.5, help="LR reduction factor when val CER plateaus.")
     return parser.parse_args()
 
 
@@ -177,9 +181,11 @@ def main() -> None:
     model = CRNN(num_classes=vocab.size).to(device)
     criterion = nn.CTCLoss(blank=vocab.blank_idx, zero_infinity=True)
     optimizer = AdamW(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
+    scheduler = ReduceLROnPlateau(optimizer, mode="min", factor=args.lr_factor, patience=args.lr_patience)
 
     history = []
     best_score = math.inf
+    start_epoch = 1
 
     config = {
         "prepared_dir": str(prepared_dir),
@@ -192,27 +198,47 @@ def main() -> None:
         "vocab_size": vocab.size,
         "device": str(device),
     }
+
+    if args.resume is not None:
+        checkpoint = torch.load(args.resume, map_location=device)
+        model.load_state_dict(checkpoint["model_state"])
+        if "optimizer_state" in checkpoint:
+            optimizer.load_state_dict(checkpoint["optimizer_state"])
+        history = checkpoint.get("history", [])
+        best_score = checkpoint.get("best_score", math.inf)
+        start_epoch = checkpoint.get("epoch", 0) + 1
+        old_config = checkpoint.get("config", {})
+        config.update({k: v for k, v in old_config.items() if k in config})
+        print(json.dumps({"resumed_from": str(args.resume), "start_epoch": start_epoch}, ensure_ascii=False))
+
     (output_dir / "config.json").write_text(json.dumps(config, indent=2), encoding="utf-8")
     (output_dir / "charset.txt").write_text(vocab.chars, encoding="utf-8")
 
-    for epoch in range(1, args.epochs + 1):
+    for epoch in range(start_epoch, args.epochs + 1):
         train_loss = train_one_epoch(model, train_loader, criterion, optimizer, device)
         metrics = evaluate(model, val_loader, criterion, device, vocab)
+        scheduler.step(metrics["cer"])
         metrics["train_loss"] = train_loss
         metrics["epoch"] = epoch
+        metrics["lr"] = optimizer.param_groups[0]["lr"]
         history.append(metrics)
         print(json.dumps(metrics, ensure_ascii=False))
 
         checkpoint = {
             "model_state": model.state_dict(),
+            "optimizer_state": optimizer.state_dict(),
             "config": config,
             "epoch": epoch,
             "metrics": metrics,
+            "history": history,
+            "best_score": best_score,
         }
-        torch.save(checkpoint, output_dir / "last.pt")
         if metrics["cer"] < best_score:
             best_score = metrics["cer"]
+            checkpoint["best_score"] = best_score
             torch.save(checkpoint, output_dir / "best.pt")
+        checkpoint["best_score"] = best_score
+        torch.save(checkpoint, output_dir / "last.pt")
 
         (output_dir / "history.json").write_text(json.dumps(history, indent=2, ensure_ascii=False), encoding="utf-8")
 

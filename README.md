@@ -12,6 +12,12 @@ python -m ocr_pipeline.prepare_dataset --data-root . --output-dir prepared_data
 python -m ocr_pipeline.train --prepared-dir prepared_data --output-dir runs/crnn_baseline --epochs 30 --batch-size 64
 ```
 
+Continue from the latest checkpoint:
+
+```bash
+python -m ocr_pipeline.train --prepared-dir prepared_data --output-dir runs/crnn_baseline --epochs 60 --batch-size 32 --resume runs/crnn_baseline/last.pt
+```
+
 Run on Kaggle after cloning the repo:
 
 ```bash
@@ -20,6 +26,12 @@ Run on Kaggle after cloning the repo:
 !python -m pip install -r requirements-kaggle.txt
 !python -m ocr_pipeline.prepare_dataset --data-root . --output-dir prepared_data
 !python -m ocr_pipeline.train --prepared-dir prepared_data --output-dir /kaggle/working/crnn_run --epochs 30 --batch-size 64 --device cuda
+```
+
+Continue training on Kaggle:
+
+```bash
+!python -m ocr_pipeline.train --prepared-dir prepared_data --output-dir /kaggle/working/crnn_run --epochs 60 --batch-size 32 --device cuda --resume /kaggle/working/crnn_run/last.pt
 ```
 
 ## Files
