@@ -1,0 +1,650 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "hiệu hay triệu chứng của Bệnh hiểm nghèo giai đoạn cuối:",
+            "points": [
+                [
+                    354.31665,
+                    1013.134823
+                ],
+                [
+                    1120.489379,
+                    1048.2436519999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hoặc",
+            "points": [
+                [
+                    446.835419,
+                    1752.21167
+                ],
+                [
+                    512.066834,
+                    1788.662842
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hợp đồng gần nhất; tùy ngày nào đến sau; hoặc",
+            "points": [
+                [
+                    446.817261,
+                    460.88881
+                ],
+                [
+                    1074.139527,
+                    495.535797
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hiểm, dù trong trạng thái tinh thần bình thường hay mất trí; hoặc",
+            "points": [
+                [
+                    539.14503,
+                    1156.081909
+                ],
+                [
+                    1403.6079100000002,
+                    1192.569702
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Người được bảo hiểm tử vong do Tai nạn do bất kỳ lý do nào dưới đây:",
+            "points": [
+                [
+                    353.285858,
+                    1489.652547
+                ],
+                [
+                    1286.880249,
+                    1524.865478
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11.4.4 Hành vi cố ý của Bên mua bảo hiểm, Người được bảo hiểm và/hoặc người",
+            "points": [
+                [
+                    353.197571,
+                    1905.087891
+                ],
+                [
+                    1444.795654,
+                    1940.367798
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sản phẩm bảo hiểm nhân thọ liên kết chung đóng phí định kỳ",
+            "points": [
+                [
+                    256.869354,
+                    2052.023926
+                ],
+                [
+                    944.29126,
+                    2082.7333989999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "khách trên các chuyến bay dân dụng; hoặc",
+            "points": [
+                [
+                    541.673304,
+                    734.566959
+                ],
+                [
+                    1105.422974,
+                    768.99469
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11.2    Loại trừ trong trường hợp Người được bảo hiểm bị Thương tật toàn bộ và vĩnh",
+            "points": [
+                [
+                    258.783862,
+                    241.539604
+                ],
+                [
+                    1440.358769,
+                    275.562916
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hoặc",
+            "points": [
+                [
+                    540.312988,
+                    1286.570109
+                ],
+                [
+                    606.170959,
+                    1317.99062
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đoạn cuối",
+            "points": [
+                [
+                    352.039032,
+                    919.732117
+                ],
+                [
+                    491.365051,
+                    955.8781740000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11.3.1 Phát sinh từ:",
+            "points": [
+                [
+                    354.146454,
+                    1063.825317
+                ],
+                [
+                    611.551514,
+                    1100.356201
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11.4.2 Bị tác động bởi việc sử dụng các chất gây nghiện, thuốc điều trị tâm thần,",
+            "points": [
+                [
+                    353.700429,
+                    1641.74707
+                ],
+                [
+                    1454.511353,
+                    1675.716919
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "15/27",
+            "points": [
+                [
+                    1367.133423,
+                    2054.209717
+                ],
+                [
+                    1434.647339,
+                    2082.4084470000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prudential sẽ không chi trả quyền lợi bảo hiểm quy định tại Điều 9.2 và Điều 9.3",
+            "points": [
+                [
+                    352.796725,
+                    330.402924
+                ],
+                [
+                    1442.2908929999999,
+                    367.15054399999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11.2.2   Phát sinh từ:",
+            "points": [
+                [
+                    353.980807,
+                    516.72992
+                ],
+                [
+                    610.473328,
+                    548.544312
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "có chỉ định của bác sĩ và việc ảnh hưởng này là nguyên nhân gây ra Tai nạn;",
+            "points": [
+                [
+                    443.444275,
+                    1714.648193
+                ],
+                [
+                    1444.540772,
+                    1749.781494
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "V3_072020",
+            "points": [
+                [
+                    1474.998291,
+                    1942.041138
+                ],
+                [
+                    1500.023437,
+                    2042.194702
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "người nhận quyền lợi bảo hiểm.",
+            "points": [
+                [
+                    541.585876,
+                    822.59021
+                ],
+                [
+                    961.379638,
+                    858.473572
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "viễn",
+            "points": [
+                [
+                    350.637898,
+                    277.653972
+                ],
+                [
+                    414.39020800000003,
+                    307.74685600000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nếu tình trạng Thương tật toàn bộ và vĩnh viễn của Người được bảo hiểm:",
+            "points": [
+                [
+                    352.512699,
+                    368.348979
+                ],
+                [
+                    1314.365933,
+                    404.270015
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11.2.1   Đã xảy ra trước Ngày hiệu lực hợp đồng, hoặc trước ngày khôi phục hiệu lực",
+            "points": [
+                [
+                    353.333334,
+                    422.844914
+                ],
+                [
+                    1436.992708,
+                    456.49122
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "a. Tự tử không thành dẫn đến Thương tật toàn bộ và vĩnh viễn hay tự",
+            "points": [
+                [
+                    439.719313,
+                    568.668506
+                ],
+                [
+                    1436.534379,
+                    601.094368
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gây thương tích của Người được bảo hiểm, dù trong trạng thái tinh",
+            "points": [
+                [
+                    538.934938,
+                    604.026494
+                ],
+                [
+                    1435.153988,
+                    641.109262
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thần bình thường hay mất trí; hoặc",
+            "points": [
+                [
+                    538.072193,
+                    643.696432
+                ],
+                [
+                    1000.330729,
+                    679.0544199999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "b. Tham gia các hoạt động hàng không, trừ khi với tư cách là hành",
+            "points": [
+                [
+                    445.758525,
+                    698.027
+                ],
+                [
+                    1437.91477,
+                    730.797818
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "C. Hành vi cố ý của Bên mua bảo hiểm, Người được bảo hiểm và/hoặc",
+            "points": [
+                [
+                    445.910603,
+                    787.269405
+                ],
+                [
+                    1436.184496,
+                    819.726627
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11.3 Loại trừ trong trường hợp Người được bảo hiểm mắc Bệnh hiểm nghèo giai",
+            "points": [
+                [
+                    256.891113,
+                    882.916292
+                ],
+                [
+                    1439.40211,
+                    919.061589
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prudential sẽ không chi trả quyền lợi bảo hiểm quy định tại Điều 9.6 nếu các dấu",
+            "points": [
+                [
+                    349.658759,
+                    973.877804
+                ],
+                [
+                    1437.2155719999998,
+                    1009.3565269999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "a. Tự tử không thành hay tự gây thương tích của Người được bảo",
+            "points": [
+                [
+                    443.215136,
+                    1118.09889
+                ],
+                [
+                    1438.804547,
+                    1154.104992
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "b. Sử dụng trái phép chất ma túy, chất kích thích (ngoại trừ việc sử",
+            "points": [
+                [
+                    443.386053,
+                    1210.082319
+                ],
+                [
+                    1436.922689,
+                    1243.543049
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dụng các loại thuốc dựa trên đơn thuốc của bác sĩ có thẩm quyền);",
+            "points": [
+                [
+                    538.09972,
+                    1249.250503
+                ],
+                [
+                    1438.491316,
+                    1282.805312
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11.3.2 Xảy ra trên bệnh nhân nhiễm HIV/AIDS.",
+            "points": [
+                [
+                    352.209948,
+                    1339.753484
+                ],
+                [
+                    962.6778879999999,
+                    1370.206022
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11.4 Loại trừ trong trường hợp Người được bảo hiểm tử vong do Tai nạn",
+            "points": [
+                [
+                    257.846047,
+                    1397.360615
+                ],
+                [
+                    1282.002272,
+                    1433.267397
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prudential sẽ không chi trả quyền lợi bảo hiểm theo quy định tại Điều 9.1 nếu",
+            "points": [
+                [
+                    351.365247,
+                    1455.463351
+                ],
+                [
+                    1434.627318,
+                    1486.5093900000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11.4.1 Chiến tranh (có tuyên bố hay không tuyên bố), các hành động hiếu chiến,",
+            "points": [
+                [
+                    352.460081,
+                    1546.025688
+                ],
+                [
+                    1435.722152,
+                    1583.4534119999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nổi loạn, rối loạn dân sự hoặc bạo động; hoặc",
+            "points": [
+                [
+                    440.938133,
+                    1584.483902
+                ],
+                [
+                    1043.109205,
+                    1619.101801
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rượu, chất độc, khí ga, các hoạt chất tương tự hoặc ma túy, trừ trường hợp",
+            "points": [
+                [
+                    444.885915,
+                    1677.941226
+                ],
+                [
+                    1437.113461,
+                    1712.864456
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trong trạng thái tinh thần bình thường hay mất trí; hoặc",
+            "points": [
+                [
+                    450.33963,
+                    1847.566406
+                ],
+                [
+                    1173.080566,
+                    1883.0200189999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11.4.3 Tự tử, hoặc tự gây thương tích cho bản thân của Người được bảo hiểm dù",
+            "points": [
+                [
+                    351.481339,
+                    1810.378666
+                ],
+                [
+                    1438.753389,
+                    1843.1494850000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_CONTRACT_066504.png",
+    "imageData": null,
+    "imageHeight": 2200,
+    "imageWidth": 1700
+}

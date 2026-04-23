@@ -1,0 +1,714 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Tổng công ty Giải pháp",
+            "points": [
+                [
+                    161.788891,
+                    101.313746
+                ],
+                [
+                    379.646323,
+                    122.806407
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "doanh nghiệp Viettel (Viettel",
+            "points": [
+                [
+                    145.449499,
+                    126.571865
+                ],
+                [
+                    406.349171,
+                    148.369102
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Solutions, thuộc Tập đoàn",
+            "points": [
+                [
+                    142.780448,
+                    151.483008
+                ],
+                [
+                    380.993192,
+                    174.392343
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Viettel) và Google châu Á",
+            "points": [
+                [
+                    140.111398,
+                    176.838986
+                ],
+                [
+                    376.322355,
+                    197.746533
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thái Bình Dương vừa ký",
+            "points": [
+                [
+                    140.111398,
+                    201.305274
+                ],
+                [
+                    372.318779,
+                    223.102511
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thỏa thuận hợp tác chiến",
+            "points": [
+                [
+                    136.997513,
+                    227.550942
+                ],
+                [
+                    364.311628,
+                    249.793014
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lược nhằm tăng tốc thúc đẩy",
+            "points": [
+                [
+                    133.883628,
+                    252.90692
+                ],
+                [
+                    392.336657,
+                    275.148992
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "chuyển đổi số ngành giáo dục",
+            "points": [
+                [
+                    133.883628,
+                    279.152567
+                ],
+                [
+                    405.68190899999996,
+                    302.506757
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "và lĩnh vực điện toán đám mây",
+            "points": [
+                [
+                    130.769722,
+                    305.843111
+                ],
+                [
+                    412.576942,
+                    328.08518300000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tại Việt Nam.",
+            "points": [
+                [
+                    129.435197,
+                    331.643924
+                ],
+                [
+                    245.761295,
+                    350.77211100000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hợp tác đôi bên này sẽ thúc",
+            "points": [
+                [
+                    143.225283,
+                    356.110211
+                ],
+                [
+                    402.568002,
+                    377.462613
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đẩy phát triển các lớp học",
+            "points": [
+                [
+                    126.321291,
+                    380.131664
+                ],
+                [
+                    361.864985,
+                    388.138815
+                ],
+                [
+                    359.863197,
+                    408.156692
+                ],
+                [
+                    121.650453,
+                    403.485854
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "thông minh, có sự kết hợp.",
+            "points": [
+                [
+                    120.98319,
+                    409.491217
+                ],
+                [
+                    362.532248,
+                    412.82753
+                ],
+                [
+                    362.977103,
+                    435.736906
+                ],
+                [
+                    119.648665,
+                    430.84362
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "của nền tảng quản lý giáo dục",
+            "points": [
+                [
+                    457.306825,
+                    103.775831
+                ],
+                [
+                    728.050828,
+                    125.037025
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "K12Online của Viettel với các",
+            "points": [
+                [
+                    454.615524,
+                    126.920938
+                ],
+                [
+                    722.399114,
+                    148.451269
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sản phẩm, công cụ và dịch",
+            "points": [
+                [
+                    454.077274,
+                    151.14257
+                ],
+                [
+                    696.562707,
+                    175.095065
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vụ của Google for Education",
+            "points": [
+                [
+                    453.000749,
+                    179.670278
+                ],
+                [
+                    717.5547879999999,
+                    200.12408399999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nhằm phát triển hệ sinh thái",
+            "points": [
+                [
+                    450.309448,
+                    203.89191
+                ],
+                [
+                    711.095686,
+                    225.960492
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "giáo dục số mạnh mẽ tại Việt",
+            "points": [
+                [
+                    447.618172,
+                    230.804818
+                ],
+                [
+                    712.710461,
+                    251.796899
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nam. Học sinh sẽ được nâng",
+            "points": [
+                [
+                    447.618172,
+                    255.02645
+                ],
+                [
+                    710.2882979999999,
+                    279.248082
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cao tính chủ động và cá nhân",
+            "points": [
+                [
+                    446.244596,
+                    283.489062
+                ],
+                [
+                    714.160629,
+                    306.135538
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hoa trải nghiệm học tập, đồng",
+            "points": [
+                [
+                    444.626996,
+                    309.370756
+                ],
+                [
+                    723.259665,
+                    334.039246
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thời được tiếp cận cơ hội khai",
+            "points": [
+                [
+                    441.391777,
+                    336.26348
+                ],
+                [
+                    717.1936410000001,
+                    358.50556
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thác tối đa các tài nguyên học",
+            "points": [
+                [
+                    439.774177,
+                    361.336383
+                ],
+                [
+                    717.1936410000001,
+                    384.58946000000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tập trên không gian mạng. Sự",
+            "points": [
+                [
+                    440.178572,
+                    388.026886
+                ],
+                [
+                    715.373834,
+                    410.066759
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "kết hợp dự kiến sẽ góp phần",
+            "points": [
+                [
+                    438.156558,
+                    412.695394
+                ],
+                [
+                    702.028582,
+                    437.36386500000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Viettel hợp tác Google thúc đẩy chuyển đổi số giáo dục",
+            "points": [
+                [
+                    139.401497,
+                    29.004141
+                ],
+                [
+                    1136.346121,
+                    75.251662
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thu hẹp khoảng cách giáo dục",
+            "points": [
+                [
+                    765.79204,
+                    104.313055
+                ],
+                [
+                    1041.282506,
+                    126.577368
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "giữa các vùng miền.",
+            "points": [
+                [
+                    766.281358,
+                    131.71529
+                ],
+                [
+                    946.597944,
+                    150.799
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bên cạnh đó, hai bên sẽ mang",
+            "points": [
+                [
+                    781.450453,
+                    154.713614
+                ],
+                [
+                    1047.8884050000001,
+                    177.222597
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đến mô hình kinh doanh điện",
+            "points": [
+                [
+                    765.302699,
+                    181.137212
+                ],
+                [
+                    1026.602729,
+                    202.912207
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "toán đám mây (cloud) mới trên",
+            "points": [
+                [
+                    763.646672,
+                    207.421314
+                ],
+                [
+                    1041.672738,
+                    228.045794
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cơ sở tận dụng thế mạnh về",
+            "points": [
+                [
+                    764.051067,
+                    234.516231
+                ],
+                [
+                    1009.522813,
+                    255.34289900000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cơ sở hạ tầng và trung tâm dữ",
+            "points": [
+                [
+                    764.859876,
+                    260.397924
+                ],
+                [
+                    1024.687872,
+                    280.213594
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "liệu Viettel Cloud và nên tảng",
+            "points": [
+                [
+                    761.220262,
+                    285.470827
+                ],
+                [
+                    1023.4746670000001,
+                    308.117302
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Google Cloud Platform nhằm",
+            "points": [
+                [
+                    760.815867,
+                    312.16133
+                ],
+                [
+                    1025.698889,
+                    333.190205
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cung cấp những giải pháp phù",
+            "points": [
+                [
+                    762.029072,
+                    337.638629
+                ],
+                [
+                    1032.978117,
+                    361.093913
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hợp với nhu cầu cụ thể của thị",
+            "points": [
+                [
+                    759.602662,
+                    363.924736
+                ],
+                [
+                    1031.158309,
+                    386.571211
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trường và khách hàng Việt Nam.",
+            "points": [
+                [
+                    760.007058,
+                    391.42403
+                ],
+                [
+                    1046.323369,
+                    413.26171400000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ĐỨC THIỆN",
+            "points": [
+                [
+                    950.07582,
+                    416.90131
+                ],
+                [
+                    1053.400409,
+                    437.93018500000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đại diện Viettel và Google ký kết hợp tác thúc đẩy chuyển đổi số",
+            "points": [
+                [
+                    1079.476122,
+                    392.506866
+                ],
+                [
+                    1664.33702,
+                    415.627749
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "giáo dục",
+            "points": [
+                [
+                    1080.127405,
+                    419.861161
+                ],
+                [
+                    1162.190294,
+                    440.051227
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ảnh: ĐỨC THỌ",
+            "points": [
+                [
+                    1598.556471,
+                    421.81504
+                ],
+                [
+                    1700.48377,
+                    442.005106
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_NEWSPAPER_032903.jpg",
+    "imageData": null,
+    "imageHeight": 552,
+    "imageWidth": 1806
+}

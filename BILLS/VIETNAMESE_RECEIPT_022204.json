@@ -1,0 +1,458 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Đoàn 01:",
+            "points": [
+                [
+                    154.063091,
+                    7.903523
+                ],
+                [
+                    267.977736,
+                    45.751393
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Resort: Vinpearl Resort & Spa Nha Trang Bay",
+            "points": [
+                [
+                    312.875718,
+                    65.788505
+                ],
+                [
+                    732.804021,
+                    92.115894
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nhận phòng: 14h00 ngày 30/4/21",
+            "points": [
+                [
+                    314.359925,
+                    95.844159
+                ],
+                [
+                    628.6361589999999,
+                    121.03782700000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trả phòng: 12h00 ngày 1/5/21",
+            "points": [
+                [
+                    309.115615,
+                    129.043487
+                ],
+                [
+                    596.935473,
+                    151.703993
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã đoàn: 353628",
+            "points": [
+                [
+                    312.262907,
+                    160.516409
+                ],
+                [
+                    478.12519399999996,
+                    180.02962300000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Gói: FBV (ăn 3 bữa)",
+            "points": [
+                [
+                    312.262907,
+                    188.212591
+                ],
+                [
+                    501.72988499999997,
+                    214.649838
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số lượng 02 phòng + 1 trẻ em phụ thu",
+            "points": [
+                [
+                    311.633434,
+                    219.685501
+                ],
+                [
+                    688.206946,
+                    243.76229099999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sô tiền: (3.900.000*2) + 785.000 = 8.585.000 vnđ",
+            "points": [
+                [
+                    309.933896,
+                    252.118362
+                ],
+                [
+                    789.0776599999999,
+                    272.717379
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ciaoseatravel đã nhận được khoản thanh toán 8.585.000 vnđ vào ngày 12/04/2021",
+            "points": [
+                [
+                    311.898938,
+                    279.191547
+                ],
+                [
+                    1188.100723,
+                    303.152876
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bao gồm",
+            "points": [
+                [
+                    224.347879,
+                    329.879003
+                ],
+                [
+                    324.110013,
+                    356.144307
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Lưu trú 1 đêm tại Vinpearl Resort & Spa Nha Trang Bay",
+            "points": [
+                [
+                    309.134174,
+                    380.566459
+                ],
+                [
+                    833.288538,
+                    410.287726
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ăn 3 bữa buffet/ngày với hàng trăm món Á, Âu phong phú",
+            "points": [
+                [
+                    310.977362,
+                    412.822112
+                ],
+                [
+                    862.088229,
+                    437.935428
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hoà mình với thiên nhiên hoang dã kỳ thú và trải nghiệm các trò chơi đầy thử thách hoàn toàn miễn phí tại Vinwonders trong 2n1d",
+            "points": [
+                [
+                    310.931579,
+                    445.923985
+                ],
+                [
+                    1546.270872,
+                    469.249878
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Cáp treo/tàu cao tốc 2 chiều",
+            "points": [
+                [
+                    308.224998,
+                    473.851098
+                ],
+                [
+                    579.1793560000001,
+                    500.402443
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Danh sách:",
+            "points": [
+                [
+                    226.493738,
+                    524.328006
+                ],
+                [
+                    350.76254700000004,
+                    550.4563099999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phòng 1 :",
+            "points": [
+                [
+                    223.434845,
+                    584.964814
+                ],
+                [
+                    332.791387,
+                    613.705949
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hoàng Anh Đức 10/07/1987",
+            "points": [
+                [
+                    224.581939,
+                    617.210996
+                ],
+                [
+                    486.18368499999997,
+                    644.613833
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nguyễn Thị Thu Thảo 15/10/1995",
+            "points": [
+                [
+                    224.581939,
+                    649.074793
+                ],
+                [
+                    545.131709,
+                    671.6980599999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hoàng Phúc 29/08/2020",
+            "points": [
+                [
+                    224.581939,
+                    678.389478
+                ],
+                [
+                    455.91307700000004,
+                    706.748239
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hoàng Nhân 27/03/2016",
+            "points": [
+                [
+                    225.856471,
+                    710.407836
+                ],
+                [
+                    459.09945700000003,
+                    733.832466
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phòng 2 :",
+            "points": [
+                [
+                    228.159087,
+                    768.572483
+                ],
+                [
+                    330.501025,
+                    795.0123140000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phan Thị Thu Hiền 13/04/2005",
+            "points": [
+                [
+                    225.856826,
+                    800.120406
+                ],
+                [
+                    516.299327,
+                    824.060161
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nguyễn Thị Thảo Vy 07/04/2004",
+            "points": [
+                [
+                    227.439624,
+                    829.402111
+                ],
+                [
+                    526.587504,
+                    854.726773
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hoàng Duyên 29/10/2017",
+            "points": [
+                [
+                    225.006074,
+                    862.58141
+                ],
+                [
+                    470.497258,
+                    888.262199
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Điều kiện:",
+            "points": [
+                [
+                    222.337651,
+                    922.189303
+                ],
+                [
+                    344.044527,
+                    954.84232
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đặt phòng này không được hoàn, hủy, đổi ngày, đổi tên",
+            "points": [
+                [
+                    308.817817,
+                    971.874106
+                ],
+                [
+                    836.146604,
+                    1000.6718109999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đem theo CMND, giấy khai sinh khi làm thủ tục nhận phòng",
+            "points": [
+                [
+                    311.335636,
+                    1006.49432
+                ],
+                [
+                    876.274578,
+                    1032.144732
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Khai báo y tế, truy cập đường link tokhaiyte.vn, vào mục khai báo toàn dân, điền thông tin, chụp mã QR code, cung cấp lễ tân khi làm thủ tục check in.",
+            "points": [
+                [
+                    309.310457,
+                    1037.21008
+                ],
+                [
+                    1742.941761,
+                    1060.14814
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_RECEIPT_022204.jpg",
+    "imageData": null,
+    "imageHeight": 1080,
+    "imageWidth": 1920
+}

@@ -1,0 +1,618 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Sản phẩm bảo hiểm nhân thọ liên kết chung đóng phí định kỳ",
+            "points": [
+                [
+                    255.555557,
+                    2053.013672
+                ],
+                [
+                    942.783264,
+                    2081.947022
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "09/27",
+            "points": [
+                [
+                    1365.723511,
+                    2054.625488
+                ],
+                [
+                    1434.8357449999999,
+                    2076.76678
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "V3_072020",
+            "points": [
+                [
+                    1475.27124,
+                    1944.090088
+                ],
+                [
+                    1500.057373,
+                    2042.004273
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quyền lợi bảo hiểm",
+            "points": [
+                [
+                    942.39226,
+                    296.458036
+                ],
+                [
+                    1196.6918719999999,
+                    332.01964799999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tuổi tại thời điểm tử",
+            "points": [
+                [
+                    395.078704,
+                    257.972366
+                ],
+                [
+                    665.147197,
+                    292.26583100000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vong hoặc bị Thương tật",
+            "points": [
+                [
+                    366.181024,
+                    300.124754
+                ],
+                [
+                    690.5664569999999,
+                    330.845982
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "toàn bộ và vĩnh viễn",
+            "points": [
+                [
+                    395.435474,
+                    335.489887
+                ],
+                [
+                    659.7957739999999,
+                    367.014877
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trong thời gian Hợp đồng bảo hiểm có hiệu lực,",
+            "points": [
+                [
+                    718.315009,
+                    411.063769
+                ],
+                [
+                    1421.600637,
+                    444.920886
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngoại trừ các trường hợp quy định tại Điều 11.4,",
+            "points": [
+                [
+                    720.155316,
+                    449.918523
+                ],
+                [
+                    1422.8089289999998,
+                    482.438603
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prudential sẽ chi trả thêm 50% Số tiền bảo hiểm nếu",
+            "points": [
+                [
+                    719.842163,
+                    486.258082
+                ],
+                [
+                    1422.414812,
+                    516.174324
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Người được bảo hiểm tử vong do Tai nạn trong vòng",
+            "points": [
+                [
+                    719.634766,
+                    523.15639
+                ],
+                [
+                    1419.602278,
+                    559.070253
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "180 ngày kể từ ngày xảy ra Tai nạn.",
+            "points": [
+                [
+                    720.898844,
+                    561.759809
+                ],
+                [
+                    1174.218652,
+                    595.426585
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Giá trị nào lớn hơn giữa:",
+            "points": [
+                [
+                    718.998821,
+                    639.950396
+                ],
+                [
+                    1032.2916519999999,
+                    673.881278
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "75% Số tiền bảo hiểm; và",
+            "points": [
+                [
+                    775.495127,
+                    685.767895
+                ],
+                [
+                    1103.141386,
+                    716.024738
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Giá trị tài khoản cơ bản tại thời điểm tử vong",
+            "points": [
+                [
+                    775.716172,
+                    741.023533
+                ],
+                [
+                    1419.749471,
+                    776.620979
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hoặc xảy ra Thương tật toàn bộ và vĩnh viễn,",
+            "points": [
+                [
+                    774.653215,
+                    778.994151
+                ],
+                [
+                    1351.9504430000002,
+                    811.9307689999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cộng với Giá trị tài khoản tích lũy thêm tính tại thời",
+            "points": [
+                [
+                    718.540235,
+                    834.342072
+                ],
+                [
+                    1421.645516,
+                    865.995756
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "điểm tử vong hoặc xảy ra Thương tật toàn bộ và vĩnh",
+            "points": [
+                [
+                    718.680796,
+                    869.081097
+                ],
+                [
+                    1420.6592919999998,
+                    903.168344
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "viễn.",
+            "points": [
+                [
+                    718.667773,
+                    906.668953
+                ],
+                [
+                    781.82275,
+                    935.196834
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trong thời gian Hợp đồng bảo hiểm có hiệu lực,",
+            "points": [
+                [
+                    717.085993,
+                    964.482371
+                ],
+                [
+                    1421.0036610000002,
+                    998.181292
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngoại trừ các trường hợp quy định tại Điều 11.4,",
+            "points": [
+                [
+                    718.982087,
+                    1001.820122
+                ],
+                [
+                    1422.741739,
+                    1034.411547
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prudential sẽ chi trả thêm 75% Số tiền bảo hiểm nếu",
+            "points": [
+                [
+                    719.614102,
+                    1037.892182
+                ],
+                [
+                    1421.951708,
+                    1069.21794
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Người được bảo hiểm tử vong do Tai nạn trong vòng",
+            "points": [
+                [
+                    717.718032,
+                    1077.128483
+                ],
+                [
+                    1421.161676,
+                    1112.725929
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "180 ngày kể từ ngày xảy ra Tai nạn.",
+            "points": [
+                [
+                    721.510172,
+                    1115.099092
+                ],
+                [
+                    1172.301895,
+                    1147.532321
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Từ 3 đến dưới 4 tuổi",
+            "points": [
+                [
+                    396.97922,
+                    874.859083
+                ],
+                [
+                    661.165575,
+                    907.7669490000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9.4 Quyền lợi Đáo hạn hợp đồng",
+            "points": [
+                [
+                    256.677901,
+                    1215.857955
+                ],
+                [
+                    753.0007009999999,
+                    1255.102162
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nếu Hợp đồng bảo hiểm còn hiệu lực và Người được bảo hiểm còn sống vào Ngày",
+            "points": [
+                [
+                    351.713409,
+                    1278.543385
+                ],
+                [
+                    1436.683436,
+                    1314.215398
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đáo hạn hợp đồng, Prudential sẽ chi trả 1 lần cho Bên mua bảo hiểm toàn bộ Giá",
+            "points": [
+                [
+                    351.713409,
+                    1316.531763
+                ],
+                [
+                    1434.370067,
+                    1351.2772439999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trị tài khoản hợp đồng.",
+            "points": [
+                [
+                    352.351344,
+                    1354.850666
+                ],
+                [
+                    652.432564,
+                    1388.323368
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9.5 Quyền lợi thưởng duy trì hợp đồng",
+            "points": [
+                [
+                    257.569845,
+                    1416.669264
+                ],
+                [
+                    838.170843,
+                    1453.2015840000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trong thời gian Hợp đồng bảo hiểm có hiệu lực, nếu trong thời gian xét thưởng (i)",
+            "points": [
+                [
+                    349.896008,
+                    1476.986544
+                ],
+                [
+                    1434.403368,
+                    1513.264059
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phí bảo hiểm cơ bản được đóng đầy đủ hàng năm; và (ii) Bên mua bảo hiểm không",
+            "points": [
+                [
+                    351.108689,
+                    1514.809042
+                ],
+                [
+                    1433.765347,
+                    1549.554523
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rút tiền từ Giá trị tài khoản cơ bản; và (iii) Bên mua bảo hiểm không giảm Số tiền",
+            "points": [
+                [
+                    350.903576,
+                    1553.353416
+                ],
+                [
+                    1436.798936,
+                    1587.257989
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "bảo hiểm, Prudential sẽ chi trả Quyền lợi thưởng duy trì hợp đồng như sau:",
+            "points": [
+                [
+                    352.038672,
+                    1590.520331
+                ],
+                [
+                    1328.0700339999999,
+                    1626.318705
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "a. 150% Phí bảo hiểm cơ bản của 1 Năm hợp đồng sẽ được tự động cộng vào",
+            "points": [
+                [
+                    352.158487,
+                    1665.555747
+                ],
+                [
+                    1434.352478,
+                    1699.143045
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Giá trị tài khoản tích lũy thêm vào Ngày kỷ niệm năm hợp đồng thứ 10. Thời",
+            "points": [
+                [
+                    446.102308,
+                    1703.544154
+                ],
+                [
+                    1434.752046,
+                    1736.81559
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gian xét thưởng là 5 Năm hợp đồng bắt đầu từ Năm hợp đồng thứ 6 đến",
+            "points": [
+                [
+                    447.784732,
+                    1741.159477
+                ],
+                [
+                    1435.8035770000001,
+                    1775.772644
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Năm hợp đồng thứ 10;",
+            "points": [
+                [
+                    447.109778,
+                    1777.76558
+                ],
+                [
+                    743.5461829999999,
+                    1812.838445
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_CONTRACT_066498.png",
+    "imageData": null,
+    "imageHeight": 2200,
+    "imageWidth": 1700
+}

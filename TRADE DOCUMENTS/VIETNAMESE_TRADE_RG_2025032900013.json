@@ -1,0 +1,1418 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "<IMP>",
+            "points": [
+                [
+                    66.187637,
+                    8.795449
+                ],
+                [
+                    134.843941,
+                    30.591067000000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tờ khai hàng hóa nhập khẩu (thông quan)",
+            "points": [
+                [
+                    357.159592,
+                    43.668458
+                ],
+                [
+                    963.623611,
+                    78.541518
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số tờ khai 105476302040",
+            "points": [
+                [
+                    65.505453,
+                    84.879607
+                ],
+                [
+                    462.980974,
+                    110.93069399999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số tờ khai đầu tiên",
+            "points": [
+                [
+                    515.174081,
+                    87.111959
+                ],
+                [
+                    701.9128880000001,
+                    110.356506
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số tờ khai tạm nhập tái xuất tương ứng",
+            "points": [
+                [
+                    67.654982,
+                    116.52125
+                ],
+                [
+                    449.97310100000004,
+                    141.21965699999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã phân loại kiểm tra 2",
+            "points": [
+                [
+                    66.978323,
+                    143.642114
+                ],
+                [
+                    405.31293,
+                    166.594753
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã loại hình H11 2 [ 4)",
+            "points": [
+                [
+                    514.000115,
+                    143.241135
+                ],
+                [
+                    860.5509830000001,
+                    168.29137100000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CSGONKVI",
+            "points": [
+                [
+                    513.76612,
+                    170.670136
+                ],
+                [
+                    614.928163,
+                    188.601861
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã số hàng hóa đại diện của tờ khai 0709",
+            "points": [
+                [
+                    937.361053,
+                    143.603377
+                ],
+                [
+                    1367.7227,
+                    167.491121
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã bộ phận xử lý tờ khai 01",
+            "points": [
+                [
+                    1048.334853,
+                    170.670136
+                ],
+                [
+                    1338.2875880000001,
+                    194.35357000000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thời hạn tái nhập/ tái xuất",
+            "points": [
+                [
+                    1032.771418,
+                    197.736927
+                ],
+                [
+                    1292.612412,
+                    223.45033800000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tên cơ quan Hải quan tiếp nhận tờ khai",
+            "points": [
+                [
+                    65.444478,
+                    170.517188
+                ],
+                [
+                    451.754956,
+                    196.404223
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày đăng ký 25/05/2023 09:17:45",
+            "points": [
+                [
+                    63.237533,
+                    198.268071
+                ],
+                [
+                    510.58356699999996,
+                    220.56451099999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày thay đổi đăng ký 27/05/2023 14:57:57",
+            "points": [
+                [
+                    514.863335,
+                    197.531741
+                ],
+                [
+                    983.7951290000001,
+                    222.09483400000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Người nhập khẩu",
+            "points": [
+                [
+                    64.719358,
+                    224.752581
+                ],
+                [
+                    231.929347,
+                    249.106831
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": " Mã 0315582168",
+            "points": [
+                [
+                    122.879343,
+                    252.201706
+                ],
+                [
+                    466.806279,
+                    272.594524
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tên CÔNG TY TNHH DỊCH VỤ XUẤT NHẬP KHâU ĐÔNG PHươNG",
+            "points": [
+                [
+                    117.557057,
+                    276.987483
+                ],
+                [
+                    918.3139209999999,
+                    303.425645
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã bưu chính (+84) 43",
+            "points": [
+                [
+                    122.617964,
+                    334.796665
+                ],
+                [
+                    425.823887,
+                    356.571859
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Địa chỉ 16 Nguyễn Văn Lượng, Phường 6, quận Gò Vấp, thành phố Hồ Chí Minh",
+            "points": [
+                [
+                    123.313126,
+                    361.530511
+                ],
+                [
+                    1140.773778,
+                    387.967176
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số điện thoại 0932220339",
+            "points": [
+                [
+                    124.008483,
+                    416.057723
+                ],
+                [
+                    463.552291,
+                    440.22269
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Người ủy thác nhập khẩu",
+            "points": [
+                [
+                    65.466429,
+                    443.374967
+                ],
+                [
+                    312.24363300000005,
+                    467.242092
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã",
+            "points": [
+                [
+                    123.107809,
+                    470.39437
+                ],
+                [
+                    158.233033,
+                    494.26149499999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tên",
+            "points": [
+                [
+                    123.959118,
+                    497.760139
+                ],
+                [
+                    160.054908,
+                    519.112587
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Người xuất khẩu",
+            "points": [
+                [
+                    65.384024,
+                    549.350124
+                ],
+                [
+                    229.630107,
+                    575.2225500000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã",
+            "points": [
+                [
+                    123.208506,
+                    580.451376
+                ],
+                [
+                    153.04345,
+                    601.9817419999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tên GUANGXI PINGXIANG CITY HEQUAN TRADE CO., LTD",
+            "points": [
+                [
+                    124.074649,
+                    605.613943
+                ],
+                [
+                    873.249016,
+                    628.5394839999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã bưu chính",
+            "points": [
+                [
+                    123.255892,
+                    632.633346
+                ],
+                [
+                    257.943512,
+                    655.5588869999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Địa chỉ NO. 401, BUILDING 10",
+            "points": [
+                [
+                    120.463874,
+                    660.172686
+                ],
+                [
+                    596.005374,
+                    685.431409
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "XIANGHE EAST STREET, PINGXIANG CITY",
+            "points": [
+                [
+                    338.772476,
+                    688.138076
+                ],
+                [
+                    769.810782,
+                    706.408146
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CN",
+            "points": [
+                [
+                    340.125825,
+                    713.851517
+                ],
+                [
+                    365.839236,
+                    732.798245
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PINGXIANG ASEAN COMMERCIAL PORT",
+            "points": [
+                [
+                    935.562244,
+                    660.220873
+                ],
+                [
+                    1322.840334,
+                    679.871348
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CHINA",
+            "points": [
+                [
+                    938.018553,
+                    689.696586
+                ],
+                [
+                    1003.520112,
+                    706.890751
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã nước",
+            "points": [
+                [
+                    120.957292,
+                    716.35104
+                ],
+                [
+                    210.27763399999998,
+                    737.327776
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Người ủy thác xuất khẩu",
+            "points": [
+                [
+                    64.793764,
+                    740.272209
+                ],
+                [
+                    305.687998,
+                    765.747884
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đại lý Hải quan",
+            "points": [
+                [
+                    66.18835,
+                    769.611751
+                ],
+                [
+                    216.408925,
+                    795.193115
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số vận đơn",
+            "points": [
+                [
+                    65.024129,
+                    796.582491
+                ],
+                [
+                    176.982114,
+                    819.530717
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1230523DA2312SSG910R",
+            "points": [
+                [
+                    86.474571,
+                    823.000631
+                ],
+                [
+                    362.995417,
+                    841.236844
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    86.474571,
+                    847.730323
+                ],
+                [
+                    99.50040899999999,
+                    875.27075
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3",
+            "points": [
+                [
+                    84.241563,
+                    878.992476
+                ],
+                [
+                    106.199435,
+                    899.833843
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    85.730212,
+                    905.044219
+                ],
+                [
+                    100.616913,
+                    923.280432
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    86.474571,
+                    932.58468
+                ],
+                [
+                    99.50040899999999,
+                    954.542551
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số lượng 1.890 BX",
+            "points": [
+                [
+                    65.910538,
+                    958.439161
+                ],
+                [
+                    668.146155,
+                    984.829261
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tổng trọng lượng hàng (Gross) 11.024 KGM",
+            "points": [
+                [
+                    65.233848,
+                    988.212587
+                ],
+                [
+                    678.296194,
+                    1012.57268
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số lượng container 1",
+            "points": [
+                [
+                    64.557189,
+                    1015.279377
+                ],
+                [
+                    607.869341,
+                    1038.9627799999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trị giá khoản điều chỉnh",
+            "points": [
+                [
+                    587.436234,
+                    1528.914951
+                ],
+                [
+                    824.346701,
+                    1554.58872
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tổng hệ số phân bố",
+            "points": [
+                [
+                    1017.238616,
+                    1526.794123
+                ],
+                [
+                    1218.953676,
+                    1552.845866
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    83.869961,
+                    1557.622309
+                ],
+                [
+                    97.40333700000001,
+                    1578.845117
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    85.100279,
+                    1585.919405
+                ],
+                [
+                    101.094261,
+                    1606.5270400000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3",
+            "points": [
+                [
+                    84.485106,
+                    1612.371011
+                ],
+                [
+                    100.17153,
+                    1633.286233
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    83.869961,
+                    1640.052935
+                ],
+                [
+                    99.24879800000001,
+                    1658.199964
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    84.485106,
+                    1665.274252
+                ],
+                [
+                    102.016991,
+                    1689.572811
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chi tiết khai trị giá",
+            "points": [
+                [
+                    67.875951,
+                    1693.57132
+                ],
+                [
+                    244.11753399999998,
+                    1717.254734
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HÀNG THUỘC DIỆN KIỂM DỊCH / ATTP, ĐỀ NGHỊ CƠ QUAN HẢI QUAN HỖ TRỢ CÁT SEAL LẤY MẪU",
+            "points": [
+                [
+                    121.278998,
+                    1718.079455
+                ],
+                [
+                    1136.758212,
+                    1741.415974
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tên sắc thuế",
+            "points": [
+                [
+                    164.870272,
+                    1797.391201
+                ],
+                [
+                    295.644184,
+                    1824.6357349999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tổng tiền thuế",
+            "points": [
+                [
+                    366.975409,
+                    1799.372594
+                ],
+                [
+                    515.582128,
+                    1823.149668
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số dòng tổng",
+            "points": [
+                [
+                    569.080547,
+                    1798.381897
+                ],
+                [
+                    699.854459,
+                    1827.607869
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1 VND Tổng tiền thuế phải nộp VNĐ",
+            "points": [
+                [
+                    82.839363,
+                    1826.201113
+                ],
+                [
+                    1386.022228,
+                    1853.445661
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2 VND Số tiền bảo lãnh VND",
+            "points": [
+                [
+                    78.48025,
+                    1855.182256
+                ],
+                [
+                    1385.1267090000001,
+                    1880.363253
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3 VND Tỷ giá tính thuế USD- 23.280",
+            "points": [
+                [
+                    82.587532,
+                    1883.404812
+                ],
+                [
+                    1408.416659,
+                    1904.79933
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4 VND",
+            "points": [
+                [
+                    84.963913,
+                    1911.586727
+                ],
+                [
+                    571.313174,
+                    1932.3015750000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5 VND",
+            "points": [
+                [
+                    84.963913,
+                    1937.705456
+                ],
+                [
+                    578.068025,
+                    1960.671948
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số hóa đơn A HQJT2200239",
+            "points": [
+                [
+                    64.171209,
+                    1095.54735
+                ],
+                [
+                    624.209752,
+                    1117.244737
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số tiếp nhận hóa đơn điện tử",
+            "points": [
+                [
+                    67.461146,
+                    1121.18233
+                ],
+                [
+                    353.211794,
+                    1146.973578
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày phát hành 17/05/2023",
+            "points": [
+                [
+                    63.903247,
+                    1148.998848
+                ],
+                [
+                    560.8965029999999,
+                    1172.214031
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phương thức thanh toán KHONGTT",
+            "points": [
+                [
+                    65.004837,
+                    1175.987805
+                ],
+                [
+                    525.153452,
+                    1198.556074
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tổng trị giá hóa đơn B - CFR - USD-14.835",
+            "points": [
+                [
+                    68.583917,
+                    1202.395049
+                ],
+                [
+                    1105.201318,
+                    1229.191151
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tổng trị giá tính thuế 345.358.800",
+            "points": [
+                [
+                    69.556945,
+                    1231.067309
+                ],
+                [
+                    1102.753009,
+                    1253.649906
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tổng hệ số phân bổ trị giá 14.835-",
+            "points": [
+                [
+                    64.82024,
+                    1254.893204
+                ],
+                [
+                    1083.935796,
+                    1282.254832
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã kết quả kiểm tra nội dung",
+            "points": [
+                [
+                    66.308924,
+                    1283.827692
+                ],
+                [
+                    354.739172,
+                    1307.7410830000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Giấy phép nhập khẩu",
+            "points": [
+                [
+                    69.286257,
+                    1311.462775
+                ],
+                [
+                    277.700376,
+                    1336.770194
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1-2 -3-",
+            "points": [
+                [
+                    84.172992,
+                    1339.747527
+                ],
+                [
+                    1214.139836,
+                    1364.31062
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4-5-",
+            "points": [
+                [
+                    81.786562,
+                    1370.504336
+                ],
+                [
+                    760.423895,
+                    1387.3464
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã nhân viên Hải quan",
+            "points": [
+                [
+                    1151.169536,
+                    767.630707
+                ],
+                [
+                    1378.0423990000002,
+                    791.407781
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Địa điểm lưu kho 02CIS01 TONG CTY TAN CANG SG",
+            "points": [
+                [
+                    742.005644,
+                    793.881452
+                ],
+                [
+                    1378.0423999999998,
+                    817.166248
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Địa điểm dỡ hàng VNCLI CANG CAT LAI (HCM)",
+            "points": [
+                [
+                    742.371411,
+                    823.103473
+                ],
+                [
+                    1352.109253,
+                    846.520261
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Địa điểm xếp hàng CNXMN XIAMEN",
+            "points": [
+                [
+                    747.294788,
+                    848.505753
+                ],
+                [
+                    1206.624646,
+                    873.717427
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phương tiện vận chuyển 9999 SUNRISE DRAGON V.2312S",
+            "points": [
+                [
+                    744.62788,
+                    875.362702
+                ],
+                [
+                    1402.550353,
+                    922.145315
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày hàng đến 26/05/2023",
+            "points": [
+                [
+                    744.172677,
+                    932.982351
+                ],
+                [
+                    1276.4549240000001,
+                    955.498547
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ký hiệu và số hiệu",
+            "points": [
+                [
+                    744.62788,
+                    958.626415
+                ],
+                [
+                    922.955942,
+                    983.3941729999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày được phép nhập kho đầu tiên",
+            "points": [
+                [
+                    743.035909,
+                    1039.588299
+                ],
+                [
+                    1091.422446,
+                    1064.151392
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã văn bản pháp quy khác",
+            "points": [
+                [
+                    742.247471,
+                    1066.188365
+                ],
+                [
+                    1008.83889,
+                    1090.505828
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã phân loại khai trị giá 6",
+            "points": [
+                [
+                    65.577675,
+                    1393.464823
+                ],
+                [
+                    414.127979,
+                    1418.637885
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Khai trị giá tổng hợp",
+            "points": [
+                [
+                    62.875735,
+                    1420.059799
+                ],
+                [
+                    265.52126,
+                    1447.008258
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Các khoản điều chỉnh",
+            "points": [
+                [
+                    65.577675,
+                    1448.324294
+                ],
+                [
+                    279.030962,
+                    1474.02766
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phí vận chuyển",
+            "points": [
+                [
+                    63.776409,
+                    1475.458209
+                ],
+                [
+                    216.886334,
+                    1499.6960929999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phí bảo hiểm D ",
+            "points": [
+                [
+                    65.577675,
+                    1500.896254
+                ],
+                [
+                    420.970601,
+                    1526.715496
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã tên",
+            "points": [
+                [
+                    123.274639,
+                    1529.553442
+                ],
+                [
+                    190.12813,
+                    1552.431065
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã phân loại",
+            "points": [
+                [
+                    313.413116,
+                    1529.553442
+                ],
+                [
+                    437.969049,
+                    1553.193652
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_TRADE_RG_2025032900013.jpg",
+    "imageData": null,
+    "imageHeight": 2000,
+    "imageWidth": 1414
+}

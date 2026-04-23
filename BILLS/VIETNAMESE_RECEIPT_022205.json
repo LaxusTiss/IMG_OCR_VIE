@@ -1,0 +1,330 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "CHUST",
+            "points": [
+                [
+                    166.743655,
+                    118.624495
+                ],
+                [
+                    200.07430699999998,
+                    133.570376
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    154.995955,
+                    51.743393
+                ],
+                [
+                    206.28966100000002,
+                    70.988771
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CÔNG TY TNHH TM - DV VẬN TẢI",
+            "points": [
+                [
+                    684.421215,
+                    27.320724
+                ],
+                [
+                    247.066419,
+                    43.587525
+                ],
+                [
+                    246.626414,
+                    70.845426
+                ],
+                [
+                    683.101218,
+                    61.173262
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "QUỐC PHÁT CHƯ SẼ",
+            "points": [
+                [
+                    612.702087,
+                    68.647208
+                ],
+                [
+                    311.745638,
+                    74.362571
+                ],
+                [
+                    312.185643,
+                    109.534063
+                ],
+                [
+                    613.582063,
+                    98.982625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "PHIẾU ĐĂNG KÝ VÉ XE",
+            "points": [
+                [
+                    582.452413,
+                    110.083651
+                ],
+                [
+                    223.856671,
+                    112.281869
+                ],
+                [
+                    226.522668,
+                    152.017094
+                ],
+                [
+                    582.452413,
+                    141.40826
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "NHÀ XE TUẤN HUỆ",
+            "points": [
+                [
+                    613.639476,
+                    145.35702
+                ],
+                [
+                    200.668165,
+                    152.461903
+                ],
+                [
+                    197.778419,
+                    199.171134
+                ],
+                [
+                    609.872824,
+                    199.850078
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "ĐT: 0935.33.61.61 - 0935.72.59.59 - 0933.187.187",
+            "points": [
+                [
+                    683.954466,
+                    202.168762
+                ],
+                [
+                    132.688277,
+                    208.436404
+                ],
+                [
+                    134.506437,
+                    232.507801
+                ],
+                [
+                    683.954466,
+                    226.694323
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Liên 3: Khách",
+            "points": [
+                [
+                    319.413341,
+                    239.905967
+                ],
+                [
+                    489.047696,
+                    264.794878
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tên khách hàng: C Mẫn",
+            "points": [
+                [
+                    132.688291,
+                    266.389418
+                ],
+                [
+                    476.684228,
+                    312.89717099999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Điện thoại: 0987907835",
+            "points": [
+                [
+                    529.319961,
+                    314.078035
+                ],
+                [
+                    137.051892,
+                    317.711454
+                ],
+                [
+                    136.597352,
+                    349.049688
+                ],
+                [
+                    527.501801,
+                    353.591461
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Tuyến đường: CHƯ SÊ - TP. HỒ CHÍ MINH",
+            "points": [
+                [
+                    134.928185,
+                    363.605853
+                ],
+                [
+                    663.32891,
+                    393.13011700000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số ghế: 15B; 13A; 14B Số xe: 28",
+            "points": [
+                [
+                    134.928185,
+                    397.119883
+                ],
+                [
+                    611.420526,
+                    437.01754300000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Xuất bến: 15', ngày M4 / / 20",
+            "points": [
+                [
+                    133.331008,
+                    440.209369
+                ],
+                [
+                    611.28742,
+                    476.516244
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Giá tiền: 480x3",
+            "points": [
+                [
+                    130.136633,
+                    476.516244
+                ],
+                [
+                    479.534814,
+                    514.4190199999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày tháng năm 20",
+            "points": [
+                [
+                    307.95613,
+                    542.879343
+                ],
+                [
+                    641.234564,
+                    576.2603929999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NGƯỜI BÁN VÉ",
+            "points": [
+                [
+                    388.879953,
+                    582.245063
+                ],
+                [
+                    598.64307,
+                    615.360113
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tuấn Huế",
+            "points": [
+                [
+                    394.203889,
+                    618.719835
+                ],
+                [
+                    611.863256,
+                    670.230235
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_RECEIPT_022205.jpg",
+    "imageData": null,
+    "imageHeight": 725,
+    "imageWidth": 785
+}

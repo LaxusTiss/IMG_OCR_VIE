@@ -1,0 +1,4 @@
+prepared_data/
+runs/
+__pycache__/
+*.pyc

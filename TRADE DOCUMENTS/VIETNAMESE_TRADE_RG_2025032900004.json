@@ -1,0 +1,1338 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "###ample",
+            "points": [
+                [
+                    5.375106,
+                    6.054755
+                ],
+                [
+                    125.75185,
+                    34.645545
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "BỘ NÔNG NGHIỆP & PHÁT TRIỂN NÔNG THÔN",
+            "points": [
+                [
+                    60.841215,
+                    40.319964
+                ],
+                [
+                    237.664536,
+                    51.265892
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MINISTRY OF AGRICULTURE & RURAL DEVELOPMENT",
+            "points": [
+                [
+                    47.588187,
+                    57.325659
+                ],
+                [
+                    248.824987,
+                    64.780489
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    109.434247,
+                    68.716445
+                ],
+                [
+                    186.793095,
+                    77.470681
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PLAN PROTECTION DEPARTMENT",
+            "points": [
+                [
+                    91.568456,
+                    81.222496
+                ],
+                [
+                    203.676263,
+                    87.654179
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+            "points": [
+                [
+                    264.792389,
+                    42.418853
+                ],
+                [
+                    424.946382,
+                    52.205809
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "SOCIALIST REPUBLIC OF VIETNAM",
+            "points": [
+                [
+                    279.535596,
+                    56.050137
+                ],
+                [
+                    408.895313,
+                    64.333283
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Độc lập - Tự do - Hạnh phúc",
+            "points": [
+                [
+                    286.193813,
+                    67.622775
+                ],
+                [
+                    401.404815,
+                    78.24421000000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "INDEPENDENCE-FREEDOM HAPPINESS",
+            "points": [
+                [
+                    280.011176,
+                    81.890391
+                ],
+                [
+                    409.96538499999997,
+                    88.944921
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GIẤY CHÚNG NHẬN KIỂM DỊCH THỰC VẬT",
+            "points": [
+                [
+                    98.645354,
+                    93.133337
+                ],
+                [
+                    380.310745,
+                    111.382341
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PHYTOSANITARY CERTIFICATE",
+            "points": [
+                [
+                    142.513198,
+                    114.758342
+                ],
+                [
+                    335.12998,
+                    127.810537
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Gửi : Cơ quan Bảo vệ thực vật nước",
+            "points": [
+                [
+                    46.436478,
+                    136.074389
+                ],
+                [
+                    221.830522,
+                    148.262816
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TO: THE PLANT PROTECTION ORGANIZATION(S) OF",
+            "points": [
+                [
+                    46.386109,
+                    149.900936
+                ],
+                [
+                    241.432352,
+                    159.884298
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số (NO)",
+            "points": [
+                [
+                    438.547017,
+                    152.299688
+                ],
+                [
+                    474.822934,
+                    165.382781
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DIỄN GIẢI VỀ LÔ HÀNG (DESCRIPTION OF CONSIGNMENT)",
+            "points": [
+                [
+                    163.281386,
+                    167.674106
+                ],
+                [
+                    427.210831,
+                    180.758876
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1. Tên và địa chỉ người xuất khẩu:",
+            "points": [
+                [
+                    47.114125,
+                    186.567249
+                ],
+                [
+                    190.982795,
+                    195.567023
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NAME AND ADDRESS OF THE EXPORTER",
+            "points": [
+                [
+                    63.173966,
+                    196.994086
+                ],
+                [
+                    181.133994,
+                    203.80363
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    315.40126,
+                    187.145056
+                ],
+                [
+                    383.97695799999997,
+                    196.35242200000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PLACE OF ORIG###",
+            "points": [
+                [
+                    328.828661,
+                    200.764303
+                ],
+                [
+                    383.976958,
+                    208.437094
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phương tiên chuyên chở:",
+            "points": [
+                [
+                    315.59306,
+                    225.892736
+                ],
+                [
+                    428.86287899999996,
+                    235.196009
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DECLARED MEANS OF CONVEYANCE",
+            "points": [
+                [
+                    330.380141,
+                    235.992034
+                ],
+                [
+                    438.79567199999997,
+                    243.328916
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2. Tên và địa chỉ người nhận:",
+            "points": [
+                [
+                    47.28947,
+                    275.470232
+                ],
+                [
+                    171.464254,
+                    286.02033800000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DECLARED NAME AND ADDRESS OF THE CONSIGNEE",
+            "points": [
+                [
+                    62.692637,
+                    288.974386
+                ],
+                [
+                    217.040728,
+                    296.464946
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7. Cửa khẩu nhập:",
+            "points": [
+                [
+                    315.824107,
+                    276.108438
+                ],
+                [
+                    395.725362,
+                    286.378973
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DECLARED FOINT OF ENTRY:",
+            "points": [
+                [
+                    330.454052,
+                    287.203964
+                ],
+                [
+                    414.423247,
+                    294.320498
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###. Tên và khối lượng sản phẩm:",
+            "points": [
+                [
+                    314.363328,
+                    308.198308
+                ],
+                [
+                    447.24239,
+                    319.707523
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NAME OF PRODUCE AND QUANTITY DECLARED",
+            "points": [
+                [
+                    329.178699,
+                    321.856531
+                ],
+                [
+                    464.865166,
+                    330.07122300000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3 Số lượng và loại bao bì:",
+            "points": [
+                [
+                    45.438646,
+                    364.844142
+                ],
+                [
+                    156.934127,
+                    374.14741499999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NUMER AND DESCRIPTION OF PACKAGES:",
+            "points": [
+                [
+                    62.373416,
+                    375.176378
+                ],
+                [
+                    188.331962,
+                    381.913861
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ký ###",
+            "points": [
+                [
+                    45.464126,
+                    411.937467
+                ],
+                [
+                    114.47579200000001,
+                    421.877244
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    62.379191,
+                    424.667357
+                ],
+                [
+                    136.055562,
+                    431.68622999999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9. Tên khoa học của thực vật:",
+            "points": [
+                [
+                    314.643422,
+                    394.014573
+                ],
+                [
+                    439.152158,
+                    404.25951599999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "BOTANICAL NAME OF PLANTS",
+            "points": [
+                [
+                    329.490618,
+                    404.963011
+                ],
+                [
+                    414.43922599999996,
+                    411.951828
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nay chứng nhận rằng thực vật, sản phẩm thực vật hoặc vật thể thuộc diện kiểm dịch thực vật khác nêu trên đã được kiểm tra và hoặc",
+            "points": [
+                [
+                    43.835593,
+                    451.272005
+                ],
+                [
+                    543.40308,
+                    460.889959
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thử nghiệm theo quy trình thích hợp và được coi là không có đối tượng kiểm dịch thu vật của nước nhập khẩu cũng như phù hợp với",
+            "points": [
+                [
+                    43.842766,
+                    461.216145
+                ],
+                [
+                    543.147473,
+                    462.432726
+                ],
+                [
+                    542.723315,
+                    472.34742
+                ],
+                [
+                    44.795436,
+                    470.088656
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "yêu cầu kiểm dịch thực vật hiến hành của nước nhập khẩu.",
+            "points": [
+                [
+                    45.487472,
+                    470.833331
+                ],
+                [
+                    261.237205,
+                    480.750433
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "This is to certify that the plants, plant products or other regulated articles described herein have been inspected and/or tested according to",
+            "points": [
+                [
+                    45.699039,
+                    482.975975
+                ],
+                [
+                    540.96967,
+                    493.666736
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "appropriate official procedures and are considered to be free from the quarantine pests, specified by the importin racting party i",
+            "points": [
+                [
+                    44.900114,
+                    494.481068
+                ],
+                [
+                    541.497723,
+                    502.61127999999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "conform with the current phytosanitary requirements of the importing contracting party.",
+            "points": [
+                [
+                    44.5263,
+                    503.452337
+                ],
+                [
+                    353.100884,
+                    512.703968
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KHAI BÁO BỔ SUNG (ADDITIONAL DECLARATION)",
+            "points": [
+                [
+                    180.216889,
+                    517.283069
+                ],
+                [
+                    406.92855099999997,
+                    528.075713
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "XULY (DISINFESTATION AND/OR DISINFECTION TREATMENT)",
+            "points": [
+                [
+                    165.638554,
+                    552.046756
+                ],
+                [
+                    421.22652600000004,
+                    564.008466
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10. Ngày (DATE..",
+            "points": [
+                [
+                    45.427904,
+                    566.620976
+                ],
+                [
+                    106.000821,
+                    577.088799
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12. Tên thuốc (hoạt chất",
+            "points": [
+                [
+                    200.913304,
+                    568.91879
+                ],
+                [
+                    308.782896,
+                    579.3866129999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CHEMICAL (ve ingredent",
+            "points": [
+                [
+                    220.572382,
+                    580.918483
+                ],
+                [
+                    303.612814,
+                    588.5778690000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "14. Thời gian và nhiệt độ:",
+            "points": [
+                [
+                    354.610274,
+                    570.263595
+                ],
+                [
+                    461.568975,
+                    580.2968940000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DURATION AND TEMPERATURE:",
+            "points": [
+                [
+                    376.358814,
+                    581.1379
+                ],
+                [
+                    466.156561,
+                    588.104213
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "II. Phương pháp xử lý (TREATMENT A",
+            "points": [
+                [
+                    45.844086,
+                    604.904352
+                ],
+                [
+                    183.52142800000001,
+                    615.372175
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "13. Nóng dip coNCENTRATION)",
+            "points": [
+                [
+                    200.308238,
+                    606.946863
+                ],
+                [
+                    313.922364,
+                    617.491828
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "15. Thông tin thêm (ADDITIONAL INFORMATION)",
+            "points": [
+                [
+                    353.964262,
+                    608.256718
+                ],
+                [
+                    523.726962,
+                    617.4918279999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "16. thu của cơ quan",
+            "points": [
+                [
+                    45.157564,
+                    640.589767
+                ],
+                [
+                    125.52526599999999,
+                    650.3596200000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    62.256072,
+                    650.73863
+                ],
+                [
+                    111.415855,
+                    655.364289
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "17. Nơi cấp giấy",
+            "points": [
+                [
+                    200.732866,
+                    640.326626
+                ],
+                [
+                    271.952047,
+                    650.631015
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PLACE OF SUE",
+            "points": [
+                [
+                    216.986842,
+                    651.396758
+                ],
+                [
+                    266.967572,
+                    658.058816
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "19. Tên, chữ kỳ của cán bộ Kiểm dịch thực vật",
+            "points": [
+                [
+                    354.838813,
+                    642.785011
+                ],
+                [
+                    534.137921,
+                    654.020873
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "có thẩm quyền",
+            "points": [
+                [
+                    433.414777,
+                    655.205676
+                ],
+                [
+                    491.040089,
+                    664.598527
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NAME AND NATURE OF AUTHORIZED OFFICER",
+            "points": [
+                [
+                    378.56371,
+                    665.510076
+                ],
+                [
+                    518.861941,
+                    672.802407
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "IB. Ngày cấp:",
+            "points": [
+                [
+                    200.42668,
+                    689.809384
+                ],
+                [
+                    258.253764,
+                    698.9968680000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DATE QUED",
+            "points": [
+                [
+                    216.423707,
+                    700.329954
+                ],
+                [
+                    257.280972,
+                    706.779204
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Cục Bảo vệ thực vật hoặc viên chức Kiểm dịch thực vật của Việt Nam không có trách nhà hàng và tính hiệu chính liên quan đến gây chứng nhận này,",
+            "points": [
+                [
+                    44.031518,
+                    750.205203
+                ],
+                [
+                    501.006005,
+                    760.204437
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "No financial liability with respect to this certificate shall attach to Plant Protection Department of Vietnam or to any of its officers or representatives)",
+            "points": [
+                [
+                    43.283915,
+                    761.793124
+                ],
+                [
+                    542.217814,
+                    770.8994
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "SOCIALIST",
+            "points": [
+                [
+                    49.044991,
+                    678.799263
+                ],
+                [
+                    89.770099,
+                    655.797937
+                ],
+                [
+                    92.180088,
+                    667.751483
+                ],
+                [
+                    55.676921,
+                    686.497796
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "REPUBLIC",
+            "points": [
+                [
+                    92.197886,
+                    657.536526
+                ],
+                [
+                    132.771849,
+                    653.558686
+                ],
+                [
+                    132.999154,
+                    664.696637
+                ],
+                [
+                    92.652497,
+                    664.923942
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "OF",
+            "points": [
+                [
+                    135.663615,
+                    654.767902
+                ],
+                [
+                    149.21292,
+                    659.07263
+                ],
+                [
+                    144.484777,
+                    668.1055
+                ],
+                [
+                    133.828814,
+                    664.788743
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "VIETNAM",
+            "points": [
+                [
+                    150.735123,
+                    657.472418
+                ],
+                [
+                    184.909633,
+                    678.582438
+                ],
+                [
+                    172.699028,
+                    686.267435
+                ],
+                [
+                    145.630763,
+                    667.396499
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "PLANT",
+            "points": [
+                [
+                    51.644329,
+                    703.777461
+                ],
+                [
+                    61.023866,
+                    699.757659
+                ],
+                [
+                    81.926836,
+                    716.908814
+                ],
+                [
+                    74.423206,
+                    726.020364
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "QUARANTINE",
+            "points": [
+                [
+                    83.802743,
+                    717.578076
+                ],
+                [
+                    142.594734,
+                    719.994185
+                ],
+                [
+                    143.400104,
+                    731.269362
+                ],
+                [
+                    77.359785,
+                    728.853252
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "SERVICE",
+            "points": [
+                [
+                    143.765803,
+                    718.242369
+                ],
+                [
+                    175.0654,
+                    699.023318
+                ],
+                [
+                    184.217329,
+                    707.077016
+                ],
+                [
+                    145.779227,
+                    729.956838
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "CUC",
+            "points": [
+                [
+                    453.474771,
+                    74.086029
+                ],
+                [
+                    463.202691,
+                    60.142676
+                ],
+                [
+                    470.3365,
+                    66.627956
+                ],
+                [
+                    460.608579,
+                    80.247045
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "BAO",
+            "points": [
+                [
+                    464.082211,
+                    57.920718
+                ],
+                [
+                    479.786928,
+                    48.208591
+                ],
+                [
+                    485.056273,
+                    57.714077
+                ],
+                [
+                    470.384762,
+                    65.153154
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "VỆ",
+            "points": [
+                [
+                    483.545343,
+                    48.067447
+                ],
+                [
+                    498.300741,
+                    46.901013
+                ],
+                [
+                    496.142837,
+                    58.565359
+                ],
+                [
+                    486.169821,
+                    58.623681
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "THUC",
+            "points": [
+                [
+                    499.407755,
+                    47.472077
+                ],
+                [
+                    522.737757,
+                    59.582368
+                ],
+                [
+                    514.265476,
+                    67.641367
+                ],
+                [
+                    497.320913,
+                    58.239201
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "VAT",
+            "points": [
+                [
+                    525.476628,
+                    59.504336
+                ],
+                [
+                    534.137405,
+                    77.082506
+                ],
+                [
+                    522.71801,
+                    79.520355
+                ],
+                [
+                    516.046004,
+                    67.395267
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    459.207015,
+                    85.423879
+                ],
+                [
+                    464.743932,
+                    108.678931
+                ],
+                [
+                    454.334528,
+                    112.001081
+                ],
+                [
+                    448.797611,
+                    85.423879
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "PROTECTION",
+            "points": [
+                [
+                    466.408701,
+                    108.680693
+                ],
+                [
+                    501.518828,
+                    121.826192
+                ],
+                [
+                    504.680404,
+                    138.299664
+                ],
+                [
+                    448.604039,
+                    118.331819
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "DEPARTM",
+            "points": [
+                [
+                    501.770126,
+                    119.178214
+                ],
+                [
+                    526.766696,
+                    86.382127
+                ],
+                [
+                    540.702009,
+                    90.401929
+                ],
+                [
+                    511.365046,
+                    138.967737
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_TRADE_RG_2025032900004.jpg",
+    "imageData": null,
+    "imageHeight": 818,
+    "imageWidth": 587
+}

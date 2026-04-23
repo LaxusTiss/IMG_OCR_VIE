@@ -1,0 +1,778 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "muốn được chuyển khoản vay",
+            "points": [
+                [
+                    13.285614,
+                    23.054145
+                ],
+                [
+                    472.604491,
+                    47.257301999999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sang ngân hàng khác để giảm",
+            "points": [
+                [
+                    12.965781,
+                    55.8975
+                ],
+                [
+                    472.604491,
+                    47.257302
+                ],
+                [
+                    470.394028,
+                    69.175452
+                ],
+                [
+                    6.070514,
+                    73.564075
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "bớt số tiến lại phải trả.",
+            "points": [
+                [
+                    7.53215,
+                    76.00095
+                ],
+                [
+                    322.649618,
+                    71.290935
+                ],
+                [
+                    320.474984,
+                    97.681823
+                ],
+                [
+                    6.490207,
+                    103.140058
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Thế nhưng theo ghi nhận của",
+            "points": [
+                [
+                    36.213052,
+                    108.127862
+                ],
+                [
+                    475.10445400000003,
+                    133.701051
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tuổi Trẻ, việc này chỉ dễ với",
+            "points": [
+                [
+                    13.923438,
+                    139.864729
+                ],
+                [
+                    479.67945,
+                    164.826454
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "khách hàng có nhiều hơn một",
+            "points": [
+                [
+                    16.24128,
+                    167.553699
+                ],
+                [
+                    479.35622900000004,
+                    198.95365999999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tài sản thế chấp hoặc có sẵn tiền",
+            "points": [
+                [
+                    22.70583,
+                    201.274053
+                ],
+                [
+                    479.356228,
+                    232.27698500000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mặt để trả nhằm rút tài sản thế",
+            "points": [
+                [
+                    26.673152,
+                    234.234393
+                ],
+                [
+                    480.167661,
+                    267.890175
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "chấp. Còn với khách vay chỉ có",
+            "points": [
+                [
+                    27.74367,
+                    269.530326
+                ],
+                [
+                    483.230316,
+                    304.145822
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "một tài sản thế chấp duy nhất thì",
+            "points": [
+                [
+                    32.459062,
+                    304.832209
+                ],
+                [
+                    480.016584,
+                    338.852802
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "khá nan giải.",
+            "points": [
+                [
+                    31.70174,
+                    341.334872
+                ],
+                [
+                    210.355223,
+                    373.48980800000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Anh Nguyễn Trung Hải (Hà",
+            "points": [
+                [
+                    61.662713,
+                    376.571298
+                ],
+                [
+                    479.959485,
+                    410.73253900000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đông, Hà Nội) cho biết hôm",
+            "points": [
+                [
+                    32.168932,
+                    412.666194
+                ],
+                [
+                    479.95948599999997,
+                    444.89378
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7-9 có hỏi BIDV và một số ngân",
+            "points": [
+                [
+                    34.977871,
+                    448.29237
+                ],
+                [
+                    479.315772,
+                    483.566883
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hàng khác về thủ tục và lãi suất",
+            "points": [
+                [
+                    33.890241,
+                    486.581237
+                ],
+                [
+                    483.58853700000003,
+                    521.451467
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cho vay để có thể vay để trả 800",
+            "points": [
+                [
+                    36.465109,
+                    524.738717
+                ],
+                [
+                    482.880452,
+                    557.610819
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "triệu đồng mua nhà cho một",
+            "points": [
+                [
+                    515.027533,
+                    18.767691
+                ],
+                [
+                    965.2015819999999,
+                    40.673851
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngân hàng khác. Lãi suất hiện",
+            "points": [
+                [
+                    517.249307,
+                    42.269335
+                ],
+                [
+                    969.1998430000001,
+                    65.208423
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đang vay là 12,8%/năm dù đã",
+            "points": [
+                [
+                    517.37484,
+                    66.173547
+                ],
+                [
+                    973.8297759999999,
+                    98.70094399999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "được giảm 1%/năm so với hồi",
+            "points": [
+                [
+                    516.390578,
+                    99.328125
+                ],
+                [
+                    969.411953,
+                    132.81277
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đầu năm nhưng vẫn cao so với",
+            "points": [
+                [
+                    515.359827,
+                    135.625405
+                ],
+                [
+                    970.69938,
+                    161.173045
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thu nhập của anh. “Điều tôi",
+            "points": [
+                [
+                    519.90641,
+                    162.965259
+                ],
+                [
+                    971.14346,
+                    195.43416000000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "quan tâm là lãi vay và thủ tục",
+            "points": [
+                [
+                    522.006958,
+                    198.363971
+                ],
+                [
+                    968.568606,
+                    228.950849
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vay mới trả nợ cũ sẽ như thế",
+            "points": [
+                [
+                    522.273853,
+                    233.810854
+                ],
+                [
+                    969.840955,
+                    266.144963
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nào. Thế nhưng, thủ tục thì phải",
+            "points": [
+                [
+                    521.998686,
+                    267.830072
+                ],
+                [
+                    964.569894,
+                    301.34094899999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "làm lại như hồ sơ vay từ đầu mà",
+            "points": [
+                [
+                    521.224884,
+                    303.859119
+                ],
+                [
+                    964.569894,
+                    336.49831500000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "còn phức tạp hơn khi chờ định",
+            "points": [
+                [
+                    526.073599,
+                    341.15435
+                ],
+                [
+                    964.617029,
+                    372.996238
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "giá lại tài sản đảm bảo” - anh",
+            "points": [
+                [
+                    521.162772,
+                    376.090093
+                ],
+                [
+                    967.449368,
+                    414.11863700000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hải cho hay.",
+            "points": [
+                [
+                    520.675733,
+                    415.515198
+                ],
+                [
+                    697.268459,
+                    447.314164
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chị Phan Anh (quận Cầu Giấy,",
+            "points": [
+                [
+                    552.183542,
+                    449.700681
+                ],
+                [
+                    966.7094119999999,
+                    484.673386
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hà Nội) nói đang xem xét vay",
+            "points": [
+                [
+                    523.383903,
+                    486.671514
+                ],
+                [
+                    966.0013280000001,
+                    521.541744
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngân hàng khác để trả nợ khoản",
+            "points": [
+                [
+                    524.556664,
+                    523.344359
+                ],
+                [
+                    966.3105479999999,
+                    557.1119030000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phi phạt trả nợ trước hạn là rào cản",
+            "points": [
+                [
+                    59.22531,
+                    607.369909
+                ],
+                [
+                    803.435861,
+                    664.463022
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trong báo cáo đánh giá tác động của chính sách cho vay trả nợ",
+            "points": [
+                [
+                    92.210691,
+                    670.135393
+                ],
+                [
+                    939.48685,
+                    700.2522
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngân hàng khác mới phát hành, Công ty chứng khoán ACBS cho",
+            "points": [
+                [
+                    60.547717,
+                    702.584943
+                ],
+                [
+                    945.240849,
+                    735.625968
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rằng phần lớn các khoản cấp tín dụng có giá trị lớn cho khách",
+            "points": [
+                [
+                    62.808444,
+                    739.346607
+                ],
+                [
+                    939.682893,
+                    774.079358
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hàng cá nhân đều yêu cầu tài sản đảm bảo. Do đó, khách hàng",
+            "points": [
+                [
+                    67.12432,
+                    777.798016
+                ],
+                [
+                    940.9222090000001,
+                    810.860011
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vẫn cần phải tất toán trước hạn khoản vay cũ để có thể rút tài sản",
+            "points": [
+                [
+                    64.113478,
+                    811.55171
+                ],
+                [
+                    940.267999,
+                    843.594106
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đảm bảo tại ngân hàng cũ và sử dụng làm tài sản đảm bảo để đi",
+            "points": [
+                [
+                    62.811828,
+                    848.259451
+                ],
+                [
+                    937.772649,
+                    882.7044490000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vay tại ngân hàng mới.",
+            "points": [
+                [
+                    65.186651,
+                    888.179138
+                ],
+                [
+                    373.55988099999996,
+                    920.2645329999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "“Thông thường các ngân hàng sẽ áp dụng phí phạt từ 1-3% đối",
+            "points": [
+                [
+                    91.536892,
+                    923.069531
+                ],
+                [
+                    941.1756429999999,
+                    955.848339
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "với các khách hàng tất toán khoản vay trước hạn trong 1-5 năm",
+            "points": [
+                [
+                    61.917318,
+                    957.816179
+                ],
+                [
+                    940.366884,
+                    992.297695
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đầu. Điều này sẽ làm tăng chi phí chuyển đối đối với các khách",
+            "points": [
+                [
+                    59.995237,
+                    996.180032
+                ],
+                [
+                    940.366885,
+                    1029.979164
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hàng muốn vay ở ngân hàng mới để trả nợ trước hạn tại ngân",
+            "points": [
+                [
+                    61.81982,
+                    1034.546639
+                ],
+                [
+                    941.6213,
+                    1066.4045839999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hàng cũ. Bên cạnh đó, khoản vay mới thông thường sẽ phải kèm",
+            "points": [
+                [
+                    56.345993,
+                    1071.999767
+                ],
+                [
+                    942.875716,
+                    1106.598151
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "theo hợp đồng bảo hiểm mới và góp phần làm tăng thêm chi phí",
+            "points": [
+                [
+                    58.170615,
+                    1110.366297
+                ],
+                [
+                    944.130131,
+                    1145.535668
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đối với khách hàng”, báo cáo nêu.",
+            "points": [
+                [
+                    59.702584,
+                    1147.870479
+                ],
+                [
+                    524.990446,
+                    1181.035584
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_NEWSPAPER_032906.jpg",
+    "imageData": null,
+    "imageHeight": 1218,
+    "imageWidth": 996
+}

@@ -1,0 +1,922 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "27",
+            "points": [
+                [
+                    160.32209,
+                    75.325614
+                ],
+                [
+                    202.038213,
+                    111.438078
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tỷ số giới tính của trẻ em mới sinh phân theo vùng",
+            "points": [
+                [
+                    204.42858,
+                    76.096122
+                ],
+                [
+                    588.325789,
+                    95.81289699999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sex ratio at birth by region",
+            "points": [
+                [
+                    204.815183,
+                    98.519121
+                ],
+                [
+                    392.704452,
+                    117.076086
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ĐVT: Só bé trai/100 bé gái - Unit. Males births per 100 female births",
+            "points": [
+                [
+                    386.325495,
+                    131.03247
+                ],
+                [
+                    689.113304,
+                    145.916702
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2005",
+            "points": [
+                [
+                    433.346141,
+                    166.407856
+                ],
+                [
+                    460.515393,
+                    179.426456
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2010",
+            "points": [
+                [
+                    489.94875,
+                    166.407856
+                ],
+                [
+                    516.551976,
+                    179.426456
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2011",
+            "points": [
+                [
+                    547.137101,
+                    166.414699
+                ],
+                [
+                    572.266324,
+                    179.17261200000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2012",
+            "points": [
+                [
+                    604.741013,
+                    166.414699
+                ],
+                [
+                    629.4836329999999,
+                    178.786009
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sơ bộ",
+            "points": [
+                [
+                    656.545873,
+                    152.110372
+                ],
+                [
+                    687.087544,
+                    164.481682
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prel.",
+            "points": [
+                [
+                    663.118131,
+                    166.801302
+                ],
+                [
+                    686.70094,
+                    179.559215
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2013",
+            "points": [
+                [
+                    660.798511,
+                    181.105629
+                ],
+                [
+                    686.3143379999999,
+                    193.09033499999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CẢ NƯỚC - WHOLE COUNTRY",
+            "points": [
+                [
+                    163.312187,
+                    210.147666
+                ],
+                [
+                    348.04251899999997,
+                    226.613879
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "105,6",
+            "points": [
+                [
+                    430.888155,
+                    211.691373
+                ],
+                [
+                    460.733167,
+                    225.584741
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "111,2",
+            "points": [
+                [
+                    488.519902,
+                    212.720511
+                ],
+                [
+                    518.364914,
+                    225.58473999999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "111,9",
+            "points": [
+                [
+                    545.122511,
+                    211.691373
+                ],
+                [
+                    573.938385,
+                    226.613879
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "112,3",
+            "points": [
+                [
+                    602.239689,
+                    212.720511
+                ],
+                [
+                    630.540993,
+                    226.09930899999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "113,8",
+            "points": [
+                [
+                    658.327728,
+                    212.720511
+                ],
+                [
+                    688.17274,
+                    225.58473999999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đồng bằng sông Hồng - Red River Delta",
+            "points": [
+                [
+                    177.900697,
+                    240.285982
+                ],
+                [
+                    370.5634,
+                    256.580837
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "109,3",
+            "points": [
+                [
+                    431.269724,
+                    242.842038
+                ],
+                [
+                    460.025351,
+                    256.900345
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "116,2",
+            "points": [
+                [
+                    488.141964,
+                    242.842038
+                ],
+                [
+                    517.217098,
+                    256.580838
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "122,4",
+            "points": [
+                [
+                    545.014205,
+                    242.842038
+                ],
+                [
+                    572.491804,
+                    255.941824
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "120,9",
+            "points": [
+                [
+                    602.52546,
+                    242.522531
+                ],
+                [
+                    630.003059,
+                    255.941824
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "124,6",
+            "points": [
+                [
+                    658.758686,
+                    242.522531
+                ],
+                [
+                    686.2362850000001,
+                    256.261331
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trung du và miền núi phía Bắc",
+            "points": [
+                [
+                    177.58119,
+                    272.236679
+                ],
+                [
+                    325.512917,
+                    286.294986
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Northern midlands and mountain areas",
+            "points": [
+                [
+                    177.58119,
+                    287.253506
+                ],
+                [
+                    362.89523199999996,
+                    300.672799
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "101,8",
+            "points": [
+                [
+                    432.228245,
+                    287.253506
+                ],
+                [
+                    459.705844,
+                    300.99230600000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "109,9",
+            "points": [
+                [
+                    488.780978,
+                    287.573013
+                ],
+                [
+                    515.93907,
+                    300.353292
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "110,4",
+            "points": [
+                [
+                    545.333712,
+                    287.573013
+                ],
+                [
+                    573.769832,
+                    300.672799
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "108,2",
+            "points": [
+                [
+                    601.886446,
+                    287.573013
+                ],
+                [
+                    630.642073,
+                    300.033785
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "112,4",
+            "points": [
+                [
+                    659.3977,
+                    287.573013
+                ],
+                [
+                    686.555792,
+                    300.353292
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bắc Trung Bộ và duyên hải miền Trung",
+            "points": [
+                [
+                    178.284105,
+                    314.187944
+                ],
+                [
+                    363.853753,
+                    330.706454
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "North Central and Central coastal areas",
+            "points": [
+                [
+                    177.932647,
+                    332.8152
+                ],
+                [
+                    365.259583,
+                    345.116218
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "104,7",
+            "points": [
+                [
+                    432.036541,
+                    331.40937
+                ],
+                [
+                    458.395866,
+                    344.061846
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "114,3",
+            "points": [
+                [
+                    488.621225,
+                    331.057912
+                ],
+                [
+                    516.0349229999999,
+                    344.76476099999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "103,3",
+            "points": [
+                [
+                    546.260282,
+                    331.40937
+                ],
+                [
+                    573.3225219999999,
+                    345.46767700000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "112,1",
+            "points": [
+                [
+                    602.142051,
+                    330.706454
+                ],
+                [
+                    628.852834,
+                    344.413303
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "112,3",
+            "points": [
+                [
+                    659.078193,
+                    330.354997
+                ],
+                [
+                    686.8433490000001,
+                    344.764761
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tây Nguyên - Central Highlands",
+            "points": [
+                [
+                    177.58119,
+                    360.931814
+                ],
+                [
+                    330.465275,
+                    376.39595099999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "108,5",
+            "points": [
+                [
+                    432.387998,
+                    361.283271
+                ],
+                [
+                    460.50461099999995,
+                    374.99012
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "108,2",
+            "points": [
+                [
+                    488.621225,
+                    361.283271
+                ],
+                [
+                    516.737838,
+                    374.638662
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "104,3",
+            "points": [
+                [
+                    543.448621,
+                    361.283271
+                ],
+                [
+                    573.67398,
+                    374.28720500000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "98,4",
+            "points": [
+                [
+                    606.359543,
+                    361.634729
+                ],
+                [
+                    630.2586640000001,
+                    374.287205
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "114,1",
+            "points": [
+                [
+                    658.726736,
+                    361.634729
+                ],
+                [
+                    687.546265,
+                    374.287205
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đông Nam Bộ - South East",
+            "points": [
+                [
+                    177.58119,
+                    391.157173
+                ],
+                [
+                    309.02635699999996,
+                    406.62131
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "106,8",
+            "points": [
+                [
+                    432.387998,
+                    390.805715
+                ],
+                [
+                    459.45023799999996,
+                    404.86402200000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "105,9",
+            "points": [
+                [
+                    488.621225,
+                    391.508631
+                ],
+                [
+                    517.792211,
+                    406.26985299999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "108,8",
+            "points": [
+                [
+                    545.557367,
+                    391.157173
+                ],
+                [
+                    572.971065,
+                    404.864022
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "111,9",
+            "points": [
+                [
+                    602.142051,
+                    391.157173
+                ],
+                [
+                    629.9072070000001,
+                    405.566937
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "114,2",
+            "points": [
+                [
+                    659.781109,
+                    390.454258
+                ],
+                [
+                    687.897722,
+                    404.864022
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đồng bằng sông Cửu Long",
+            "points": [
+                [
+                    177.932647,
+                    419.976702
+                ],
+                [
+                    307.971984,
+                    436.143755
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mekong River Delta",
+            "points": [
+                [
+                    177.932647,
+                    436.84667
+                ],
+                [
+                    273.177675,
+                    448.444773
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "103,8",
+            "points": [
+                [
+                    432.036541,
+                    435.089381
+                ],
+                [
+                    459.098781,
+                    448.79623
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "108,3",
+            "points": [
+                [
+                    488.972683,
+                    435.089381
+                ],
+                [
+                    516.386381,
+                    449.499145
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "114,9",
+            "points": [
+                [
+                    545.557367,
+                    435.089381
+                ],
+                [
+                    572.619607,
+                    448.444772
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "111,5",
+            "points": [
+                [
+                    601.087678,
+                    435.089381
+                ],
+                [
+                    629.555749,
+                    449.147688
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "103,8",
+            "points": [
+                [
+                    659.781109,
+                    435.089381
+                ],
+                [
+                    687.897722,
+                    448.79623
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Dân số và Lao động - Population and Employment 79",
+            "points": [
+                [
+                    361.205244,
+                    885.0279
+                ],
+                [
+                    691.7951089999999,
+                    903.3284100000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_TABLE_007404.jpg",
+    "imageData": null,
+    "imageHeight": 1100,
+    "imageWidth": 850
+}

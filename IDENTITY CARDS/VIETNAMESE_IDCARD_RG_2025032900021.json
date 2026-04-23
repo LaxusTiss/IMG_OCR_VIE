@@ -1,0 +1,418 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+            "points": [
+                [
+                    356.759207,
+                    3.192334
+                ],
+                [
+                    818.3519739999999,
+                    31.731199
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Độc lập - Tự do - Hạnh phúc",
+            "points": [
+                [
+                    441.646247,
+                    32.919318
+                ],
+                [
+                    731.5651780000001,
+                    58.899463
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GIẤY CHỨNG MINH NHÂN DÂN",
+            "points": [
+                [
+                    373.302456,
+                    63.476118
+                ],
+                [
+                    810.3052720000001,
+                    100.501217
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số 321602326",
+            "points": [
+                [
+                    412.343645,
+                    110.567683
+                ],
+                [
+                    681.78104,
+                    144.55492900000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Việt Nam",
+            "points": [
+                [
+                    170.150622,
+                    35.76347
+                ],
+                [
+                    292.723902,
+                    163.73117100000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Họ tên:",
+            "points": [
+                [
+                    334.770419,
+                    178.685733
+                ],
+                [
+                    412.899658,
+                    202.983153
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NGUYỄN NGỌC CHÂU DUNG",
+            "points": [
+                [
+                    326.229774,
+                    198.476919
+                ],
+                [
+                    816.38426,
+                    243.334856
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sinh ngày....... 22-12-1999",
+            "points": [
+                [
+                    335.743414,
+                    257.387414
+                ],
+                [
+                    707.260211,
+                    292.55765499999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nguyên quán Bình Nhì",
+            "points": [
+                [
+                    337.229481,
+                    300.93367
+                ],
+                [
+                    718.405714,
+                    334.167535
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Gò Công Tây, Tiền Giang",
+            "points": [
+                [
+                    402.602122,
+                    342.690929
+                ],
+                [
+                    739.116509,
+                    380.354326
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nơi ĐKHK thường trú; 46/TNG",
+            "points": [
+                [
+                    337.595871,
+                    387.831757
+                ],
+                [
+                    748.245763,
+                    421.51593099999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bảo Thạnh, Ba Tri, Bến Tre",
+            "points": [
+                [
+                    391.589638,
+                    427.460199
+                ],
+                [
+                    742.301494,
+                    456.37974399999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Dân tộc.. Kinh",
+            "points": [
+                [
+                    138.724165,
+                    546.672857
+                ],
+                [
+                    364.87039200000004,
+                    585.902295
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tôn giáo.... Không",
+            "points": [
+                [
+                    484.866395,
+                    547.991504
+                ],
+                [
+                    757.494544,
+                    584.644319
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DẤU VẾT RIÊNG VÀ DỊ HÌNH",
+            "points": [
+                [
+                    493.989801,
+                    601.705063
+                ],
+                [
+                    812.998875,
+                    634.369871
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Seo chấm cách 4cm dưới sau",
+            "points": [
+                [
+                    407.375203,
+                    655.485042
+                ],
+                [
+                    810.538963,
+                    688.235821
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đuôi mắt trái",
+            "points": [
+                [
+                    409.521891,
+                    698.470456
+                ],
+                [
+                    587.219487,
+                    729.99308
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày 07 tháng 08 năm 2015",
+            "points": [
+                [
+                    430.629763,
+                    763.972032
+                ],
+                [
+                    823.0251900000001,
+                    799.997896
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GIÁM ĐỐC CA Tỉnh Bến Tre",
+            "points": [
+                [
+                    433.904848,
+                    806.957446
+                ],
+                [
+                    803.374714,
+                    836.842537
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nguyễn Văn Hoàng",
+            "points": [
+                [
+                    531.33843,
+                    949.832804
+                ],
+                [
+                    825.481481,
+                    993.2275960000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NGÓN TRỎ PHẢI",
+            "points": [
+                [
+                    383.463493,
+                    825.829048
+                ],
+                [
+                    407.858267,
+                    978.1316129999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NGÓN TRỎ TRÁI",
+            "points": [
+                [
+                    384.78208,
+                    618.143763
+                ],
+                [
+                    406.53959000000003,
+                    767.149725
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    589.700574,
+                    839.166978
+                ],
+                [
+                    816.070686,
+                    948.573164
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    203.010516,
+                    134.519143
+                ],
+                [
+                    256.75524,
+                    149.04010300000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    494.449096,
+                    891.311625
+                ],
+                [
+                    516.592713,
+                    887.740074
+                ],
+                [
+                    530.878918,
+                    937.027481
+                ],
+                [
+                    516.592713,
+                    946.313514
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_IDCARD_RG_2025032900021.jpg",
+    "imageData": null,
+    "imageHeight": 1000,
+    "imageWidth": 1000
+}

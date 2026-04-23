@@ -1,0 +1,346 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+            "points": [
+                [
+                    273.522106,
+                    35.81903
+                ],
+                [
+                    724.0589170000001,
+                    65.54686099999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Độc lập - Tự do - Hạnh phúc",
+            "points": [
+                [
+                    356.693992,
+                    65.24539
+                ],
+                [
+                    640.6987079999999,
+                    88.221172
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GIẤY CHỨNG MINH NHÂN DÂN",
+            "points": [
+                [
+                    288.154741,
+                    95.640778
+                ],
+                [
+                    717.597361,
+                    131.85244799999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "SỐ: 1634071111",
+            "points": [
+                [
+                    326.531552,
+                    141.078921
+                ],
+                [
+                    589.973354,
+                    172.096072
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Họ tên: NGUYỄN VĂN DU",
+            "points": [
+                [
+                    253.168401,
+                    181.624865
+                ],
+                [
+                    576.699866,
+                    225.643737
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sinh ngày: . 20/3/1996",
+            "points": [
+                [
+                    251.858227,
+                    274.862293
+                ],
+                [
+                    582.719268,
+                    309.319203
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nguyên quán: . TI-TRÀ XUÂN",
+            "points": [
+                [
+                    249.635811,
+                    311.737231
+                ],
+                [
+                    572.442646,
+                    352.199853
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TRÀ ĐỒNG-QUẢNG NGÃI",
+            "points": [
+                [
+                    352.402032,
+                    349.216677
+                ],
+                [
+                    634.7068859999999,
+                    393.345701
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nơi ĐKHK thường trú: 666/14/17",
+            "points": [
+                [
+                    250.844825,
+                    403.622323
+                ],
+                [
+                    661.620139,
+                    437.24544099999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ĐƯỜNG 3/2 P.14,Q.10,TP.HỒ CHÍ MINH",
+            "points": [
+                [
+                    258.765288,
+                    433.847682
+                ],
+                [
+                    749.5217,
+                    473.608403
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Dân tộc:.....Kinh Tôn giáo:.....Thiên chúa",
+            "points": [
+                [
+                    48.939427,
+                    563.790906
+                ],
+                [
+                    659.277157,
+                    595.2511
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DẤU VẾT RIÊNG VÀ DỊ HÌNH",
+            "points": [
+                [
+                    397.835935,
+                    607.522596
+                ],
+                [
+                    695.913417,
+                    638.775617
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    119.098086,
+                    162.552523
+                ],
+                [
+                    172.959676,
+                    175.851681
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Seo chấm c,2cm sau cánh mũi",
+            "points": [
+                [
+                    326.709141,
+                    664.044017
+                ],
+                [
+                    703.283464,
+                    695.8163380000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trái",
+            "points": [
+                [
+                    325.501462,
+                    703.888285
+                ],
+                [
+                    369.525598,
+                    729.87485
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày 13 tháng 06 năm 2011",
+            "points": [
+                [
+                    334.196177,
+                    770.437281
+                ],
+                [
+                    699.072008,
+                    798.9970059999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "\"GIÁM ĐỐC CA. TP Hồ Chí Minh",
+            "points": [
+                [
+                    338.875523,
+                    807.009966
+                ],
+                [
+                    710.536492,
+                    835.613284
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TIỂU TƯỚNG : Nguyễn Chí Thành",
+            "points": [
+                [
+                    397.835903,
+                    947.684816
+                ],
+                [
+                    724.223723,
+                    984.067101
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NGÓN TRỎ TRÁI",
+            "points": [
+                [
+                    290.302449,
+                    631.566571
+                ],
+                [
+                    310.084991,
+                    775.508208
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NGÓN TRỎ PHẢI",
+            "points": [
+                [
+                    288.041567,
+                    829.015348
+                ],
+                [
+                    310.08499,
+                    972.203366
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    88.074038,
+                    425.875852
+                ],
+                [
+                    125.609178,
+                    434.833596
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_IDCARD_RG_2025032900018.jpg",
+    "imageData": null,
+    "imageHeight": 1024,
+    "imageWidth": 790
+}

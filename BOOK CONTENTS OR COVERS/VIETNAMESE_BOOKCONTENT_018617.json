@@ -1,0 +1,746 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "SỐNG KHÔN NGOAN TRƯỚC MẶT",
+            "points": [
+                [
+                    316.234522,
+                    201.596815
+                ],
+                [
+                    957.2706620000001,
+                    252.47269899999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "THIÊN CHÚA",
+            "points": [
+                [
+                    512.106676,
+                    255.016493
+                ],
+                [
+                    763.942303,
+                    298.260995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chúa Nhật Tuần XXXII - Mùa Thường Niên",
+            "points": [
+                [
+                    328.953493,
+                    305.892377
+                ],
+                [
+                    939.464103,
+                    344.04929000000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(Kn 6:12-16; 1 Tx 4:13-18; Mt 25:1-13)",
+            "points": [
+                [
+                    346.760053,
+                    346.593085
+                ],
+                [
+                    921.6575439999999,
+                    384.749998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    1073.826174,
+                    261.020046
+                ],
+                [
+                    1337.969249,
+                    307.000266
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    1134.824726,
+                    307.432028
+                ],
+                [
+                    1281.968933,
+                    337.154282
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ai trong chúng ta cũng muốn được xem là người",
+            "points": [
+                [
+                    281.490015,
+                    421.397942
+                ],
+                [
+                    989.4279430000001,
+                    460.57237299999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "khôn ngoan. Nhiều người lấy sự khôn ngoan của",
+            "points": [
+                [
+                    278.691841,
+                    463.370547
+                ],
+                [
+                    989.427942,
+                    496.948631
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mình giúp người khác; nhưng cũng có người trở",
+            "points": [
+                [
+                    281.490015,
+                    505.343151
+                ],
+                [
+                    992.226116,
+                    541.7194079999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nên kiêu ngạo vì thấy mình khôn ngoan hơn",
+            "points": [
+                [
+                    281.490015,
+                    544.517582
+                ],
+                [
+                    992.226116,
+                    580.893839
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "người khác. Lời Chúa hôm nay đưa chúng ta vào",
+            "points": [
+                [
+                    278.691841,
+                    583.692013
+                ],
+                [
+                    986.6297690000001,
+                    622.866444
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thế giới của sự khôn ngoan mà Thiên Chúa muốn",
+            "points": [
+                [
+                    275.893668,
+                    625.664617
+                ],
+                [
+                    986.6297689999999,
+                    659.242701
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mỗi người chúng ta phải chiếm hữu. Bài đọc 1 trích từ sách Khôn Ngoan trình bày Đức",
+            "points": [
+                [
+                    278.691841,
+                    662.040874
+                ],
+                [
+                    1560.255363,
+                    695.618958
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Khôn Ngoan không phải là một “kiến thức” hay một cái gì đó mà là “Một Ai Đó.” Tác giả",
+            "points": [
+                [
+                    275.893668,
+                    704.013479
+                ],
+                [
+                    1554.6590159999998,
+                    740.389736
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sách Khôn Ngoan chỉ ra những điều sau sẽ xảy ra cho những người có Đức Khôn Ngoan:",
+            "points": [
+                [
+                    278.691841,
+                    743.18791
+                ],
+                [
+                    1560.255363,
+                    779.564167
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(1) nhìn thấy Đức Khôn Ngoan nếu có lòng yêu mến; (2) sẽ gặp Đức Khôn Ngoan và không",
+            "points": [
+                [
+                    278.691841,
+                    782.36234
+                ],
+                [
+                    1557.457189,
+                    815.940424
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phải vất vả nếu tìm kiếm; (3) được Đức Khôn Ngoan tỏ mình cho biết nếu có lòng khao",
+            "points": [
+                [
+                    278.691841,
+                    821.536771
+                ],
+                [
+                    1554.6590150000002,
+                    855.114855
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "khát; (4) đạt được sự minh mẫn toàn hảo nếu suy niệm về Đức Khôn Ngoan; (5) sẽ mau",
+            "points": [
+                [
+                    278.691841,
+                    857.913028
+                ],
+                [
+                    1557.457189,
+                    897.0874590000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trút được mọi lo âu nếu vất vả vì Đức Khôn Ngoan; (6) sẽ được Đức Khôn Ngoan tìm kiếm",
+            "points": [
+                [
+                    275.893668,
+                    902.683806
+                ],
+                [
+                    1551.860842,
+                    939.060063
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nếu sống ngay lành. Tóm lại, những người có Đức Khôn Ngoan [hay có Chúa ở cùng] sẽ",
+            "points": [
+                [
+                    278.691841,
+                    941.858237
+                ],
+                [
+                    1563.0535360000001,
+                    975.436321
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thành công trong mọi việc mình làm (x. Kn 6:12-16). Chúng ta đang tìm kiếm loại khôn",
+            "points": [
+                [
+                    275.893668,
+                    981.032668
+                ],
+                [
+                    1554.6590159999998,
+                    1017.408925
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngoan nào: Khôn ngoan trước mặt người đời hay khôn ngoan trước mặt. Thiên Chúa? |",
+            "points": [
+                [
+                    275.893668,
+                    1023.005272
+                ],
+                [
+                    1512.686412,
+                    1059.381529
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thánh Phaolô trong bài đọc 2 nói cho chúng ta biết về sự khôn ngoan được tìm thấy nơi",
+            "points": [
+                [
+                    275.893668,
+                    1098.55596
+                ],
+                [
+                    1560.255363,
+                    1137.7303909999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đức Giêsu Kitô khi chiêm ngưỡng mầu nhiệm vượt qua của Ngài. Cốt lõi của sự khôn",
+            "points": [
+                [
+                    275.893668,
+                    1140.528565
+                ],
+                [
+                    1557.4571899999999,
+                    1176.904822
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngoan này nằm ở niềm hy vọng vào sự sống lại: “Thưa anh em, về những ai đã an giấc",
+            "points": [
+                [
+                    278.691841,
+                    1182.501169
+                ],
+                [
+                    1557.457189,
+                    1213.2810789999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngàn thu, chúng tôi không muốn để anh em chẳng hay biết gì, hầu anh em khỏi buồn phiền",
+            "points": [
+                [
+                    275.893668,
+                    1221.6756
+                ],
+                [
+                    1557.4571899999999,
+                    1258.051857
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "như những người khác, là những người không có niềm hy vọng. Vì nếu chúng ta tin rằng",
+            "points": [
+                [
+                    275.893668,
+                    1260.850031
+                ],
+                [
+                    1557.4571899999999,
+                    1297.2262879999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đức Giêsu đã chết và đã sống lại, thì chúng ta cũng tin rằng những người đã an giấc trong",
+            "points": [
+                [
+                    278.691841,
+                    1297.226288
+                ],
+                [
+                    1560.255363,
+                    1336.400719
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đức Giêsu, sẽ được Thiên Chúa đưa về cùng Đức Giêsu” (1 Tx 4:13-14). Sự khôn ngoan",
+            "points": [
+                [
+                    278.691841,
+                    1336.400719
+                ],
+                [
+                    1554.6590150000002,
+                    1372.7769759999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "của người Kitô giáo giúp họ biết rằng cuộc sống của họ không kết thúc ở trên trần thế này.",
+            "points": [
+                [
+                    281.490015,
+                    1375.575149
+                ],
+                [
+                    1560.255363,
+                    1411.951406
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vì vậy, họ không chỉ lo thu gom, tích trữ một kho tàng dưới đất nhưng tìm cách để sử dụng",
+            "points": [
+                [
+                    278.691841,
+                    1414.74958
+                ],
+                [
+                    1557.457189,
+                    1453.9240109999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "những của cải trần thế cách xứng hợp hầu tích trữ cho mình một kho tàng ở trên trời. Tóm",
+            "points": [
+                [
+                    281.490015,
+                    1453.924011
+                ],
+                [
+                    1557.4571890000002,
+                    1490.300268
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lại, sự khôn ngoan của chúng ta là sự mong ước được ở mãi mãi bên Chúa. Khao khát này",
+            "points": [
+                [
+                    278.691841,
+                    1493.098442
+                ],
+                [
+                    1557.457189,
+                    1529.4746989999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "giúp chúng ta sống từng ngày sống của mình với niềm vui và tĩnh thức như năm cô gái",
+            "points": [
+                [
+                    281.490015,
+                    1535.071046
+                ],
+                [
+                    1560.255363,
+                    1574.245477
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "khôn ngoan trong bài Tin Mừng hôm nay.",
+            "points": [
+                [
+                    278.691841,
+                    1574.245477
+                ],
+                [
+                    883.0973449999999,
+                    1613.4199079999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bài Tin Mừg hôm nay thuật lại cho chúng ta dụ ngôn Mười Trinh Nữ. Dụ ngôn này được",
+            "points": [
+                [
+                    281.872491,
+                    1654.193086
+                ],
+                [
+                    1558.5475700000002,
+                    1688.59451
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "xem là dụ ngôn bổ xung cho dụ ngôn đầy tớ trung thành và không trung thành trong Mt",
+            "points": [
+                [
+                    279.961301,
+                    1692.416891
+                ],
+                [
+                    1554.72519,
+                    1728.7295060000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "24:45-51. Nó bổ sung theo nghĩa là dụ ngôn trước nhìn vấn đề từ khía cạnh nam nhi, còn",
+            "points": [
+                [
+                    279.961301,
+                    1736.374266
+                ],
+                [
+                    1554.72519,
+                    1768.8645000000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dụ ngôn này nhìn từ khía cạnh nữ nhi. Dụ ngôn này chỉ một phần mang tính hình tượng.",
+            "points": [
+                [
+                    279.961301,
+                    1774.598071
+                ],
+                [
+                    1554.72519,
+                    1807.088305
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đây là một câu chuyện được Thánh Matthêu phát triển từ yếu tố tìm thấy trong Tin Mừng",
+            "points": [
+                [
+                    278.050111,
+                    1814.733066
+                ],
+                [
+                    1554.72519,
+                    1851.045681
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Luca [12:35-38] và thêm vào đó giáo huấn tổng quát về cánh chung của Chúa Giêsu. Theo",
+            "points": [
+                [
+                    279.961301,
+                    1854.868061
+                ],
+                [
+                    1560.458761,
+                    1887.358295
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "các học giả Kinh Thánh, chúng ta không thể tái thiết lại bối cảnh cụ thể của đám cưới.",
+            "points": [
+                [
+                    278.050111,
+                    1895.003056
+                ],
+                [
+                    1554.72519,
+                    1925.5821
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Những câu hỏi phải đối diện như: Có mười cô trinh nữ đính hôn với một chàng rể sao?",
+            "points": [
+                [
+                    279.961301,
+                    1927.49329
+                ],
+                [
+                    1554.72519,
+                    1967.6282849999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chàng rể ở đâu? Nhưng theo truyền thống Kinh Thánh, hình ảnh cưới thường được sử",
+            "points": [
+                [
+                    281.872491,
+                    1971.450665
+                ],
+                [
+                    1554.72519,
+                    2009.6744700000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dụng để áp dụng cho mối tương quan giữa Thiên Chúa và dân Ngài (x. Mt 19:14-15; 22:1-",
+            "points": [
+                [
+                    278.050111,
+                    2011.58566
+                ],
+                [
+                    1554.72519,
+                    2045.9870839999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "14).",
+            "points": [
+                [
+                    278.050111,
+                    2051.720655
+                ],
+                [
+                    341.119389,
+                    2086.122079
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_BOOKCONTENT_018617.jpg",
+    "imageData": null,
+    "imageHeight": 2376,
+    "imageWidth": 1836
+}

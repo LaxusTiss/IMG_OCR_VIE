@@ -1,0 +1,1146 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "BỘ NÔNG NGHIỆP",
+            "points": [
+                [
+                    68.65572,
+                    16.506582
+                ],
+                [
+                    209.724522,
+                    34.772493
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "VÀ PHÁT TRIỂN NÔNG THÔN",
+            "points": [
+                [
+                    18.905768,
+                    35.664468
+                ],
+                [
+                    246.287029,
+                    53.280905000000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TỔNG CỤC THUỶ SẢN",
+            "points": [
+                [
+                    49.416274,
+                    55.287845
+                ],
+                [
+                    228.41499299999998,
+                    74.688232
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số: 2758/GP-TCTS-TTKN",
+            "points": [
+                [
+                    41.625103,
+                    93.301747
+                ],
+                [
+                    242.299714,
+                    113.05402600000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+            "points": [
+                [
+                    285.519219,
+                    16.088278
+                ],
+                [
+                    628.405609,
+                    35.571205
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Độc lập - Tự do - Hạnh phúc",
+            "points": [
+                [
+                    348.644743,
+                    38.713614
+                ],
+                [
+                    567.432087,
+                    55.323485
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hà Nội, ngày 18 tháng 10 năm 2013",
+            "points": [
+                [
+                    330.711354,
+                    97.611325
+                ],
+                [
+                    606.437208,
+                    119.51839299999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GIẤY PHÉP",
+            "points": [
+                [
+                    285.29093,
+                    157.14159
+                ],
+                [
+                    377.113645,
+                    174.68388900000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NHẬP KHẨU HÀNG HÓA CHUYÊN NGÀNH THỦY SẢN",
+            "points": [
+                [
+                    114.697081,
+                    175.387654
+                ],
+                [
+                    545.647172,
+                    197.00321399999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Căn cứ Thông tư số 88/2011/TT-BNNPTNT ngày 28/12/2011 của Bộ Nông",
+            "points": [
+                [
+                    85.377255,
+                    234.57913
+                ],
+                [
+                    620.585226,
+                    254.246188
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nghiệp và PTNT hướng dẫn thực hiện Nghị định số 12/2006/NĐ-CP ngày 23/01/2006",
+            "points": [
+                [
+                    40.25102,
+                    255.761433
+                ],
+                [
+                    620.417715,
+                    254.586619
+                ],
+                [
+                    619.822297,
+                    270.030082
+                ],
+                [
+                    39.379811,
+                    274.883097
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "của Chính phủ Quy định chi tiết thi hành Luật Thương mại về hoạt động mua bán hàng",
+            "points": [
+                [
+                    39.660855,
+                    276.337172
+                ],
+                [
+                    621.148284,
+                    272.074979
+                ],
+                [
+                    620.70478,
+                    290.992686
+                ],
+                [
+                    40.796963,
+                    291.739814
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "hoá quốc tế và các hoạt động đại lý, mua, bán, gia công và quá cảnh hàng hoá với",
+            "points": [
+                [
+                    40.518246,
+                    293.32833
+                ],
+                [
+                    622.13724,
+                    292.538252
+                ],
+                [
+                    621.454245,
+                    308.365179
+                ],
+                [
+                    35.356886,
+                    313.166724
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "nước ngoài trong lĩnh vực nông nghiệp, lâm nghiệp và thuỷ sản;",
+            "points": [
+                [
+                    41.726905,
+                    314.92976
+                ],
+                [
+                    472.158635,
+                    312.165859
+                ],
+                [
+                    469.255706,
+                    330.090447
+                ],
+                [
+                    37.81984,
+                    333.506851
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Căn cứ Thông tư số 22/2011/TT-BTNMT ngày 01/7/2011 của Bộ Tài nguyên",
+            "points": [
+                [
+                    86.508393,
+                    337.903388
+                ],
+                [
+                    624.604234,
+                    338.179878
+                ],
+                [
+                    621.942306,
+                    357.218275
+                ],
+                [
+                    84.75079,
+                    356.516529
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "và Môi trường về việc Quy định tiêu chí xác định loài ngoại lai xâm hại và ban hành",
+            "points": [
+                [
+                    42.168282,
+                    357.632707
+                ],
+                [
+                    622.649556,
+                    359.168264
+                ],
+                [
+                    622.177314,
+                    375.363508
+                ],
+                [
+                    41.701411,
+                    377.126048
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Danh mục loài ngoại lai xâm hại;",
+            "points": [
+                [
+                    43.14966,
+                    379.92977
+                ],
+                [
+                    266.522243,
+                    397.155971
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Xét hồ sơ kèm theo đơn xin nhập khẩu hàng hoá chuyên ngành thuỷ sản số",
+            "points": [
+                [
+                    88.28901,
+                    402.947498
+                ],
+                [
+                    623.698744,
+                    400.452106
+                ],
+                [
+                    622.351382,
+                    421.363269
+                ],
+                [
+                    86.267061,
+                    423.065201
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "15/2013/CVCP-KD ngày 07/10/2013 của Công ty TNHH sản xuất giống thủy sản Tuấn",
+            "points": [
+                [
+                    43.57673,
+                    425.177827
+                ],
+                [
+                    622.324335,
+                    422.096735
+                ],
+                [
+                    622.037377,
+                    443.010226
+                ],
+                [
+                    45.120108,
+                    445.154532
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Hà;",
+            "points": [
+                [
+                    41.847319,
+                    447.103446
+                ],
+                [
+                    66.53064599999999,
+                    461.814935
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Theo đề nghị của Giám đốc Trung tâm Khảo nghiệm, Kiểm nghiệm, Kiểm định nuôi",
+            "points": [
+                [
+                    88.369152,
+                    469.231578
+                ],
+                [
+                    624.847775,
+                    466.909752
+                ],
+                [
+                    624.439815,
+                    486.290283
+                ],
+                [
+                    88.227131,
+                    489.112371
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "trồng thuỷ sản tại Phiếu thẩm định hồ sơ xin nhập khẩu số 2755TTKN-PKN ngày",
+            "points": [
+                [
+                    41.59903,
+                    489.898444
+                ],
+                [
+                    626.047259,
+                    488.737335
+                ],
+                [
+                    620.515093,
+                    509.201649
+                ],
+                [
+                    42.246756,
+                    507.907014
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Tổng cục Thuỷ sản đồng ý cho:",
+            "points": [
+                [
+                    88.570034,
+                    537.27195
+                ],
+                [
+                    312.020057,
+                    556.3059619999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Tên cơ sở nhập khẩu: Công ty TNHH sản xuất giống thủy sản Tuấn Hà;",
+            "points": [
+                [
+                    88.621294,
+                    562.593843
+                ],
+                [
+                    563.612299,
+                    559.806405
+                ],
+                [
+                    562.938618,
+                    582.741228
+                ],
+                [
+                    88.565518,
+                    582.55903
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "- Địa chỉ: xã Nhơn Hải, huyện Ninh Hải, tỉnh Ninh Thuận;",
+            "points": [
+                [
+                    89.745901,
+                    590.650214
+                ],
+                [
+                    482.406408,
+                    608.921072
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Điện thoại: 0616.259512",
+            "points": [
+                [
+                    89.351357,
+                    619.734747
+                ],
+                [
+                    267.385075,
+                    638.0556839999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Fax: 0613.921512;",
+            "points": [
+                [
+                    370.354518,
+                    618.32921
+                ],
+                [
+                    497.14357199999995,
+                    635.567533
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nước xuất",
+            "points": [
+                [
+                    468.138865,
+                    684.37796
+                ],
+                [
+                    543.756944,
+                    702.575998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "khẩu",
+            "points": [
+                [
+                    488.225159,
+                    704.293037
+                ],
+                [
+                    520.31687,
+                    723.487156
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số lượng",
+            "points": [
+                [
+                    557.063126,
+                    684.914947
+                ],
+                [
+                    615.979583,
+                    705.458171
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(сon)",
+            "points": [
+                [
+                    568.331969,
+                    706.745959
+                ],
+                [
+                    604.343274,
+                    723.241858
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    502.678683,
+                    655.479879
+                ],
+                [
+                    497.779185,
+                    681.542179
+                ],
+                [
+                    486.755313,
+                    681.235563
+                ],
+                [
+                    491.042374,
+                    651.800496
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "NGHIỆP",
+            "points": [
+                [
+                    494.31828,
+                    649.825042
+                ],
+                [
+                    504.512927,
+                    655.67475
+                ],
+                [
+                    527.326178,
+                    632.005101
+                ],
+                [
+                    517.948464,
+                    623.197717
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "NAPHAT###",
+            "points": [
+                [
+                    528.999399,
+                    633.071247
+                ],
+                [
+                    563.224183,
+                    634.137398
+                ],
+                [
+                    569.156481,
+                    621.343596
+                ],
+                [
+                    520.367143,
+                    615.93669
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "TRIỂN",
+            "points": [
+                [
+                    564.163276,
+                    632.884824
+                ],
+                [
+                    585.280143,
+                    649.710805
+                ],
+                [
+                    595.737716,
+                    642.666598
+                ],
+                [
+                    573.681744,
+                    622.866665
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    586.247404,
+                    650.848999
+                ],
+                [
+                    594.05306,
+                    645.786514
+                ],
+                [
+                    604.164932,
+                    673.85222
+                ],
+                [
+                    593.698257,
+                    675.894977
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Thái Lan",
+            "points": [
+                [
+                    475.31629,
+                    784.306055
+                ],
+                [
+                    535.800705,
+                    798.752943
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2.400",
+            "points": [
+                [
+                    566.939599,
+                    783.32658
+                ],
+                [
+                    606.3115290000001,
+                    797.691867
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nhà sản xuất",
+            "points": [
+                [
+                    359.331097,
+                    694.20448
+                ],
+                [
+                    448.908369,
+                    715.213717
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Charoen",
+            "points": [
+                [
+                    377.264485,
+                    745.91953
+                ],
+                [
+                    433.664988,
+                    761.003092
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Pokphand",
+            "points": [
+                [
+                    370.244742,
+                    764.681176
+                ],
+                [
+                    439.060427,
+                    781.684387
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Foods Piblic",
+            "points": [
+                [
+                    362.324012,
+                    783.739242
+                ],
+                [
+                    447.448655,
+                    798.666865
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Company",
+            "points": [
+                [
+                    373.306363,
+                    803.50643
+                ],
+                [
+                    438.143315,
+                    821.2882920000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Limite",
+            "points": [
+                [
+                    381.824529,
+                    823.154058
+                ],
+                [
+                    428.256155,
+                    837.851697
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "40-45",
+            "points": [
+                [
+                    289.683063,
+                    784.14622
+                ],
+                [
+                    330.21527000000003,
+                    800.647692
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(g/con)",
+            "points": [
+                [
+                    284.56087,
+                    709.443578
+                ],
+                [
+                    334.056935,
+                    727.729
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Kích cỡ",
+            "points": [
+                [
+                    282.556527,
+                    687.367283
+                ],
+                [
+                    336.0056,
+                    703.9245070000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tên khoa",
+            "points": [
+                [
+                    199.525114,
+                    700.86495
+                ],
+                [
+                    264.969853,
+                    718.501665
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "học",
+            "points": [
+                [
+                    219.163593,
+                    720.934317
+                ],
+                [
+                    245.48321199999998,
+                    738.520349
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tên loài",
+            "points": [
+                [
+                    146.683412,
+                    674.308522
+                ],
+                [
+                    203.979197,
+                    691.8945540000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tên tiếng Việt",
+            "points": [
+                [
+                    85.743373,
+                    707.96018
+                ],
+                [
+                    184.745629,
+                    730.107431
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TT",
+            "points": [
+                [
+                    51.862565,
+                    699.819171
+                ],
+                [
+                    73.50119699999999,
+                    714.585145
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Được phép nhập khẩu đối tượng thủy sản sau:",
+            "points": [
+                [
+                    89.143034,
+                    643.515827
+                ],
+                [
+                    399.390654,
+                    663.023238
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tôm thẻ chân",
+            "points": [
+                [
+                    89.937755,
+                    775.472593
+                ],
+                [
+                    183.150709,
+                    791.232617
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trắng bố mẹ",
+            "points": [
+                [
+                    94.837254,
+                    792.888337
+                ],
+                [
+                    176.720118,
+                    811.4692249999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    57.846045,
+                    785.529571
+                ],
+                [
+                    68.31871699999999,
+                    800.12446
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Penaeus",
+            "points": [
+                [
+                    202.523222,
+                    776.476075
+                ],
+                [
+                    261.562174,
+                    791.070964
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vannamei",
+            "points": [
+                [
+                    200.563425,
+                    795.11829
+                ],
+                [
+                    267.07411,
+                    809.467882
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Cửa khẩu nhập khẩu: Sân bay Tân Sơn Nhất;",
+            "points": [
+                [
+                    91.906667,
+                    850.158091
+                ],
+                [
+                    405.81507,
+                    871.6021460000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Thời gian nhập khẩu: từ ngày 01/11/2013 đến ngày 31/12/2013;",
+            "points": [
+                [
+                    92.111555,
+                    880.61971
+                ],
+                [
+                    532.539298,
+                    874.987842
+                ],
+                [
+                    531.724144,
+                    897.433614
+                ],
+                [
+                    91.214906,
+                    899.066034
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "- Mục đích nhập khẩu: sản xuất tôm giống;",
+            "points": [
+                [
+                    92.926734,
+                    904.616288
+                ],
+                [
+                    382.224898,
+                    925.88841
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "48./10/2013 về việc nhập khẩu tôm thẻ chân trắng (Penaeus vannamei) bố mẹ,",
+            "points": [
+                [
+                    45.97872,
+                    507.921088
+                ],
+                [
+                    556.56478,
+                    507.782
+                ],
+                [
+                    554.838453,
+                    525.978982
+                ],
+                [
+                    39.140425,
+                    529.253826
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_TRADE_RG_2025032900002.jpg",
+    "imageData": null,
+    "imageHeight": 938,
+    "imageWidth": 663
+}

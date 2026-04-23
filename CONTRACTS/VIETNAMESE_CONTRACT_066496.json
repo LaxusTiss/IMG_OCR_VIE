@@ -1,0 +1,634 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Sản phẩm bảo hiểm nhân thọ liên kết chung đóng phí định kỳ",
+            "points": [
+                [
+                    261.115234,
+                    2051.013916
+                ],
+                [
+                    942.945373,
+                    2082.6960449999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "06/27",
+            "points": [
+                [
+                    1365.958984,
+                    2053.778076
+                ],
+                [
+                    1434.3023680000001,
+                    2081.8125
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "V3_072020",
+            "points": [
+                [
+                    1474.687134,
+                    1940.536133
+                ],
+                [
+                    1500.0338140000001,
+                    2042.959229
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sử dụng trái phép chất ma túy, chất kích thích; điều khiển các phương tiện",
+            "points": [
+                [
+                    443.671428,
+                    238.230073
+                ],
+                [
+                    1434.0709259999999,
+                    275.685693
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "giao thông với nồng độ cồn trong máu vượt quá mức cho phép theo quy",
+            "points": [
+                [
+                    443.507401,
+                    278.191573
+                ],
+                [
+                    1438.466327,
+                    313.568796
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "định của pháp luật hiện hành; hoặc",
+            "points": [
+                [
+                    446.597146,
+                    317.675225
+                ],
+                [
+                    908.471494,
+                    350.75568400000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hành vi vi phạm pháp luật (theo kết luận của cơ quan Nhà nước có thẩm",
+            "points": [
+                [
+                    444.119026,
+                    371.233167
+                ],
+                [
+                    1435.502752,
+                    403.24111899999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "quyền) của Bên mua bảo hiểm, Người được bảo hiểm và/hoặc người nhận",
+            "points": [
+                [
+                    446.642695,
+                    409.137392
+                ],
+                [
+                    1434.451221,
+                    444.30395899999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "quyền lợi bảo hiểm.",
+            "points": [
+                [
+                    445.123921,
+                    446.934634
+                ],
+                [
+                    705.967447,
+                    481.081633
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trong trường hợp Người được bảo hiểm tử vong thuộc một trong các trường hợp",
+            "points": [
+                [
+                    348.499919,
+                    501.735669
+                ],
+                [
+                    1435.7833150000001,
+                    534.3964
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "loại trừ nêu trên, Prudential sẽ hoàn trả cho Bên mua bảo hiểm khoản phí bảo",
+            "points": [
+                [
+                    351.275954,
+                    537.870948
+                ],
+                [
+                    1435.783314,
+                    572.616429
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hiểm đã đóng, không có lãi, sau khi trừ chi phí khám, xét nghiệm y khoa, nếu có.",
+            "points": [
+                [
+                    350.813288,
+                    574.385294
+                ],
+                [
+                    1393.932368,
+                    607.4460750000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5.  THỜI HẠN CÂN NHẮC",
+            "points": [
+                [
+                    254.564184,
+                    642.013789
+                ],
+                [
+                    652.739834,
+                    679.35154
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trong vòng 21 ngày kể từ ngày Bên mua bảo hiểm nhận được Hợp đồng bảo hiểm,",
+            "points": [
+                [
+                    351.027095,
+                    698.99295
+                ],
+                [
+                    1436.207428,
+                    732.4749459999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bên mua bảo hiểm có quyền từ chối tiếp tục tham gia bảo hiểm bằng cách gửi",
+            "points": [
+                [
+                    350.185867,
+                    736.897111
+                ],
+                [
+                    1435.1558969999999,
+                    771.432
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thông báo bằng văn bản đề nghị hủy Hợp đồng bảo hiểm đến Prudential. Trong",
+            "points": [
+                [
+                    351.027095,
+                    774.801272
+                ],
+                [
+                    1436.207428,
+                    808.283268
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trường hợp này, Prudential sẽ chi trả cho Bên mua bảo hiểm tổng phí bảo hiểm đã",
+            "points": [
+                [
+                    350.185851,
+                    811.020765
+                ],
+                [
+                    1438.731065,
+                    847.872032
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đóng, không có lãi, sau khi trừ các chi phí khám, xét nghiệm y khoa, nếu có.",
+            "points": [
+                [
+                    351.027031,
+                    849.977868
+                ],
+                [
+                    1329.907106,
+                    881.756086
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6.  NHẦM LẪN KHI KÊ KHAI TUỔI VÀ GIỚI TÍNH",
+            "points": [
+                [
+                    256.250189,
+                    913.255866
+                ],
+                [
+                    953.2155829999999,
+                    949.454519
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6.1  Trường hợp nhầm lẫn khi kê khai ngày sinh và/hoặc giới tính của Người được bảo",
+            "points": [
+                [
+                    257.587053,
+                    974.238576
+                ],
+                [
+                    1435.323171,
+                    1008.0574889999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hiểm, Chi phí bảo hiểm rủi ro, Số tiền bảo hiểm sẽ được điều chỉnh lại theo tuổi",
+            "points": [
+                [
+                    353.087074,
+                    1011.216221
+                ],
+                [
+                    1434.0612820000001,
+                    1045.329959
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "và/hoặc giới tính đúng của Người được bảo hiểm.",
+            "points": [
+                [
+                    351.404617,
+                    1049.120317
+                ],
+                [
+                    1000.830373,
+                    1083.655206
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6.2 Nếu theo tuổi và/hoặc giới tính đúng, Người được bảo hiểm không được",
+            "points": [
+                [
+                    256.947722,
+                    1111.217872
+                ],
+                [
+                    1436.927803,
+                    1146.635083
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prudential chấp nhận bảo hiểm theo Quy tắc, Điều khoản này, Hợp đồng bảo hiểm",
+            "points": [
+                [
+                    350.107102,
+                    1150.225449
+                ],
+                [
+                    1436.165922,
+                    1182.654564
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sẽ bị hủy bỏ và Prudential sẽ chi trả cho Bên mua bảo hiểm giá trị nào lớn hơn",
+            "points": [
+                [
+                    351.462863,
+                    1186.727415
+                ],
+                [
+                    1434.119521,
+                    1222.3994280000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "giữa:",
+            "points": [
+                [
+                    350.61229,
+                    1227.282691
+                ],
+                [
+                    418.397062,
+                    1263.299144
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6.2.1 Tổng phí bảo hiểm đã đóng, không có lãi, sau khi trừ các khoản rút tiền",
+            "points": [
+                [
+                    351.985478,
+                    1285.777085
+                ],
+                [
+                    1437.4181720000001,
+                    1320.985761
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "theo quy định tại Điều 12.1.4 nếu có; và",
+            "points": [
+                [
+                    445.861744,
+                    1323.487698
+                ],
+                [
+                    961.823838,
+                    1357.574901
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6.2.2 Giá trị hoàn lại",
+            "points": [
+                [
+                    350.372251,
+                    1386.807518
+                ],
+                [
+                    635.067846,
+                    1420.569708
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sau khi trừ chi phí khám, xét nghiệm y khoa và (các) Khoản nợ, nếu có.",
+            "points": [
+                [
+                    350.834749,
+                    1447.423513
+                ],
+                [
+                    1263.563944,
+                    1480.905509
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7. ĐIỀU KHOẢN MIỄN TRUY XÉT",
+            "points": [
+                [
+                    256.390966,
+                    1511.651882
+                ],
+                [
+                    757.875823,
+                    1547.258803
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Khi Người được bảo hiểm còn sống, các nội dung kê khai không chính xác hoặc bỏ",
+            "points": [
+                [
+                    350.377435,
+                    1569.003933
+                ],
+                [
+                    1434.506237,
+                    1605.012866
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sót trong Hồ sơ yêu cầu bảo hiểm và các giấy tờ có liên quan sẽ được Prudential",
+            "points": [
+                [
+                    351.218663,
+                    1607.359791
+                ],
+                [
+                    1434.620926,
+                    1640.81124
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "miễn truy xét sau 24 tháng kể từ Ngày hiệu lực hợp đồng hoặc kể từ ngày khôi",
+            "points": [
+                [
+                    352.89357,
+                    1645.050774
+                ],
+                [
+                    1436.706913,
+                    1678.867584
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phục hiệu lực hợp đồng gần nhất hoặc ngày chấp thuận yêu cầu tăng Số tiền bảo",
+            "points": [
+                [
+                    351.608047,
+                    1681.365072
+                ],
+                [
+                    1436.78838,
+                    1717.584597
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hiểm gần nhất, tùy ngày nào đến sau.",
+            "points": [
+                [
+                    352.73345,
+                    1719.611383
+                ],
+                [
+                    844.6420370000001,
+                    1756.3529039999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quy định trên sẽ không được áp dụng trong trường hợp Bên mua bảo hiểm đã cố ý",
+            "points": [
+                [
+                    350.188843,
+                    1794.916367
+                ],
+                [
+                    1437.4722390000002,
+                    1829.903466
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "kê khai không trung thực những thông tin mà nếu biết được những thông tin đó,",
+            "points": [
+                [
+                    350.716058,
+                    1833.654216
+                ],
+                [
+                    1436.84277,
+                    1867.7047089999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prudential sẽ từ chối chấp thuận bảo hiểm hoặc chấp thuận bảo hiểm có điều kiện.",
+            "points": [
+                [
+                    350.716058,
+                    1872.569161
+                ],
+                [
+                    1434.529401,
+                    1905.461542
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_CONTRACT_066496.png",
+    "imageData": null,
+    "imageHeight": 2200,
+    "imageWidth": 1700
+}

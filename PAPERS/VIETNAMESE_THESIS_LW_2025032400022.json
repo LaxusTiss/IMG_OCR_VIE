@@ -1,0 +1,586 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "-Tránh dùng ngôn từ đã có sẵn sự đánh giá thiên kiến. Ví dụ: Không nên dùng những từ như : sản",
+            "points": [
+                [
+                    155.790933,
+                    57.758526
+                ],
+                [
+                    808.149585,
+                    76.70491200000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phẩm hàng đầu, sản phẩm đại hạ giá,...",
+            "points": [
+                [
+                    117.880287,
+                    78.034026
+                ],
+                [
+                    382.18903,
+                    97.067853
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6. Xác định cấu trúc bảng câu hỏi:",
+            "points": [
+                [
+                    154.906296,
+                    98.776018
+                ],
+                [
+                    400.417219,
+                    113.98681199999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "*Yêu cầu : Nên sắp xếp các câu hỏi theo trình tự hợp lý. Câu hỏi này phải dẫn đến câu hỏi kế tiếp",
+            "points": [
+                [
+                    155.756446,
+                    116.480414
+                ],
+                [
+                    809.956389,
+                    134.12761899999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "theo một trình tự hợp lý, theo một dòng tư tưởng liên tục. Một vấn đề lớn nên phân ra nhiều vấn đề",
+            "points": [
+                [
+                    118.389065,
+                    135.968124
+                ],
+                [
+                    812.122614,
+                    153.61532899999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nhỏ. Trong các câu trả lời lại tiếp tục đặt ra câu hỏi phân nhánh để tiếp tục sàng lọc thông tin.",
+            "points": [
+                [
+                    118.930622,
+                    155.455835
+                ],
+                [
+                    739.7707009999999,
+                    173.31957
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nên tuân theo trình tự về tâm lý: Sau khi đã thiết lập mối quan hệ thân thiện tốt đẹp thì mới hỏi",
+            "points": [
+                [
+                    155.756446,
+                    175.484872
+                ],
+                [
+                    811.581058,
+                    192.265956
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "các câu hỏi riêng tư. Nên theo trình tự là hỏi cái chung rồi mới đến cái riêng; những câu hỏi ít gây hứng",
+            "points": [
+                [
+                    117.847509,
+                    193.889932
+                ],
+                [
+                    813.7472829999999,
+                    211.21234199999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thú nên hỏi cuối cùng, nên theo trình tự để khơi gợi trí nhớ về các sự việc đã qua.",
+            "points": [
+                [
+                    117.847509,
+                    213.377643
+                ],
+                [
+                    659.9453100000001,
+                    230.158727
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "*Cấu trúc bảng câu hỏi :thường bao gồm 5 phần :",
+            "points": [
+                [
+                    156.036253,
+                    231.477667
+                ],
+                [
+                    487.457874,
+                    249.372718
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-Phần mở đầu: Có tác dụng gây thiện cảm để tạo nên sự hợp tác của người trả lời lúc bắt đầu buổi",
+            "points": [
+                [
+                    155.915226,
+                    251.069424
+                ],
+                [
+                    808.1005799999999,
+                    268.694976
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phỏng vấn.",
+            "points": [
+                [
+                    117.985701,
+                    269.784069
+                ],
+                [
+                    192.281847,
+                    288.573873
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-Câu hỏi định tính: Có tác dụng xác định rõ đối tượng được phỏng vấn",
+            "points": [
+                [
+                    156.181081,
+                    290.24706
+                ],
+                [
+                    628.713521,
+                    306.978933
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-Câu hỏi hâm nóng: Có tác dụng gợi nhớ để tập trung vào chủ đề mà bảng câu hỏi đang hướng",
+            "points": [
+                [
+                    155.361854,
+                    308.811565
+                ],
+                [
+                    788.246144,
+                    328.10439899999994
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tới.",
+            "points": [
+                [
+                    117.8645,
+                    328.385888
+                ],
+                [
+                    140.284929,
+                    344.300852
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-Câu hỏi đặc thù: Có tác dụng làm rõ nội dung cần nghiên cứu",
+            "points": [
+                [
+                    155.23188,
+                    348.414924
+                ],
+                [
+                    572.6634329999999,
+                    364.113358
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-Câu hỏi phụ: Có tác dụng thu thập thêm thông tin về đặc điểm nhân khẩu người trả lời (giới tính,",
+            "points": [
+                [
+                    155.827592,
+                    367.32883
+                ],
+                [
+                    808.370373,
+                    385.192565
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tuổi tác, nghề nghiệp,..)",
+            "points": [
+                [
+                    117.158507,
+                    385.997664
+                ],
+                [
+                    277.360691,
+                    403.91060999999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7- Thiết kế việc trình bày bảng câu hỏi:",
+            "points": [
+                [
+                    155.559768,
+                    405.190106
+                ],
+                [
+                    435.396649,
+                    422.807784
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Cần quan tâm đến việc in ấn trình bày bảng câu hỏi để tạo thiện cảm và lôi cuốn người trả lời",
+            "points": [
+                [
+                    155.323453,
+                    424.756556
+                ],
+                [
+                    811.472999,
+                    441.429375
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tham gia vào cuộc phỏng vấn. Dùng giấy màu có tác dụng kích thích trả lời hơn. In bảng câu hỏi thành",
+            "points": [
+                [
+                    117.956072,
+                    443.161616
+                ],
+                [
+                    811.906244,
+                    462.64932699999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tập có tác dụng hấp dẫn hơn so với trang rời.",
+            "points": [
+                [
+                    117.956072,
+                    464.273303
+                ],
+                [
+                    416.786808,
+                    480.837857
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8-Điều tra thử để trắc nghiêm bảng câu hỏi:",
+            "points": [
+                [
+                    154.781896,
+                    482.678363
+                ],
+                [
+                    469.642697,
+                    498.593327
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Về nguyên tắc, một bảng câu hỏi cần phải được điều tra thử để trắc nghiệm trước khi phỏng vấn",
+            "points": [
+                [
+                    156.968791,
+                    501.000154
+                ],
+                [
+                    810.971805,
+                    519.109946
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "chính thức. Việc điều tra được tiến hành trên một mẫu nhỏ được chọn ra từ tổng thể mẫu cần nghiên",
+            "points": [
+                [
+                    117.553362,
+                    520.969674
+                ],
+                [
+                    810.961978,
+                    536.8846380000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cứu, để xem người trả lời có hiểu và trả lời đúng không, để xem người phỏng vấn có làm tốt nhiệm vụ",
+            "points": [
+                [
+                    119.178031,
+                    538.833409
+                ],
+                [
+                    811.828468,
+                    556.155818
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "không, để xem thông tin được thu thập như thế nào, và xác định thời gian cho thực hiện phỏng vấn một",
+            "points": [
+                [
+                    118.855869,
+                    557.624191
+                ],
+                [
+                    812.264485,
+                    576.029251
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "người. Sau khi điều tra thử sẽ xử lý và phân tích dữ liệu để qua đó chỉnh sửa, loại bỏ, bổ sung thêm câu",
+            "points": [
+                [
+                    118.314313,
+                    577.653227
+                ],
+                [
+                    813.56422,
+                    598.2235890000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hỏi...",
+            "points": [
+                [
+                    117.817742,
+                    599.094839
+                ],
+                [
+                    155.623304,
+                    613.802928
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TÀI LIỆU THAM KHẢO",
+            "points": [
+                [
+                    371.316726,
+                    675.043556
+                ],
+                [
+                    557.952225,
+                    695.354439
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1-Thống kê ứng dụng trong kinh tế xã hội – Hoàng Trọng và Chu Nguyễn Mộng Ngọc – NXB Thống ",
+            "points": [
+                [
+                    119.987187,
+                    720.113138
+                ],
+                [
+                    798.340539,
+                    741.76615
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "kê 2007",
+            "points": [
+                [
+                    118.31103,
+                    742.761291
+                ],
+                [
+                    171.57232199999999,
+                    756.763455
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2-Nghiên cứu marketing – David J. Luck / Ronald S. Rubin — NXB Thống kê 2004",
+            "points": [
+                [
+                    118.877969,
+                    760.98293
+                ],
+                [
+                    673.234634,
+                    776.6411
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3-Nghiên cứu marketing khảo hướng ứng dụng – Dương Hữu Hạnh – NXB Thống kê 2004",
+            "points": [
+                [
+                    117.982835,
+                    779.772734
+                ],
+                [
+                    726.584638,
+                    795.949861
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "",
+            "points": [
+                [
+                    218.103605,
+                    789.847648
+                ],
+                [
+                    218.39899899999998,
+                    790.0444940000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4-Nghiên cứu tiếp thị - Trần Xuân Kiêm và Nguyễn văn Thi – NXB Lao động xã hội 2006",
+            "points": [
+                [
+                    117.669538,
+                    798.41043
+                ],
+                [
+                    723.720208,
+                    818.5871
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_THESIS_LW_2025032400022.jpg",
+    "imageData": null,
+    "imageHeight": 1100,
+    "imageWidth": 850
+}

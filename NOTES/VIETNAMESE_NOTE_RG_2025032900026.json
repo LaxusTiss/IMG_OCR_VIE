@@ -1,0 +1,522 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "song",
+            "points": [
+                [
+                    1197.63147,
+                    1760.395386
+                ],
+                [
+                    1334.945801,
+                    1818.5924069999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Và vươn lên tìm hạnh phúc ngày mai .",
+            "points": [
+                [
+                    291.043238,
+                    779.389939
+                ],
+                [
+                    293.754036,
+                    858.422896
+                ],
+                [
+                    1295.191569,
+                    872.68625
+                ],
+                [
+                    1306.452111,
+                    787.106131
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Nung nấu tâm hồn quyết thắng gian nan ",
+            "points": [
+                [
+                    265.32302,
+                    1210.54166
+                ],
+                [
+                    1323.079205,
+                    1298.035875
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Những kiến thức luôn rộng mở thênh thang ",
+            "points": [
+                [
+                    352.49174,
+                    1300.616503
+                ],
+                [
+                    1392.313543,
+                    1374.741796
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Em cứ bước theo con đuòng đã chọn ",
+            "points": [
+                [
+                    348.522317,
+                    1376.629774
+                ],
+                [
+                    1233.707138,
+                    1479.835154
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mừng thầy 20-11",
+            "points": [
+                [
+                    164.743109,
+                    83.596196
+                ],
+                [
+                    1316.55709,
+                    433.775748
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Em cảm ơn thầy bài học hôm nay",
+            "points": [
+                [
+                    303.456074,
+                    520.540944
+                ],
+                [
+                    1213.532292,
+                    607.169494
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Cho em hiểu được cuộc đời là lẽ sống ",
+            "points": [
+                [
+                    293.631714,
+                    609.646814
+                ],
+                [
+                    1309.907247,
+                    688.921029
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con người sống luôn phải biết hy vọng ",
+            "points": [
+                [
+                    295.525896,
+                    694.769686
+                ],
+                [
+                    1320.370472,
+                    781.578228
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HH",
+            "points": [
+                [
+                    78.229668,
+                    188.563869
+                ],
+                [
+                    120.012428,
+                    210.426941
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Em phải bước trên những quãng đường dài ",
+            "points": [
+                [
+                    208.771995,
+                    952.17169
+                ],
+                [
+                    1309.646175,
+                    1034.71894
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đầy chông gai, làm bi đường vất vả ",
+            "points": [
+                [
+                    206.479629,
+                    1037.929191
+                ],
+                [
+                    1146.670962,
+                    1121.087297
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hãy cố lên , không để vấp ngã ",
+            "points": [
+                [
+                    266.050937,
+                    1123.858957
+                ],
+                [
+                    1055.427929,
+                    1207.75846
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "THII I Ị GIAO DỤC",
+            "points": [
+                [
+                    1038.433453,
+                    1503.729078
+                ],
+                [
+                    1038.572336,
+                    1542.536649
+                ],
+                [
+                    1329.300627,
+                    1566.609684
+                ],
+                [
+                    1330.689456,
+                    1531.88895
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "ÁNH DƯƠNG",
+            "points": [
+                [
+                    1039.267464,
+                    1545.049043
+                ],
+                [
+                    1035.626375,
+                    1595.881367
+                ],
+                [
+                    1327.707443,
+                    1618.865419
+                ],
+                [
+                    1330.205794,
+                    1576.259347
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    934.207346,
+                    1595.990837
+                ],
+                [
+                    931.686621,
+                    1639.683409
+                ],
+                [
+                    1328.280729,
+                    1668.25163
+                ],
+                [
+                    1329.120971,
+                    1629.600508
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "En cảm ơn thầy bài học hôm nay ",
+            "points": [
+                [
+                    282.148968,
+                    1640.876545
+                ],
+                [
+                    285.126047,
+                    1724.234761
+                ],
+                [
+                    1209.134858,
+                    1742.563103
+                ],
+                [
+                    1174.920301,
+                    1659.674551
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Cho em hiểu được cuộc đời là lẽ sống ./.",
+            "points": [
+                [
+                    371.959239,
+                    1734.284127
+                ],
+                [
+                    374.033292,
+                    1811.776385
+                ],
+                [
+                    1375.863334,
+                    1840.301282
+                ],
+                [
+                    1377.861705,
+                    1748.376223
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "HH",
+            "points": [
+                [
+                    1065.299168,
+                    1963.426409
+                ],
+                [
+                    1088.826675,
+                    1977.705176
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HỒNG HÀ",
+            "points": [
+                [
+                    1106.674671,
+                    1957.029273
+                ],
+                [
+                    1211.594369,
+                    1995.8351930000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Rèn ",
+            "points": [
+                [
+                    34.887494,
+                    206.176118
+                ],
+                [
+                    35.181993,
+                    260.069548
+                ],
+                [
+                    71.699945,
+                    259.186049
+                ],
+                [
+                    70.816446,
+                    210.004613
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "nết",
+            "points": [
+                [
+                    74.997177,
+                    250.503906
+                ],
+                [
+                    74.068194,
+                    273.109156
+                ],
+                [
+                    116.272428,
+                    272.896207
+                ],
+                [
+                    115.108766,
+                    248.625553
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "người ",
+            "points": [
+                [
+                    122.181208,
+                    212.358488
+                ],
+                [
+                    120.115636,
+                    277.031174
+                ],
+                [
+                    161.556033,
+                    269.900949
+                ],
+                [
+                    162.229081,
+                    210.179761
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "CHỮ",
+            "points": [
+                [
+                    126.665178,
+                    141.481463
+                ],
+                [
+                    125.2398,
+                    173.908816
+                ],
+                [
+                    161.422568,
+                    194.343114
+                ],
+                [
+                    160.874253,
+                    166.425581
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "NÉT ",
+            "points": [
+                [
+                    90.034312,
+                    136.067737
+                ],
+                [
+                    90.917811,
+                    156.68271
+                ],
+                [
+                    123.988818,
+                    160.802708
+                ],
+                [
+                    124.785266,
+                    137.245735
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "LUYỆN",
+            "points": [
+                [
+                    37.090029,
+                    157.295553
+                ],
+                [
+                    38.964118,
+                    191.832326
+                ],
+                [
+                    88.493598,
+                    172.28826
+                ],
+                [
+                    87.154963,
+                    122.758779
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_NOTE_RG_2025032900026.jpg",
+    "imageData": null,
+    "imageHeight": 2048,
+    "imageWidth": 1396
+}

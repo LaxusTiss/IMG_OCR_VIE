@@ -1,0 +1,234 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Quyển vở của em ",
+            "points": [
+                [
+                    212.061128,
+                    40.920544
+                ],
+                [
+                    797.6291229999999,
+                    172.43108700000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quyển vở này mở ra ",
+            "points": [
+                [
+                    164.657217,
+                    191.782465
+                ],
+                [
+                    575.481404,
+                    260.86137
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bao nhiêu trang giấy trắng ",
+            "points": [
+                [
+                    161.713704,
+                    261.609302
+                ],
+                [
+                    700.953528,
+                    321.005198
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Từng dòng kẻ ngay ngắn ",
+            "points": [
+                [
+                    161.713704,
+                    322.314144
+                ],
+                [
+                    653.810405,
+                    375.930746
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Như chúng em xếp hàng .",
+            "points": [
+                [
+                    160.568155,
+                    376.670679
+                ],
+                [
+                    641.540278,
+                    443.723829
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Lật từng trang , từng trang ",
+            "points": [
+                [
+                    217.982033,
+                    495.193272
+                ],
+                [
+                    745.397084,
+                    561.82296
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Giấy trắng sờ mát rượi ",
+            "points": [
+                [
+                    218.444171,
+                    562.657113
+                ],
+                [
+                    679.34375,
+                    620.142781
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thơm tho mùi giấy mới ",
+            "points": [
+                [
+                    224.703228,
+                    621.052265
+                ],
+                [
+                    674.823177,
+                    676.5770540000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nắn  nót  bàn tay xinh",
+            "points": [
+                [
+                    230.515393,
+                    677.534246
+                ],
+                [
+                    664.490437,
+                    741.468069
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vì quyển vở mới tinh ",
+            "points": [
+                [
+                    178.407971,
+                    799.528764
+                ],
+                [
+                    559.448586,
+                    861.160424
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Em viết cho sạch , đẹp",
+            "points": [
+                [
+                    181.244502,
+                    861.932438
+                ],
+                [
+                    554.721036,
+                    912.989989
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chữ đẹp là tính nết ",
+            "points": [
+                [
+                    186.660859,
+                    918.570315
+                ],
+                [
+                    548.952525,
+                    978.629361
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Của những người trò ngoan ",
+            "points": [
+                [
+                    186.752401,
+                    982.840656
+                ],
+                [
+                    699.6140879999999,
+                    1030.71948
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quang Huy ",
+            "points": [
+                [
+                    475.348443,
+                    1031.50636
+                ],
+                [
+                    763.689987,
+                    1104.1778060000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_NOTE_RG_2025032900021.jpg",
+    "imageData": null,
+    "imageHeight": 1145,
+    "imageWidth": 1000
+}

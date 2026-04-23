@@ -1,0 +1,650 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Tạp chí KHOA HỌC ĐHSP TPHCM Số 33 năm 2012",
+            "points": [
+                [
+                    312.655783,
+                    171.052563
+                ],
+                [
+                    1548.632036,
+                    229.797415
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2.2.1. Nghiên cứu tài liệu",
+            "points": [
+                [
+                    306.431138,
+                    323.555758
+                ],
+                [
+                    684.965901,
+                    365.96099200000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thu thập các tài liệu có liên quan như bản đồ hiện trạng, bản đồ địa hình, thổ",
+            "points": [
+                [
+                    392.019793,
+                    374.908896
+                ],
+                [
+                    1569.251163,
+                    416.29332100000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nhưỡng, địa chất, khí hậu, thủy văn, thực vật, điều kiện kinh tế - xã hội của khu vực",
+            "points": [
+                [
+                    306.431257,
+                    417.412594
+                ],
+                [
+                    1569.251163,
+                    455.747703
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nghiên cứu,... để có một cái nhìn tổng quát ban đầu về nơi khảo sát; biết được những",
+            "points": [
+                [
+                    307.987389,
+                    456.866976
+                ],
+                [
+                    1569.251163,
+                    496.288987
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vấn đề gì đã nghiên cứu, những vấn đề gì sử dụng được, nội dung nào cần tiếp tục",
+            "points": [
+                [
+                    309.54352,
+                    496.288987
+                ],
+                [
+                    1569.251163,
+                    542.973643
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nghiên cứu,...",
+            "points": [
+                [
+                    311.099711,
+                    542.973642
+                ],
+                [
+                    520.7916,
+                    583.822715
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2.2.2. Thực địa",
+            "points": [
+                [
+                    309.54352,
+                    592.770619
+                ],
+                [
+                    536.353152,
+                    634.3977580000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Khảo sát và thu mẫu được tiến hành ở một số rừng ngập mặn của các tỉnh ven",
+            "points": [
+                [
+                    390.463602,
+                    641.011406
+                ],
+                [
+                    1565.360775,
+                    683.027607
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "biển Nam Bộ như Cần Giờ - TPHCM, Thạnh Phú - Bến Tre, Cù lao Dung - Sóc Trăng,",
+            "points": [
+                [
+                    314.212033,
+                    681.471476
+                ],
+                [
+                    1563.415581,
+                    721.9314870000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vĩnh Hậu - Bạc Liêu, Vườn Quốc gia Đất Mũi - Cà Mau, Bà Rịa - Vũng Tàu; với 3 đợt",
+            "points": [
+                [
+                    315.768165,
+                    726.59994
+                ],
+                [
+                    1563.4155819999999,
+                    764.7257529999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thực địa:",
+            "points": [
+                [
+                    315.768165,
+                    764.725753
+                ],
+                [
+                    444.929034,
+                    805.574826
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đợt 1: từ ngày 05 đến ngày 12 tháng 6 năm 2010,",
+            "points": [
+                [
+                    392.019793,
+                    816.856987
+                ],
+                [
+                    1112.130574,
+                    856.149869
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đợt 2: từ ngày 15 đến ngày 20 tháng 12 năm 2010,",
+            "points": [
+                [
+                    390.463602,
+                    871.322418
+                ],
+                [
+                    1119.91135,
+                    908.6701059999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đợt 3: từ ngày 25 tháng 4 đến ngày 3 tháng 5 năm 2011.",
+            "points": [
+                [
+                    390.463602,
+                    921.119336
+                ],
+                [
+                    1195.7739159999999,
+                    963.135537
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3. Diện tích và phân bố rừng ngập mặn ven biển nước ta",
+            "points": [
+                [
+                    307.987389,
+                    967.80402
+                ],
+                [
+                    1214.836794,
+                    1014.4886750000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Theo Bộ Nông nghiệp & Phát triển Nông thôn (2008), hiện nay cả nước chỉ còn",
+            "points": [
+                [
+                    395.132056,
+                    1028.494066
+                ],
+                [
+                    1563.026519,
+                    1065.0637179999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "khoảng trên 209 741 ha tập trung chủ yếu ở vùng ven biển Nam Bộ (128 537ha).",
+            "points": [
+                [
+                    312.655842,
+                    1065.063718
+                ],
+                [
+                    1467.3229500000002,
+                    1107.857985
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phan Nguyên Hồng (1993) đã chia RNM nước ta thành 4 khu vực, hình 1:",
+            "points": [
+                [
+                    393.575924,
+                    1118.751083
+                ],
+                [
+                    1450.205267,
+                    1156.487834
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Khu vực I: Ven biển Đông Bắc, từ mũi Ngọc (Móng Cái) đến mũi Đồ Sơn;",
+            "points": [
+                [
+                    353.115854,
+                    1165.435738
+                ],
+                [
+                    1454.095656,
+                    1209.008071
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Khu vực có đảo che chắn, các sông có độ dốc cao, dòng chảy mạnh, đem phù sa",
+            "points": [
+                [
+                    392.019734,
+                    1219.901169
+                ],
+                [
+                    1563.026519,
+                    1259.583114
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ra tận biển, còn dọc các triền sông rất ít bãi lầy (sông Bắc Giang, sông Bắc Khê, sông",
+            "points": [
+                [
+                    320.436618,
+                    1258.805048
+                ],
+                [
+                    1564.971713,
+                    1298.4094169999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đồng Đăng); độ mặn ổn định 26 - 27,5%%; mùa đông lạnh 15 - 19°C, vì thế RNM ở đây",
+            "points": [
+                [
+                    309.54352,
+                    1299.265059
+                ],
+                [
+                    1564.971713,
+                    1341.28126
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "kém phát triển, cây cao 8 - 10m.",
+            "points": [
+                [
+                    309.54352,
+                    1341.28126
+                ],
+                [
+                    777.168145,
+                    1386.0207209999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Khu vực II: Ven biển đồng bằng Bắc Bộ, từ mũi Đồ Sơn đến mũi Lạch Trường",
+            "points": [
+                [
+                    351.559722,
+                    1391.653449
+                ],
+                [
+                    1564.971713,
+                    1434.65057
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(Thanh Hóa);",
+            "points": [
+                [
+                    312.655842,
+                    1434.65057
+                ],
+                [
+                    516.512149,
+                    1477.444837
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vùng bồi tụ của hệ thống sông Hồng có nhiều phù sa, bãi bồi rộng; có nhiều sóng",
+            "points": [
+                [
+                    393.575865,
+                    1482.891356
+                ],
+                [
+                    1566.527844,
+                    1525.296561
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gió, không có đảo che chắn; độ mặn thay đổi nhiều, vào mùa mưa: 5 - 0,5%, vào mùa",
+            "points": [
+                [
+                    312.655783,
+                    1528.019821
+                ],
+                [
+                    1566.527844,
+                    1564.20044
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "khô 23 - 24%%. Hiện nay khu vực này có hơn 8000ha RNM, chủ yếu là rừng trồng để",
+            "points": [
+                [
+                    311.099652,
+                    1564.20044
+                ],
+                [
+                    1566.5278440000002,
+                    1605.0495130000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "bảo vệ đê biên trong những năm gần đây.",
+            "points": [
+                [
+                    309.54352,
+                    1605.049513
+                ],
+                [
+                    908.663211,
+                    1651.734168
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Khu vực III: Ven biển Trung Bộ, từ mũi Lạch Trường Đồ Sơn đến mũi Vũng Tàu;",
+            "points": [
+                [
+                    346.891209,
+                    1658.736878
+                ],
+                [
+                    1543.574579,
+                    1708.144793
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vùng bồi tụ của hệ thống sông ngắn, dốc; bờ biển dốc, ít phù sa; vùng nhiều gió",
+            "points": [
+                [
+                    388.907411,
+                    1711.646178
+                ],
+                [
+                    1565.360776,
+                    1752.884254
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "bão; có ít RNM trong các cửa sông, trong các đầm phá gồm những cây gỗ, cây bụi nhỏ.",
+            "points": [
+                [
+                    312.655783,
+                    1753.66232
+                ],
+                [
+                    1552.911486,
+                    1789.842939
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- - Khu vực IV: Ven biển Nam Bộ, từ mũi Vũng Tàu đến mũi Nải (Hà Tiên).",
+            "points": [
+                [
+                    392.019734,
+                    1803.459297
+                ],
+                [
+                    1447.871011,
+                    1846.253564
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vùng bồi tụ của hệ thống sông Đồng Nai, sông Cửu Long, giàu phù sa, bãi bồi",
+            "points": [
+                [
+                    393.575865,
+                    1853.256274
+                ],
+                [
+                    1568.473038,
+                    1896.8286070000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rộng, ít gió bão; RNM phát triển tốt, cây cao 20 - 30m.",
+            "points": [
+                [
+                    314.211974,
+                    1898.384798
+                ],
+                [
+                    1097.736092,
+                    1939.6228740000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4. Vai trò rừng ngập mặn ven biển Việt Nam",
+            "points": [
+                [
+                    312.655783,
+                    1939.622874
+                ],
+                [
+                    1045.604916,
+                    1992.14311
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "RNM nước ta có vai trò quan trọng trong việc bảo vệ bờ biển, ngăn chặn gió bão,",
+            "points": [
+                [
+                    395.132056,
+                    2002.647206
+                ],
+                [
+                    1562.248394,
+                    2041.5510840000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hạn chế xói lở, mở rộng diện tích đất liền và điều hòa khí hậu.",
+            "points": [
+                [
+                    312.655783,
+                    2038.438703
+                ],
+                [
+                    1200.831373,
+                    2079.676839
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "116",
+            "points": [
+                [
+                    309.54352,
+                    2139.588789
+                ],
+                [
+                    378.014313,
+                    2176.936537
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_BOOKCONTENT_018594.jpg",
+    "imageData": null,
+    "imageHeight": 2376,
+    "imageWidth": 1836
+}

@@ -1,0 +1,714 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Tạp chí KHOA HỌC ĐHSP TPHCM",
+            "points": [
+                [
+                    312.096596,
+                    173.392601
+                ],
+                [
+                    860.221621,
+                    220.041539
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số 33 năm 2012",
+            "points": [
+                [
+                    1299.499123,
+                    173.392601
+                ],
+                [
+                    1550.2371660000001,
+                    223.928951
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "biển. Chính vì thế người ta đã ví RNM là quả thận khổng lồ lọc các chất thải cho môi",
+            "points": [
+                [
+                    314.040302,
+                    321.851057
+                ],
+                [
+                    1563.8431070000001,
+                    364.154844
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trường vùng ven biển.",
+            "points": [
+                [
+                    313.632203,
+                    365.308499
+                ],
+                [
+                    633.445548,
+                    409.24035699999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4.2.3. Rừng ngập mặn là bức tường xanh vững chắc",
+            "points": [
+                [
+                    308.059645,
+                    414.194345
+                ],
+                [
+                    1063.451065,
+                    455.600409
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Các hoạt động của con người trong sản xuất công nghiệp, trong giao thông vận",
+            "points": [
+                [
+                    394.82301,
+                    467.196916
+                ],
+                [
+                    1564.116512,
+                    510.253138
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tải, do phá rừng đã làm cho lượng khí thải gây hiệu ứng nhà kính trong khí quyển ngày",
+            "points": [
+                [
+                    313.982432,
+                    510.749059
+                ],
+                [
+                    1565.489447,
+                    550.178102
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "càng tăng cao, làm biến đổi khí hậu. Trước thời kì cách mạng công nghiệp năm 1750,",
+            "points": [
+                [
+                    313.573357,
+                    553.559201
+                ],
+                [
+                    1560.115234,
+                    589.8221110000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lượng CO2 ổn định ở mức 0,028% nhưng hiện nay lượng CO2 đã lên đến 0,0386% làm",
+            "points": [
+                [
+                    313.972988,
+                    591.816968
+                ],
+                [
+                    1565.67565,
+                    630.195371
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cho nhiệt độ Trái Đất âm dân lên. Từ năm 1870 - 2004, mực nước biên đã tăng 19,5cm;",
+            "points": [
+                [
+                    315.057489,
+                    631.224112
+                ],
+                [
+                    1561.5993660000001,
+                    671.503433
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "với tốc độ tăng đặc biệt nhanh trong vòng 50 năm gần đây. Ủy ban liên Chính phủ về",
+            "points": [
+                [
+                    315.037956,
+                    671.819012
+                ],
+                [
+                    1562.163967,
+                    711.396925
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Biến đổi Khí hậu (The Intergovernmental Panel on Climate Change (IPCC)) của Liên",
+            "points": [
+                [
+                    319.430219,
+                    712.218477
+                ],
+                [
+                    1565.168912,
+                    751.561893
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hợp Quốc đã cảnh báo mực nước biển trên toàn cầu đang tăng nhanh và có thể tăng",
+            "points": [
+                [
+                    316.845158,
+                    750.339573
+                ],
+                [
+                    1566.079842,
+                    793.2786649999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thêm 34cm trong thế kỉ này. Theo báo cáo của Bộ Tài nguyên - Môi trường ngày 20-8-",
+            "points": [
+                [
+                    313.116023,
+                    797.439218
+                ],
+                [
+                    1562.870637,
+                    831.172954
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2009, 50 năm qua, nhiệt độ trung bình ở Việt Nam đã tăng khoảng 0,5 - 0,7°C, mực",
+            "points": [
+                [
+                    312.861804,
+                    834.861936
+                ],
+                [
+                    1564.2227859999998,
+                    873.4147780000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nước biển đã dâng khoảng 20cm.",
+            "points": [
+                [
+                    310.765439,
+                    873.29738
+                ],
+                [
+                    785.374284,
+                    917.1074269999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Biến đổi khí hậu làm tăng cường độ, tần số bão và lũ lụt. Mỗi năm trung bình có",
+            "points": [
+                [
+                    402.303661,
+                    922.029571
+                ],
+                [
+                    1570.1334869999998,
+                    967.007886
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "khoảng 6 cơn bão đổ bộ vào vùng biên Việt Nam. Trong giai đoạn gần đây với sự biên",
+            "points": [
+                [
+                    312.347031,
+                    971.826991
+                ],
+                [
+                    1558.8889080000001,
+                    1005.560727
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đổi của khí hậu nói chung và trong hoạt động của bão nói riêng cho thấy bão và áp thấp",
+            "points": [
+                [
+                    317.932346,
+                    1007.657926
+                ],
+                [
+                    1560.137029,
+                    1046.310593
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nhiệt đới xuất hiện trong khu vực Việt Nam có xu thế tăng lên và dịch chuyển dần từ",
+            "points": [
+                [
+                    317.201123,
+                    1047.579614
+                ],
+                [
+                    1558.485795,
+                    1087.342272
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bắc vào Nam theo thời gian và gây ra nhiều tác hại:",
+            "points": [
+                [
+                    317.753016,
+                    1087.527673
+                ],
+                [
+                    1052.748023,
+                    1129.768765
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-  Bão số 5 - Linda (ngày 02-11-1997) quét qua vùng ven biển Nam Bộ và đổ bộ",
+            "points": [
+                [
+                    352.560227,
+                    1134.471957
+                ],
+                [
+                    1563.762,
+                    1179.054205
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vào Cà Mau - Kiên Giang với sức gió mạnh cấp 9, cấp 10, làm gần 3000 người chết và",
+            "points": [
+                [
+                    319.125664,
+                    1180.197023
+                ],
+                [
+                    1565.667541,
+                    1220.221073
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mất tích, hàng chục ngàn tàu thuyền bị đắm;",
+            "points": [
+                [
+                    315.965271,
+                    1220.704395
+                ],
+                [
+                    946.5644359999999,
+                    1259.204133
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bão số 9 - Durian (ngày 05-12-2006) chạy dọc bờ biển Nam Trung Bộ, phá tan",
+            "points": [
+                [
+                    352.387817,
+                    1270.339042
+                ],
+                [
+                    1563.589589,
+                    1312.671264
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hoang các thị trấn, làng mạc ven biển Bình Thuận, Ninh Thuận rồi bất thần ập vào Bà",
+            "points": [
+                [
+                    314.856874,
+                    1313.320832
+                ],
+                [
+                    1564.903555,
+                    1352.216601
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Rịa - Vũng Tàu, sau đó, tiếp tục “càn quét” các tỉnh Bến Tre, Tiền Giang, Cần Thơ...",
+            "points": [
+                [
+                    315.809681,
+                    1353.715367
+                ],
+                [
+                    1563.957927,
+                    1393.1725040000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đã làm 50 người chết, 55 người mất tích, 409 người bị thương (164 người bị thương",
+            "points": [
+                [
+                    307.536132,
+                    1394.588986
+                ],
+                [
+                    1563.71622,
+                    1435.058139
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nặng) ; có 119 314 nhà bị sập, đổ, tốc mái, 888 tàu thuyền bị chìm.",
+            "points": [
+                [
+                    316.229323,
+                    1435.058139
+                ],
+                [
+                    1263.636681,
+                    1476.092343
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-    Những trận lũ lịch sử đã tàn phá các tỉnh miền Trung nước ta (Nghệ An, Hà Tĩnh,",
+            "points": [
+                [
+                    355.097265,
+                    1492.322981
+                ],
+                [
+                    1567.9054059999999,
+                    1526.056717
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thừa Thiên - Huế, Quảng Nam, Quảng Ngãi, Phú Yên, Bình Thuận ...) vào năm 2010.",
+            "points": [
+                [
+                    317.623303,
+                    1530.330781
+                ],
+                [
+                    1541.3839560000001,
+                    1568.299489
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Khi những cơn bão lớn đổ bộ vào nước ta, nơi nào RNM được trồng và bảo vệ tốt",
+            "points": [
+                [
+                    396.672749,
+                    1581.370887
+                ],
+                [
+                    1559.099336,
+                    1618.544954
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thì các đê biển vùng đó vẫn vững vàng trước sóng to gió lớn, dù là đê biển được đắp từ",
+            "points": [
+                [
+                    310.240333,
+                    1620.167644
+                ],
+                [
+                    1558.388579,
+                    1660.0844880000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đất nện; trong khi những tuyến đê biển được xây dựng kiên cố bằng bê tông hoặc kè đá",
+            "points": [
+                [
+                    305.696416,
+                    1658.458053
+                ],
+                [
+                    1560.124102,
+                    1700.0382220000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nhưng RNM bị chặt phá để chuyển sang nuôi tôm như ở Cát Hải (Hải Phòng), Hậu Lộc",
+            "points": [
+                [
+                    315.861537,
+                    1701.525726
+                ],
+                [
+                    1564.009783,
+                    1741.684936
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(Thanh Hóa) thì vẫn bị phá tan vỡ.",
+            "points": [
+                [
+                    317.050522,
+                    1742.121521
+                ],
+                [
+                    805.790434,
+                    1784.013513
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vấn đề sóng thần đã và đang đe dọa nhiều quốc gia ở vùng Nam Á. Đợt sóng",
+            "points": [
+                [
+                    394.002578,
+                    1788.810175
+                ],
+                [
+                    1561.832404,
+                    1831.83311
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thần khủng khiếp ngày 26-12-2004 đã tàn phá nặng nề ở các vùng ven biển của",
+            "points": [
+                [
+                    318.05056,
+                    1832.667181
+                ],
+                [
+                    1560.7955670000001,
+                    1873.448456
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Indonesia, Ấn Độ, Sri Lanka, Malaysia, Thái Lan... làm cho 226 000 người chết. Ngày",
+            "points": [
+                [
+                    308.25242,
+                    1873.915784
+                ],
+                [
+                    1562.680106,
+                    1911.684557
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "25-10-2010, một trận sóng thần xuất hiện ở Indonesia khiến hơn 700 người chết và mất",
+            "points": [
+                [
+                    317.075329,
+                    1913.490059
+                ],
+                [
+                    1558.798101,
+                    1953.819693
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tích. Người ta nhận thấy nơi nào có thảm xanh của rừng phi lao và RNM thì tác hại của",
+            "points": [
+                [
+                    316.002646,
+                    1955.110901
+                ],
+                [
+                    1566.0493270000002,
+                    1995.557364
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sóng thần được giảm thiểu đáng kể. Những thôn làng ở phía sau RNM với băng rừng",
+            "points": [
+                [
+                    315.166233,
+                    1997.320914
+                ],
+                [
+                    1563.314479,
+                    2034.736068
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rộng gần như còn nguyên vẹn vì năng lượng sóng đã được giảm từ 50% đến 90%, nên",
+            "points": [
+                [
+                    314.703366,
+                    2036.541977
+                ],
+                [
+                    1561.829377,
+                    2076.732714
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "122",
+            "points": [
+                [
+                    317.773844,
+                    2134.277507
+                ],
+                [
+                    375.50190499999997,
+                    2177.039034
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_BOOKCONTENT_018590.jpg",
+    "imageData": null,
+    "imageHeight": 2376,
+    "imageWidth": 1836
+}

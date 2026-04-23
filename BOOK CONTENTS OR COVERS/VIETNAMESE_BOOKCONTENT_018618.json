@@ -1,0 +1,730 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Hình ảnh đầu tiên chúng ta lưu ý đó là hình ảnh",
+            "points": [
+                [
+                    880.162824,
+                    203.97932
+                ],
+                [
+                    1552.558714,
+                    236.736914
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "“mười trinh nữ cầm đèn ra đón chú rể” (Mt",
+            "points": [
+                [
+                    883.073376,
+                    244.713139
+                ],
+                [
+                    1559.347684,
+                    280.20023000000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "25:1). Họ đại diện cho các môn đệ của Chúa",
+            "points": [
+                [
+                    890.05731,
+                    286.599272
+                ],
+                [
+                    1566.136654,
+                    322.107396
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Giêsu và những người tin sau này (x. 2 Cr",
+            "points": [
+                [
+                    885.983928,
+                    324.822984
+                ],
+                [
+                    1566.136654,
+                    362.468587
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11:2). Theo truyền thống Kitô Giáo, “đèn” là",
+            "points": [
+                [
+                    885.983928,
+                    368.272391
+                ],
+                [
+                    1567.494448,
+                    402.053485
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngọn lửa đức tin mà chúng ta lãnh nhận trong",
+            "points": [
+                [
+                    879.194959,
+                    406.290623
+                ],
+                [
+                    1566.136655,
+                    438.92279499999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngày rửa tội. Ngọn lửa đức tin này phải luôn",
+            "points": [
+                [
+                    885.983928,
+                    444.35397
+                ],
+                [
+                    1555.4108820000001,
+                    479.280594
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "luôn cháy sáng. Hình ảnh này nhắc nhở chúng",
+            "points": [
+                [
+                    885.983928,
+                    482.327085
+                ],
+                [
+                    1567.494448,
+                    521.703111
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ta nhìn lại đời sống đức tin của mình. Đức tin",
+            "points": [
+                [
+                    885.983928,
+                    527.134287
+                ],
+                [
+                    1566.136654,
+                    556.8976319999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "là một trong ba nhân đức đối thần. Nó giúp",
+            "points": [
+                [
+                    882.878412,
+                    562.43693
+                ],
+                [
+                    1560.7054779999999,
+                    599.097367
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "chúng ta đi vào mối tương quan mật thiệt với Thiên Chúa. Nhìn tứ khía cạnh luân lý, đức",
+            "points": [
+                [
+                    282.914777,
+                    601.812955
+                ],
+                [
+                    1560.7054779999999,
+                    637.382479
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tin là cuộc gặp gỡ cá vị giữa chúng ta với Thiên Chúa. Nói cách khác, đây là cuộc gặp gỡ cá",
+            "points": [
+                [
+                    278.375885,
+                    644.171449
+                ],
+                [
+                    1561.929306,
+                    682.008625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vị giữa hai người yêu nhau. Kết quả của cuộc gặp gỡ này là sự lớn lên cách sâu đậm hơn",
+            "points": [
+                [
+                    279.036359,
+                    686.971342
+                ],
+                [
+                    1560.7054779999999,
+                    718.583238
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trong tình yêu. Ngọn đèn đức tin của chúng ta thế nào?",
+            "points": [
+                [
+                    277.678565,
+                    726.519393
+                ],
+                [
+                    1066.468471,
+                    763.390439
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hình ảnh thứ hai là cặp từ đối kháng giữa “năm cô dại” và “năm cô khôn” (Mt 25:3). Hình",
+            "points": [
+                [
+                    275.465333,
+                    797.335288
+                ],
+                [
+                    1557.7959179999998,
+                    837.726103
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ảnh này gợi cho chúng ta về hình ảnh lúa và cỏ lùng cùng mọc lên trong một thửa ruộng.",
+            "points": [
+                [
+                    270.654837,
+                    840.441691
+                ],
+                [
+                    1557.795918,
+                    876.126271
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ở đây, các cô dại và các cô khôn đều chờ đợi chàng rể đến. Sự khôn ngoan được nói đến",
+            "points": [
+                [
+                    271.352157,
+                    879.734143
+                ],
+                [
+                    1560.201166,
+                    919.471263
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trong bài Tin Mừng hôm nay không phải là thứ khôn ngoan của triết học hay của người",
+            "points": [
+                [
+                    268.946909,
+                    922.220116
+                ],
+                [
+                    1567.41691,
+                    955.9137979999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đời, hay mang tính lý thuyết, nhưng là sự khôn ngoan thực tế cần thiết cho ơn cứu độ.",
+            "points": [
+                [
+                    274.768013,
+                    956.611118
+                ],
+                [
+                    1561.2319859999998,
+                    994.448294
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Điều này được diễn tả trong hình ảnh các cô khôn vừa mang đèn vừa mang chai dầu theo,",
+            "points": [
+                [
+                    274.768013,
+                    996.853542
+                ],
+                [
+                    1561.2319859999998,
+                    1037.6012699999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trong khi các cô dại mang đèn mà không mang dầu. Điều phân biệt các cô dại với những",
+            "points": [
+                [
+                    274.262709,
+                    1041.279883
+                ],
+                [
+                    1553.9165079999998,
+                    1072.967465
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cô khôn là “bình dầu” (x. Mt 25:3-4). Bình dầu là biểu tượng của những việc tốt. Chính",
+            "points": [
+                [
+                    270.499667,
+                    1077.381131
+                ],
+                [
+                    1559.874192,
+                    1112.307755
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "những công việc tốt nhỏ bé hằng ngày chúng ta làm với trọn tình yêu là chất liệu giúp cho",
+            "points": [
+                [
+                    278.531055,
+                    1117.738931
+                ],
+                [
+                    1552.558715,
+                    1158.5550830000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngọn đèn đức tin cháy sáng. Dầu [việc tốt] và ngọn đèn [đức tin] là hai yếu tố không thể",
+            "points": [
+                [
+                    269.996344,
+                    1160.696942
+                ],
+                [
+                    1553.5497650000002,
+                    1198.534118
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tách rời trong việc tím kiếm sự khôn ngoan cần thiết cho ơn cứu độ.",
+            "points": [
+                [
+                    292.341772,
+                    1202.450878
+                ],
+                [
+                    1265.092709,
+                    1240.6619790000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hình ảnh thứ ba là việc “chú rể đến chậm, nên các cô thiếp đi, rồi ngủ cả” (Mt 25:5). Những",
+            "points": [
+                [
+                    278.451467,
+                    1278.964773
+                ],
+                [
+                    1582.8383210000002,
+                    1314.006709
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lời này ám chỉ đến việc vì “ngày cánh chung đến chậm,” nên tình yêu của chúng ta dành",
+            "points": [
+                [
+                    269.023504,
+                    1315.556014
+                ],
+                [
+                    1592.537991,
+                    1351.962255
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cho Chúa và cho nhau dần dần trở nên lạnh nhạt. Chúng ta thấy, ngay cả các cô khôn cũng",
+            "points": [
+                [
+                    277.908349,
+                    1352.828766
+                ],
+                [
+                    1564.295727,
+                    1390.2067670000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rơi vào tình trạng thiếp đi và ngủ. Điều này cho thấy việc hoàn toàn tỉnh thức tuyệt đối",
+            "points": [
+                [
+                    271.857461,
+                    1393.193914
+                ],
+                [
+                    1558.321434,
+                    1431.03109
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "không phải là điểm nhấn của dụ ngôn. Chúng ta có thể nói rằng, dụ ngôn này ám chỉ đến",
+            "points": [
+                [
+                    271.857461,
+                    1431.03109
+                ],
+                [
+                    1558.321434,
+                    1471.778818
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thân phận yếu đuối mà tất cả chúng ta [người khôn kẻ dại ] đều chia sẻ. Tuy nhiên, điều",
+            "points": [
+                [
+                    271.857461,
+                    1473.348986
+                ],
+                [
+                    1558.321434,
+                    1514.096714
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phân biệt chúng ta là khi Chúa đến, chúng ta sẽ như thế nào? Câu chuyện kể cho chúng ta",
+            "points": [
+                [
+                    274.768013,
+                    1518.208071
+                ],
+                [
+                    1564.372323,
+                    1552.79034
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hay rằng: Khi biết chú rể đến, tất cả mười cô đều thức dậy, và sửa soạn đèn (Mt 26: 6-7).",
+            "points": [
+                [
+                    274.768013,
+                    1557.448318
+                ],
+                [
+                    1571.84019,
+                    1588.047708
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đến đây chúng ta vẫn thấy mười cô [tất cả các môn đệ] đều giống nhau. Nhưng sao chàng",
+            "points": [
+                [
+                    276.184992,
+                    1588.047708
+                ],
+                [
+                    1571.84019,
+                    1627.301862
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rể lại đến trễ? Như chúng ta biết, hình ảnh chàng rể là Con Người, Ngài là Thiên Chúa của",
+            "points": [
+                [
+                    273.27444,
+                    1633.62056
+                ],
+                [
+                    1565.7127060000003,
+                    1668.202779
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sự ngạc nhiên. Tiếng kêu trong đêm vắng diễn tả sự chờ mong Nước Trời đến của Giáo",
+            "points": [
+                [
+                    271.857461,
+                    1669.696352
+                ],
+                [
+                    1561.231986,
+                    1710.44408
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hội sơ khai. Trong sự mong chờ đó, mười trinh nữ [các môn đệ] mệt mỏi, thiếp đi và ngủ.",
+            "points": [
+                [
+                    277.678565,
+                    1710.44408
+                ],
+                [
+                    1561.231986,
+                    1751.191808
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Khi Con Người đến, đèn của tất cả sắp tắt (x. Mt 25:8). Đến đây, người khôn kẻ dại được",
+            "points": [
+                [
+                    264.312999,
+                    1754.178954
+                ],
+                [
+                    1568.853043,
+                    1785.965044
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phân biệt: người khôn đem theo dầu, còn kẻ dại thì không. Hình ảnh dầu, trong Kinh",
+            "points": [
+                [
+                    271.857461,
+                    1789.028983
+                ],
+                [
+                    1561.231986,
+                    1832.687263
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thánh, là những công việc bác ái: người khôn ngoan có dư thừa việc lành, còn người dại",
+            "points": [
+                [
+                    274.768013,
+                    1832.687263
+                ],
+                [
+                    1569.9636420000002,
+                    1873.434991
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thiếu việc lành việc tốt. Việc các cô khôn không chia sẻ dầu cho các cô dại ở đây không",
+            "points": [
+                [
+                    274.768013,
+                    1870.524438
+                ],
+                [
+                    1564.142538,
+                    1914.182718
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phải là việc thiếu bác ái hay hữu dụng. Chi tiết này đơn giản nói rằng việc tốt của họ không",
+            "points": [
+                [
+                    271.857461,
+                    1914.182718
+                ],
+                [
+                    1555.4108820000001,
+                    1952.019894
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thể chuyển cho người khác. Người khác có thể giúp, nhưng sự sẵn sàng để đón nhận ơn",
+            "points": [
+                [
+                    274.768013,
+                    1949.109342
+                ],
+                [
+                    1558.321434,
+                    1989.85707
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cứu độ thì tuyệt đối là trách nhiệm cá nhân. Sự sẵn sàng ở đây là dành cho chàng rể. Đây",
+            "points": [
+                [
+                    277.678565,
+                    1992.767621
+                ],
+                [
+                    1558.321434,
+                    2030.604797
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "chính là điểm quan trọng của dụ ngôn.",
+            "points": [
+                [
+                    280.589117,
+                    2036.57909
+                ],
+                [
+                    844.469956,
+                    2069.743985
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_BOOKCONTENT_018618.jpg",
+    "imageData": null,
+    "imageHeight": 2376,
+    "imageWidth": 1836
+}

@@ -1,0 +1,618 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Tạp chí KHOA HỌC ĐHSP TPHCM",
+            "points": [
+                [
+                    297.809939,
+                    155.894083
+                ],
+                [
+                    1552.043756,
+                    229.111245
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PHẠM VĂN NGỌC, QUÁCH VĂN TOÀN EM,",
+            "points": [
+                [
+                    903.812859,
+                    430.152646
+                ],
+                [
+                    1560.569489,
+                    472.709629
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NGUYỄN KIM HỒNG, TRẦN THỊ TUYẾT NHUNG",
+            "points": [
+                [
+                    803.92535,
+                    480.264295
+                ],
+                [
+                    1562.649486,
+                    521.319926
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "VAI TRÒ CỦA RỪNG NGẬP MẶN VEN BIỂN VIỆT NAM",
+            "points": [
+                [
+                    330.265206,
+                    326.229676
+                ],
+                [
+                    1544.894685,
+                    395.594864
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TÓM TẮT",
+            "points": [
+                [
+                    843.490325,
+                    563.695596
+                ],
+                [
+                    1024.799315,
+                    612.771714
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Rừng ngập mặn là hệ sinh thái chuyển tiếp giữa môi trường biển và môi trường nước",
+            "points": [
+                [
+                    387.419584,
+                    617.689952
+                ],
+                [
+                    1567.645372,
+                    656.494694
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngọt, có vai trò to lớn về kinh tế và sinh thái - môi trường nhưng do nhiêu nguyên nhân",
+            "points": [
+                [
+                    307.51975,
+                    658.017641
+                ],
+                [
+                    1567.9408079999998,
+                    695.7378580000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "như: phá rừng để làm đầm nuôi tôm, sản xuất nông nghiệp, đồng muối, do đô thị hóa, khai",
+            "points": [
+                [
+                    306.52483,
+                    697.225795
+                ],
+                [
+                    1568.8253650000001,
+                    734.4271759999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thác quá mức... diện tích và chất lượng rừng ngập mặn nước ta ngày càng giảm sút. Qua",
+            "points": [
+                [
+                    309.823327,
+                    736.910117
+                ],
+                [
+                    1567.409351,
+                    772.21939
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "bài báo này, giúp nhận thức đầy đủ về vai trò của rừng ngập mặn ven biển nước ta.",
+            "points": [
+                [
+                    309.823327,
+                    774.957507
+                ],
+                [
+                    1471.941244,
+                    815.53422
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Từ khóa: rừng ngập mặn Việt Nam, vai trò rừng ngập mặn Việt Nam, rừng ven biển",
+            "points": [
+                [
+                    392.326612,
+                    829.088371
+                ],
+                [
+                    1567.4093520000001,
+                    867.602441
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Việt Nam, hệ sinh thái rừng ngập mặn.",
+            "points": [
+                [
+                    309.823327,
+                    870.339986
+                ],
+                [
+                    849.6306159999999,
+                    914.538184
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ABSTRACT",
+            "points": [
+                [
+                    842.558904,
+                    922.199277
+                ],
+                [
+                    1038.7989029999999,
+                    955.2005260000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "The role of Mangroves in Viet Nam coast",
+            "points": [
+                [
+                    633.94341,
+                    962.901055
+                ],
+                [
+                    1235.0389030000001,
+                    1010.324973
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "The Mangroves found in tropical and subtropical tidal areas include estuaries and",
+            "points": [
+                [
+                    386.433501,
+                    1015.31013
+                ],
+                [
+                    1566.230697,
+                    1060.686929
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "marine shorelines play very important role in economic and ecological environment; but",
+            "points": [
+                [
+                    307.466011,
+                    1064.38349
+                ],
+                [
+                    1568.587918,
+                    1097.384793
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "due to many reasons, these have been destroyed for: firewood, shrimp pond, agricultural",
+            "points": [
+                [
+                    306.287383,
+                    1102.995743
+                ],
+                [
+                    1572.1237740000001,
+                    1135.8807299999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "production; salt pan, urbanization, over exploitation,... so the area and quality of",
+            "points": [
+                [
+                    307.466011,
+                    1140.047227
+                ],
+                [
+                    1572.123774,
+                    1177.6392230000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mangroves in Viet Nam lower day by day. This article is about rising awareness of people",
+            "points": [
+                [
+                    308.430342,
+                    1180.178578
+                ],
+                [
+                    1572.260386,
+                    1217.925333
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "on the role of mangroves in Viet Nam coast.",
+            "points": [
+                [
+                    308.981634,
+                    1221.543797
+                ],
+                [
+                    919.50604,
+                    1258.080956
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Keywords: Mangroves, the role of mangroves in Vietnam, the forest in Vietnam",
+            "points": [
+                [
+                    386.770463,
+                    1262.795467
+                ],
+                [
+                    1570.103515,
+                    1304.0470819999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1. Mở đầu",
+            "points": [
+                [
+                    311.338889,
+                    1387.470906
+                ],
+                [
+                    522.311585,
+                    1427.802036
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coast, Mangroves ecosystem.",
+            "points": [
+                [
+                    310.338659,
+                    1308.566398
+                ],
+                [
+                    722.5049690000001,
+                    1348.011992
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Rừng ngập mặn (RNM) là loại rừng phân bố ở vùng cửa sông, ven biên nhiệt đới",
+            "points": [
+                [
+                    383.492716,
+                    1436.641028
+                ],
+                [
+                    1570.361624,
+                    1480.229582
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "và cận nhiệt đới, nơi có thủy triều ra vào hàng ngày.",
+            "points": [
+                [
+                    311.498049,
+                    1481.613605
+                ],
+                [
+                    1064.635343,
+                    1521.456059
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Việt Nam có diện tích đất liền: 331 698km2, từ 8°10 tới 23°24 vĩ Bắc, bờ biển dài",
+            "points": [
+                [
+                    384.671317,
+                    1528.953784
+                ],
+                [
+                    1572.129552,
+                    1571.388972
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3260km, khí hậu nhiệt đới gió mùa, nhiệt độ trung bình năm là 27°C ở miền Nam, 21°C",
+            "points": [
+                [
+                    312.775599,
+                    1574.924828
+                ],
+                [
+                    1573.897479,
+                    1613.639262
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ở miền Bắc; lượng mưa trung bình 2000mm/năm với các hệ thống sông lớn: sông",
+            "points": [
+                [
+                    311.855108,
+                    1615.48055
+                ],
+                [
+                    1572.976988,
+                    1655.701478
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hồng, sông Đồng Nai - Vàm Cỏ, sông Cửu Long đã hình thành nên thảm thực vật",
+            "points": [
+                [
+                    312.719396,
+                    1659.164558
+                ],
+                [
+                    1573.353821,
+                    1693.957424
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "RNM ven biển xanh tốt từ Quảng Ninh đến Hà Tiên.",
+            "points": [
+                [
+                    312.658466,
+                    1695.589151
+                ],
+                [
+                    1066.584753,
+                    1734.787372
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2. Thời gian, địa điểm và phương pháp nghiên cứu",
+            "points": [
+                [
+                    312.658466,
+                    1741.605857
+                ],
+                [
+                    1129.411943,
+                    1790.309076
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2.1. Thời gian: năm 2010 đến năm 2011",
+            "points": [
+                [
+                    312.658466,
+                    1793.231271
+                ],
+                [
+                    920.475007,
+                    1839.98639
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2.2. Phương pháp nghiên cứu",
+            "points": [
+                [
+                    312.63146,
+                    1847.778968
+                ],
+                [
+                    794.015662,
+                    1898.4302870000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ThS, Trường Đại học Sư phạm TPHCM",
+            "points": [
+                [
+                    338.155137,
+                    1998.087459
+                ],
+                [
+                    849.740487,
+                    2029.204271
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PGS TS, Trường Đại học Sư phạm TPHCM",
+            "points": [
+                [
+                    344.595248,
+                    2031.536109
+                ],
+                [
+                    902.8713030000001,
+                    2061.683424
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HVCH, Trường Đại học Sư phạm TPHCM",
+            "points": [
+                [
+                    348.620286,
+                    2063.598619
+                ],
+                [
+                    899.248748,
+                    2094.88634
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "115",
+            "points": [
+                [
+                    1489.263272,
+                    2125.681818
+                ],
+                [
+                    1578.4775359999999,
+                    2183.57616
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TS, Trường Đại học Sư phạm TPHCM",
+            "points": [
+                [
+                    329.723475,
+                    1962.264623
+                ],
+                [
+                    818.345005,
+                    1996.477422
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_BOOKCONTENT_018589.jpg",
+    "imageData": null,
+    "imageHeight": 2376,
+    "imageWidth": 1836
+}

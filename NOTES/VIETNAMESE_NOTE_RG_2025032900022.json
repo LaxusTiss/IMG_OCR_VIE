@@ -1,0 +1,330 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Date",
+            "points": [
+                [
+                    549.229918,
+                    -1.085863
+                ],
+                [
+                    623.549498,
+                    23.68733
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Land Info",
+            "points": [
+                [
+                    762.726344,
+                    22.184772
+                ],
+                [
+                    889.4757050000001,
+                    51.103314999999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": ".com.vn",
+            "points": [
+                [
+                    835.01114,
+                    52.589275
+                ],
+                [
+                    889.571791,
+                    64.018977
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Cộng hòa_xã hội _chủ nghĩa _Việt Nam",
+            "points": [
+                [
+                    95.392291,
+                    50.607579
+                ],
+                [
+                    762.286655,
+                    123.936231
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Độc lập _Tự do _ Hạnh phúc",
+            "points": [
+                [
+                    153.871343,
+                    127.10793
+                ],
+                [
+                    660.971711,
+                    186.669886
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GIẤY ĐẶT CỌC MUA ĐẤT",
+            "points": [
+                [
+                    182.660468,
+                    240.209436
+                ],
+                [
+                    665.840106,
+                    316.892799
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Khẩu thường trú tại : ___________ . Hôm nay,",
+            "points": [
+                [
+                    38.234241,
+                    388.061829
+                ],
+                [
+                    848.813127,
+                    450.490276
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngày 505/08/2022, Tôi có bán cho bà _________",
+            "points": [
+                [
+                    41.207025,
+                    452.167837
+                ],
+                [
+                    897.368586,
+                    504.000373
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1 lô đất diện tích ________m2, tại _________ .",
+            "points": [
+                [
+                    53.098157,
+                    507.147197
+                ],
+                [
+                    863.677043,
+                    570.530801
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bà _______ đặt cọc 50.000.000 đ . Lô đất ",
+            "points": [
+                [
+                    43.18888,
+                    572.530187
+                ],
+                [
+                    858.7224040000001,
+                    634.802834
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tôi bán với giá 650.000.000₫ Bà ____________ hẹn ",
+            "points": [
+                [
+                    37.243314,
+                    639.757473
+                ],
+                [
+                    880.522815,
+                    695.212638
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngày 25/08/2022 sẽ ra công chứng. khi đó,",
+            "points": [
+                [
+                    50.125374,
+                    697.01524
+                ],
+                [
+                    861.6951869999999,
+                    761.165856
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "bà _________ sẽ trả  600 000.000₫ còn lại .\n",
+            "points": [
+                [
+                    69.943929,
+                    762.632512
+                ],
+                [
+                    834.940139,
+                    816.04849
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nếu bên A không thực hiện đúng sẽ mất ",
+            "points": [
+                [
+                    79.15923,
+                    819.320213
+                ],
+                [
+                    884.783477,
+                    882.376756
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cọc . Bên B không thực hiện đúng sẽ đền ",
+            "points": [
+                [
+                    56.367892,
+                    883.439906
+                ],
+                [
+                    888.7471879999999,
+                    955.144829
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cọc .",
+            "points": [
+                [
+                    53.395109,
+                    963.072251
+                ],
+                [
+                    139.605822,
+                    1006.3114380000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bên mua   Bên bán ",
+            "points": [
+                [
+                    139.605822,
+                    1007.586017
+                ],
+                [
+                    813.246931,
+                    992.027102
+                ],
+                [
+                    791.62669,
+                    1037.970115
+                ],
+                [
+                    140.313671,
+                    1056.770338
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Tôi tên là: ______sinh năm ______  . Hộ",
+            "points": [
+                [
+                    71.951877,
+                    322.833155
+                ],
+                [
+                    813.4725549999999,
+                    374.948062
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Kí Tên    Kí Tên ",
+            "points": [
+                [
+                    194.301028,
+                    1057.646088
+                ],
+                [
+                    195.3032,
+                    1106.120933
+                ],
+                [
+                    782.621717,
+                    1088.151415
+                ],
+                [
+                    779.389329,
+                    1040.430237
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_NOTE_RG_2025032900022.jpg",
+    "imageData": null,
+    "imageHeight": 1200,
+    "imageWidth": 900
+}

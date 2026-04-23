@@ -1,0 +1,426 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "BỘ GTVT",
+            "points": [
+                [
+                    193.261768,
+                    48.009723
+                ],
+                [
+                    342.236402,
+                    87.69292200000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MOT",
+            "points": [
+                [
+                    225.138436,
+                    90.945644
+                ],
+                [
+                    317.27599100000003,
+                    122.466376
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+            "points": [
+                [
+                    465.359691,
+                    55.16571
+                ],
+                [
+                    1143.877347,
+                    100.703807
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Độc lập - Tự do - Hạnh phúc",
+            "points": [
+                [
+                    569.92689,
+                    102.004896
+                ],
+                [
+                    1038.969296,
+                    140.387007
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GIẤY PHÉP LÁI XE/DRIVER'S LICENSE",
+            "points": [
+                [
+                    419.602801,
+                    143.639728
+                ],
+                [
+                    1174.884678,
+                    153.397892
+                ],
+                [
+                    1175.377255,
+                    198.799597
+                ],
+                [
+                    424.386758,
+                    187.872486
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Số/ No: 011166040887",
+            "points": [
+                [
+                    657.750365,
+                    213.247963
+                ],
+                [
+                    1043.523107,
+                    260.087149
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Họ tên/Full name:",
+            "points": [
+                [
+                    427.404196,
+                    270.017005
+                ],
+                [
+                    648.911826,
+                    306.57651699999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ĐẬU THỊ LINH",
+            "points": [
+                [
+                    807.51559,
+                    272.705204
+                ],
+                [
+                    1040.313657,
+                    312.490555
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày sinh/Date of Birth:",
+            "points": [
+                [
+                    426.866556,
+                    318.404594
+                ],
+                [
+                    723.106129,
+                    358.18994499999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12/01/1993",
+            "points": [
+                [
+                    869.344176,
+                    328.082112
+                ],
+                [
+                    1023.6468209999999,
+                    359.265225
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quốc tịch/Nationality:",
+            "points": [
+                [
+                    426.328916,
+                    364.641623
+                ],
+                [
+                    698.912334,
+                    408.190453
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "VIỆT NAM",
+            "points": [
+                [
+                    858.053738,
+                    375.394421
+                ],
+                [
+                    1024.7221,
+                    411.953933
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nơi cư trú/Address:",
+            "points": [
+                [
+                    424.178356,
+                    421.63145
+                ],
+                [
+                    667.729221,
+                    456.040402
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Khối 8",
+            "points": [
+                [
+                    882.785173,
+                    421.63145
+                ],
+                [
+                    979.022711,
+                    457.115682
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "P. Mai Hùng, TX. Hoàng Mai, T. Nghệ An",
+            "points": [
+                [
+                    525.802365,
+                    459.266242
+                ],
+                [
+                    1090.3141660000001,
+                    499.29159599999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hà Nội, ngày/date 23 tháng/month 04 năm/year 2019",
+            "points": [
+                [
+                    564.814582,
+                    518.724906
+                ],
+                [
+                    1188.816629,
+                    528.027689
+                ],
+                [
+                    1180.945044,
+                    559.514031
+                ],
+                [
+                    548.355812,
+                    549.49565
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "TL. GIÁM ĐỐC SỞ",
+            "points": [
+                [
+                    803.173239,
+                    553.53122
+                ],
+                [
+                    1049.333915,
+                    557.429692
+                ],
+                [
+                    1044.860428,
+                    585.10664
+                ],
+                [
+                    807.587953,
+                    580.663335
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "TRƯỞNG PHÒNG QLPT&NL",
+            "points": [
+                [
+                    734.717755,
+                    583.329318
+                ],
+                [
+                    1120.84094,
+                    587.328293
+                ],
+                [
+                    1116.841966,
+                    615.321113
+                ],
+                [
+                    734.717755,
+                    612.210799
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "GIAO THONG",
+            "points": [
+                [
+                    742.495843,
+                    613.682945
+                ],
+                [
+                    899.7003970000001,
+                    638.568608
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    759.187446,
+                    640.996478
+                ],
+                [
+                    880.580924,
+                    673.469233
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ĐÀO DUY PHONG",
+            "points": [
+                [
+                    762.780215,
+                    691.144774
+                ],
+                [
+                    1081.256005,
+                    735.210607
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hạng/Class: B2",
+            "points": [
+                [
+                    106.524436,
+                    604.990686
+                ],
+                [
+                    309.06629,
+                    638.856492
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Băng lái xe B2",
+            "points": [
+                [
+                    347.896985,
+                    598.001367
+                ],
+                [
+                    658.1429519999999,
+                    654.758114
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Có giá trị đến/Expires:23/04/2029",
+            "points": [
+                [
+                    103.298597,
+                    666.281632
+                ],
+                [
+                    570.134743,
+                    707.81797
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_IDCARD_RG_2025032900022.jpg",
+    "imageData": null,
+    "imageHeight": 785,
+    "imageWidth": 1256
+}

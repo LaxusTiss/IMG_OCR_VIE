@@ -1,0 +1,234 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "HỌC VIỆN BÁO CHÍ VÀ TUYÊN TRUYỀN",
+            "points": [
+                [
+                    94.605147,
+                    74.118985
+                ],
+                [
+                    830.992174,
+                    122.467905
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "THẺ RA VÀO KÝ TÚC XÁ",
+            "points": [
+                [
+                    410.62756,
+                    154.679176
+                ],
+                [
+                    768.711817,
+                    203.01552
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Họ và tên: Nguyễn Phương Nga",
+            "points": [
+                [
+                    372.853726,
+                    204.233004
+                ],
+                [
+                    826.759465,
+                    270.264921
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Năm sinh: 10/04/1999",
+            "points": [
+                [
+                    371.114666,
+                    271.603042
+                ],
+                [
+                    746.889208,
+                    304.438018
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Lớp: Báo chí - K37",
+            "points": [
+                [
+                    370.092239,
+                    309.466077
+                ],
+                [
+                    766.270812,
+                    352.48790299999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phòng: 508 - E6",
+            "points": [
+                [
+                    370.108045,
+                    364.158627
+                ],
+                [
+                    695.537109,
+                    409.37455
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày 28 tháng 08 năm 2017",
+            "points": [
+                [
+                    465.087415,
+                    417.002126
+                ],
+                [
+                    826.271504,
+                    457.19543999999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trưởng phòng",
+            "points": [
+                [
+                    552.930278,
+                    460.355994
+                ],
+                [
+                    721.687724,
+                    493.05460800000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    609.932783,
+                    494.710844
+                ],
+                [
+                    737.26661,
+                    516.105826
+                ],
+                [
+                    607.824299,
+                    558.225944
+                ],
+                [
+                    510.038666,
+                    570.896223
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Lê Khánh Lộc",
+            "points": [
+                [
+                    556.018229,
+                    565.933422
+                ],
+                [
+                    718.370188,
+                    564.80836
+                ],
+                [
+                    717.74757,
+                    595.00534
+                ],
+                [
+                    555.140462,
+                    591.407985
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Thẻ có giá trị",
+            "points": [
+                [
+                    137.024236,
+                    525.511724
+                ],
+                [
+                    296.313195,
+                    531.384129
+                ],
+                [
+                    294.111043,
+                    560.012099
+                ],
+                [
+                    136.290185,
+                    557.075897
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "hết năm 2027",
+            "points": [
+                [
+                    137.139891,
+                    559.163364
+                ],
+                [
+                    309.074907,
+                    560.275597
+                ],
+                [
+                    304.33694,
+                    590.856956
+                ],
+                [
+                    137.478483,
+                    586.93911
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_CARD_RG_2025033100031.jpg",
+    "imageData": null,
+    "imageHeight": 639,
+    "imageWidth": 1015
+}

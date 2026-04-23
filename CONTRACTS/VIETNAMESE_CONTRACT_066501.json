@@ -1,0 +1,650 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Sản phẩm bảo hiểm nhân thọ liên kết chung đóng phí định kỳ",
+            "points": [
+                [
+                    255.706116,
+                    2051.747803
+                ],
+                [
+                    942.9885260000001,
+                    2081.9868170000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "13/27",
+            "points": [
+                [
+                    1366.476685,
+                    2053.9104
+                ],
+                [
+                    1434.2213140000001,
+                    2082.568603
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "V3_072020",
+            "points": [
+                [
+                    1475.25293,
+                    1943.293823
+                ],
+                [
+                    1499.8815920000002,
+                    2041.328003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.3.1 Phiếu yêu cầu giải quyết quyền lợi bảo hiểm (theo mẫu của Prudential)",
+            "points": [
+                [
+                    353.341932,
+                    237.861475
+                ],
+                [
+                    1435.9985900000001,
+                    272.838571
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "được điền đầy đủ, trung thực và chính xác; và",
+            "points": [
+                [
+                    444.951355,
+                    275.849853
+                ],
+                [
+                    1038.099134,
+                    309.900417
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.3.2 Giấy Chẩn đoán Bệnh hiểm nghèo giai đoạn cuối được cấp bởi viện, bệnh",
+            "points": [
+                [
+                    353.341932,
+                    331.442622
+                ],
+                [
+                    1434.610555,
+                    367.80955099999994
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "viện, trung tâm y tế cấp tỉnh hoặc cấp trung ương; và",
+            "points": [
+                [
+                    445.626231,
+                    371.322399
+                ],
+                [
+                    1138.489773,
+                    405.58928000000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.3.3 Các giấy tờ, hồ sơ chẩn đoán, xét nghiệm liên quan đến tiến trình phát hiện",
+            "points": [
+                [
+                    352.879864,
+                    423.633022
+                ],
+                [
+                    1433.223153,
+                    457.451935
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "và điều trị Bệnh hiểm nghèo giai đoạn cuối, giấy 'ra viện, bệnh án, giấy chứng",
+            "points": [
+                [
+                    451.111991,
+                    461.695463
+                ],
+                [
+                    1433.873179,
+                    494.77225300000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nhận phẫu thuật, xạ trị, nếu có, các bằng chứng về lâm sàng, X quang, tế bào",
+            "points": [
+                [
+                    449.576468,
+                    498.132904
+                ],
+                [
+                    1433.809785,
+                    534.122719
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "học, kết quả xét nghiệm được thực hiện theo yêu cầu của bác sĩ.",
+            "points": [
+                [
+                    449.576424,
+                    536.419994
+                ],
+                [
+                    1283.153988,
+                    569.729699
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.4 Trường hợp Quyền lợi đảm bảo gia tăng Số tiền bảo hiểm",
+            "points": [
+                [
+                    260.683125,
+                    599.124644
+                ],
+                [
+                    1145.881318,
+                    633.872765
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bên mua bảo hiểm phải cung cấp cho Prudential trong thời gian sớm nhất có thể",
+            "points": [
+                [
+                    353.154736,
+                    655.461295
+                ],
+                [
+                    1437.977559,
+                    691.828224
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "những giấy tờ sau đây:",
+            "points": [
+                [
+                    352.369858,
+                    693.7299
+                ],
+                [
+                    649.052754,
+                    727.9162060000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.4.1 Phiếu yêu cầu điều chỉnh hợp đồng; và",
+            "points": [
+                [
+                    354.715507,
+                    749.7105
+                ],
+                [
+                    953.559045,
+                    785.149726
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.4.2 Bằng chứng về việc phát sinh các sự kiện để được hưởng Quyền lợi đảm",
+            "points": [
+                [
+                    353.588294,
+                    806.39466
+                ],
+                [
+                    1436.244952,
+                    841.4370640000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "bảo gia tăng Số tiền bảo hiểm như bản sao có chứng thực Giấy chứng nhận",
+            "points": [
+                [
+                    444.852766,
+                    844.368922
+                ],
+                [
+                    1434.2481539999999,
+                    879.401561
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "kết hôn, bản sao Giấy khai sinh, bản sao có chứng thực Giấy chứng nhận",
+            "points": [
+                [
+                    446.382243,
+                    881.890224
+                ],
+                [
+                    1436.733569,
+                    915.774241
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nuôi con nuôi, bằng chứng về việc nhập học.",
+            "points": [
+                [
+                    446.382243,
+                    920.177285
+                ],
+                [
+                    1031.607208,
+                    953.48699
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.5 Trường hợp Quyền lợi Đáo hạn hợp đồng",
+            "points": [
+                [
+                    258.253711,
+                    977.607861
+                ],
+                [
+                    924.5422000000001,
+                    1012.4490529999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bên mua bảo hiểm phải cung cấp cho Prudential trong thời gian sớm nhất có thể",
+            "points": [
+                [
+                    352.878201,
+                    1034.864235
+                ],
+                [
+                    1438.310895,
+                    1067.7566160000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phiếu yêu cầu (theo mẫu của Prudential) đã được điền đầy đủ, trung thực và chính",
+            "points": [
+                [
+                    351.711243,
+                    1073.295489
+                ],
+                [
+                    1436.1988099999999,
+                    1105.95622
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "xác.",
+            "points": [
+                [
+                    349.942182,
+                    1110.88473
+                ],
+                [
+                    401.53992700000003,
+                    1138.635982
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.6 Thời hạn yêu cầu giải quyết Quyền lợi Bệnh hiểm nghèo giai đoạn cuối là 60 ngày",
+            "points": [
+                [
+                    260.490531,
+                    1165.902098
+                ],
+                [
+                    1437.0699459999998,
+                    1200.464692
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "kể từ ngày Người được bảo hiểm được chẩn đoán mắc Bệnh hiểm nghèo giai đoạn",
+            "points": [
+                [
+                    352.607576,
+                    1203.353078
+                ],
+                [
+                    1436.8734559999998,
+                    1237.466752
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cuối theo quy định tại Điều 2.32. Thời hạn yêu cầu giải quyết các quyền lợi bảo",
+            "points": [
+                [
+                    352.296468,
+                    1242.314492
+                ],
+                [
+                    1436.874067,
+                    1275.796488
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hiểm khác là 12 tháng kể từ ngày xảy ra sự kiện bảo hiểm.",
+            "points": [
+                [
+                    351.666868,
+                    1278.341821
+                ],
+                [
+                    1100.774312,
+                    1312.841305
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prudential có trách nhiệm xem xét giải quyết Hồ sơ yêu cầu giải quyết quyền lợi bảo",
+            "points": [
+                [
+                    351.24438,
+                    1336.62199
+                ],
+                [
+                    1436.3069460000002,
+                    1368.4173520000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hiểm trong thời gian 30 ngày kể từ khi nhận được Hồ sơ yêu cầu giải quyết quyền lợi",
+            "points": [
+                [
+                    352.785514,
+                    1373.11109
+                ],
+                [
+                    1436.3675059999998,
+                    1407.856571
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "bảo hiểm đầy đủ và hợp lệ theo các quy định nêu tại Điều 10.1 đến Điều 10.3.",
+            "points": [
+                [
+                    350.009478,
+                    1410.172936
+                ],
+                [
+                    1336.931074,
+                    1444.769583
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trừ trường hợp bất khả kháng, nếu quá thời hạn 30 ngày trên, khi thanh toán các",
+            "points": [
+                [
+                    350.615701,
+                    1464.128767
+                ],
+                [
+                    1436.006337,
+                    1499.5059899999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hồ sơ được chấp nhận chi trả, Prudential sẽ trả thêm lãi của số tiền này theo mức",
+            "points": [
+                [
+                    351.456897,
+                    1502.032992
+                ],
+                [
+                    1436.63723,
+                    1535.514988
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lãi suất áp dụng cho tiền gửi tiết kiệm có kỳ hạn tương đương với thời gian quá",
+            "points": [
+                [
+                    352.298125,
+                    1539.094818
+                ],
+                [
+                    1436.63723,
+                    1574.472041
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hạn do Ngân hàng Ngoại thương Việt Nam quy định tại thời điểm thanh toán.",
+            "points": [
+                [
+                    348.091952,
+                    1577.841345
+                ],
+                [
+                    1363.086398,
+                    1610.152975
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.7 Người nhận quyền lợi bảo hiểm",
+            "points": [
+                [
+                    256.886641,
+                    1635.303691
+                ],
+                [
+                    789.3675699999999,
+                    1669.612534
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.7.1 Trường hợp Đáo hạn hợp đồng: Prudential sẽ chi trả quyền lợi bảo hiểm",
+            "points": [
+                [
+                    353.373019,
+                    1692.245365
+                ],
+                [
+                    1435.3987579999998,
+                    1726.8359
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cho Bên mua bảo hiểm.",
+            "points": [
+                [
+                    447.203352,
+                    1730.253679
+                ],
+                [
+                    754.285853,
+                    1760.215813
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.7.2 Những trường hợp khác:",
+            "points": [
+                [
+                    354.980508,
+                    1789.195581
+                ],
+                [
+                    788.231721,
+                    1822.792462
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "a. Bên mua bảo hiểm là cá nhân: Prudential sẽ chi trả quyền lợi bảo",
+            "points": [
+                [
+                    445.701078,
+                    1844.065458
+                ],
+                [
+                    1434.981741,
+                    1881.127285
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hiểm theo thứ tự ưu tiên như sau:",
+            "points": [
+                [
+                    540.275093,
+                    1883.543456
+                ],
+                [
+                    976.7806009999999,
+                    1917.658007
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_CONTRACT_066501.png",
+    "imageData": null,
+    "imageHeight": 2200,
+    "imageWidth": 1700
+}

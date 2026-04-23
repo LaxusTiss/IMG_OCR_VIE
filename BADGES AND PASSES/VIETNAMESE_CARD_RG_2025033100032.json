@@ -1,0 +1,218 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Họ và tên (Full Name): Bùi Như Quỳnh",
+            "points": [
+                [
+                    321.934524,
+                    282.818452
+                ],
+                [
+                    797.5,
+                    319.93154699999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày sinh (Date of Birth): 18/05/2004",
+            "points": [
+                [
+                    319.345238,
+                    330.28869
+                ],
+                [
+                    776.785714,
+                    369.991071
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Lớp (Class): Truyền thông đại chúng K42A1",
+            "points": [
+                [
+                    315.029762,
+                    378.622024
+                ],
+                [
+                    887.261905,
+                    424.36607200000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã SV (ID): 2251050040",
+            "points": [
+                [
+                    94.077381,
+                    490.824405
+                ],
+                [
+                    408.244048,
+                    524.485119
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Có giá trị đến (Expires): 30.10.2026",
+            "points": [
+                [
+                    89.933201,
+                    529.66369
+                ],
+                [
+                    535.119048,
+                    569.3660709999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "AJC",
+            "points": [
+                [
+                    194.196429,
+                    143.220965
+                ],
+                [
+                    225.42035199999998,
+                    157.064376
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "THẺ SINH VIÊN",
+            "points": [
+                [
+                    444.455322,
+                    159.676582
+                ],
+                [
+                    854.325696,
+                    169.141238
+                ],
+                [
+                    851.996392,
+                    222.050165
+                ],
+                [
+                    442.252467,
+                    211.792821
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Khóa học (Course):  2022 - 2026",
+            "points": [
+                [
+                    315.892857,
+                    437.3125
+                ],
+                [
+                    784.5535709999999,
+                    466.657738
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HỌC VIỆN CHÍNH TRỊ QUỐC GIA HỒ CHÍ MINH",
+            "points": [
+                [
+                    342.145092,
+                    93.491968
+                ],
+                [
+                    343.363595,
+                    68.750924
+                ],
+                [
+                    864.357618,
+                    75.81525
+                ],
+                [
+                    865.257952,
+                    107.226613
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "HỌC VIỆN BÁO CHÍ VÀ TUYÊN TRUYỀN",
+            "points": [
+                [
+                    350.704212,
+                    132.908442
+                ],
+                [
+                    351.135422,
+                    101.947901
+                ],
+                [
+                    860.267008,
+                    112.0554
+                ],
+                [
+                    859.732314,
+                    140.394149
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "STUDENT CARD",
+            "points": [
+                [
+                    527.807827,
+                    220.053602
+                ],
+                [
+                    745.202238,
+                    226.653811
+                ],
+                [
+                    743.964698,
+                    249.342031
+                ],
+                [
+                    522.995179,
+                    244.254378
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_CARD_RG_2025033100032.jpg",
+    "imageData": null,
+    "imageHeight": 639,
+    "imageWidth": 1015
+}

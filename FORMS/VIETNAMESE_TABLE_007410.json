@@ -1,0 +1,778 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "32",
+            "points": [
+                [
+                    161.683974,
+                    73.429512
+                ],
+                [
+                    201.913927,
+                    113.191675
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tổng tỷ suất sinh phân theo thành thị, nông thôn",
+            "points": [
+                [
+                    203.785088,
+                    76.236253
+                ],
+                [
+                    573.8071,
+                    95.415649
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Total fertility rate by residence",
+            "points": [
+                [
+                    205.656249,
+                    97.7546
+                ],
+                [
+                    418.968559,
+                    116.466206
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ĐVT: Số con/phụ nữ - Unit: Children per woman",
+            "points": [
+                [
+                    473.232217,
+                    130.03212
+                ],
+                [
+                    689.061085,
+                    144.675426
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tổng số",
+            "points": [
+                [
+                    391.83673,
+                    157.163949
+                ],
+                [
+                    433.470054,
+                    172.13323400000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Total",
+            "points": [
+                [
+                    400.444483,
+                    173.536605
+                ],
+                [
+                    425.23026,
+                    185.231359
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chia ra - Of which",
+            "points": [
+                [
+                    535.048877,
+                    157.63174
+                ],
+                [
+                    622.349892,
+                    171.496666
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thành thị",
+            "points": [
+                [
+                    501.767416,
+                    188.0381
+                ],
+                [
+                    548.0786410000001,
+                    203.942965
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Urban",
+            "points": [
+                [
+                    508.316478,
+                    204.410755
+                ],
+                [
+                    539.244834,
+                    215.637719
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nông thôn",
+            "points": [
+                [
+                    605.616831,
+                    188.0381
+                ],
+                [
+                    659.4126990000001,
+                    203.47517499999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Rural",
+            "points": [
+                [
+                    618.439557,
+                    204.603147
+                ],
+                [
+                    648.3022520000001,
+                    214.89453
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2005",
+            "points": [
+                [
+                    245.551253,
+                    253.556916
+                ],
+                [
+                    271.840286,
+                    266.701433
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,11",
+            "points": [
+                [
+                    398.646212,
+                    253.170313
+                ],
+                [
+                    420.682608,
+                    267.088037
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1,73",
+            "points": [
+                [
+                    513.080828,
+                    253.170313
+                ],
+                [
+                    537.823448,
+                    265.541623
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,28",
+            "points": [
+                [
+                    620.943186,
+                    251.623899
+                ],
+                [
+                    645.685806,
+                    268.247847
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2006",
+            "points": [
+                [
+                    245.551253,
+                    282.16557
+                ],
+                [
+                    271.453683,
+                    296.083294
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,09",
+            "points": [
+                [
+                    399.806022,
+                    282.938777
+                ],
+                [
+                    423.388831,
+                    296.469897
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1,72",
+            "points": [
+                [
+                    513.467432,
+                    283.325381
+                ],
+                [
+                    537.4368450000001,
+                    298.016311
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,25",
+            "points": [
+                [
+                    620.507205,
+                    282.129553
+                ],
+                [
+                    645.486841,
+                    297.233519
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2007",
+            "points": [
+                [
+                    244.360363,
+                    313.789789
+                ],
+                [
+                    270.501842,
+                    325.40822399999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,07",
+            "points": [
+                [
+                    399.466474,
+                    311.756563
+                ],
+                [
+                    424.155649,
+                    326.27960700000006
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1,70",
+            "points": [
+                [
+                    511.584374,
+                    313.789789
+                ],
+                [
+                    536.56401,
+                    326.570068
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,22",
+            "points": [
+                [
+                    619.635822,
+                    313.208867
+                ],
+                [
+                    645.19638,
+                    325.989146
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2008",
+            "points": [
+                [
+                    244.941285,
+                    343.416799
+                ],
+                [
+                    271.373225,
+                    356.19707800000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,08",
+            "points": [
+                [
+                    400.047395,
+                    342.835877
+                ],
+                [
+                    423.865187,
+                    356.77799899999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1,83",
+            "points": [
+                [
+                    513.036678,
+                    343.126338
+                ],
+                [
+                    535.9830880000001,
+                    356.48753899999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,22",
+            "points": [
+                [
+                    621.959509,
+                    343.126338
+                ],
+                [
+                    644.615458,
+                    356.197078
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2009",
+            "points": [
+                [
+                    244.941285,
+                    373.624731
+                ],
+                [
+                    271.373225,
+                    384.952705
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,03",
+            "points": [
+                [
+                    400.047395,
+                    373.624731
+                ],
+                [
+                    423.284266,
+                    386.40501
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1,81",
+            "points": [
+                [
+                    513.036678,
+                    372.753348
+                ],
+                [
+                    535.111705,
+                    385.824088
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,14",
+            "points": [
+                [
+                    620.216744,
+                    373.915192
+                ],
+                [
+                    645.19638,
+                    386.985932
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2010",
+            "points": [
+                [
+                    245.522206,
+                    403.542202
+                ],
+                [
+                    270.501842,
+                    416.612942
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,00",
+            "points": [
+                [
+                    399.176013,
+                    403.542202
+                ],
+                [
+                    423.574727,
+                    416.322481
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1,77",
+            "points": [
+                [
+                    513.6176,
+                    402.96128
+                ],
+                [
+                    535.4021660000001,
+                    416.322481
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,11",
+            "points": [
+                [
+                    620.216744,
+                    403.542202
+                ],
+                [
+                    643.4536149999999,
+                    416.322481
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2011",
+            "points": [
+                [
+                    245.812667,
+                    434.040594
+                ],
+                [
+                    269.92092,
+                    445.078107
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1,99",
+            "points": [
+                [
+                    401.209239,
+                    433.750133
+                ],
+                [
+                    422.993805,
+                    445.94949
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1,70",
+            "points": [
+                [
+                    514.488983,
+                    432.878751
+                ],
+                [
+                    535.1117059999999,
+                    445.949491
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,12",
+            "points": [
+                [
+                    621.088126,
+                    433.459672
+                ],
+                [
+                    644.615457,
+                    446.239951
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2012",
+            "points": [
+                [
+                    245.231746,
+                    463.377143
+                ],
+                [
+                    271.954147,
+                    476.738344
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,05",
+            "points": [
+                [
+                    399.466474,
+                    463.667604
+                ],
+                [
+                    423.574727,
+                    476.157422
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1,80",
+            "points": [
+                [
+                    513.036678,
+                    463.667604
+                ],
+                [
+                    536.273549,
+                    476.157422
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,17",
+            "points": [
+                [
+                    621.669048,
+                    463.377143
+                ],
+                [
+                    644.615458,
+                    476.447883
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sơ bộ - Prel. 2013",
+            "points": [
+                [
+                    213.571509,
+                    492.713692
+                ],
+                [
+                    301.391348,
+                    507.817658
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,10",
+            "points": [
+                [
+                    399.756935,
+                    493.004153
+                ],
+                [
+                    425.607953,
+                    507.23673599999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1,86",
+            "points": [
+                [
+                    513.036678,
+                    493.585075
+                ],
+                [
+                    535.9830880000001,
+                    506.655815
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2,21",
+            "points": [
+                [
+                    621.669048,
+                    493.294614
+                ],
+                [
+                    644.034536,
+                    507.236736
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Dân số và Lao động - Population and Employment 87",
+            "points": [
+                [
+                    360.175318,
+                    884.973236
+                ],
+                [
+                    686.914769,
+                    902.757506
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_TABLE_007410.jpg",
+    "imageData": null,
+    "imageHeight": 1100,
+    "imageWidth": 850
+}

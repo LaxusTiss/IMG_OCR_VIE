@@ -1,0 +1,378 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Công Ty Thuận Tiến Gia Lai",
+            "points": [
+                [
+                    302.291184,
+                    48.35354
+                ],
+                [
+                    639.036546,
+                    80.776508
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PHIẾU TẠM THU ĐẶT CHỖ",
+            "points": [
+                [
+                    366.154007,
+                    91.578922
+                ],
+                [
+                    568.145579,
+                    113.486337
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Địa chỉ: 77 Đinh Tiên Hoàng - Tp. Pleiku - Gia Lai",
+            "points": [
+                [
+                    137.923109,
+                    142.636769
+                ],
+                [
+                    559.574505,
+                    165.47427299999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Điện thoại: 02693.744.777 - 02693.744.779",
+            "points": [
+                [
+                    142.110854,
+                    167.778992
+                ],
+                [
+                    502.569129,
+                    191.40216099999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Fax: 02693.823.252",
+            "points": [
+                [
+                    140.016981,
+                    197.111523
+                ],
+                [
+                    309.09633499999995,
+                    215.60152200000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "BÊN XE ĐỨC LONG GIA BÊN XE MIỀN ĐÔNG .",
+            "points": [
+                [
+                    139.333415,
+                    235.522974
+                ],
+                [
+                    672.968995,
+                    257.05361
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "LAI QUÀY VỀ 24",
+            "points": [
+                [
+                    141.283594,
+                    257.63902
+                ],
+                [
+                    672.968995,
+                    282.812295
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày đi 08/02/2025 (2) Ghế:",
+            "points": [
+                [
+                    139.333415,
+                    290.813081
+                ],
+                [
+                    674.0415969999999,
+                    313.93737300000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số tiền tam thu: 480.000/vé Tổng tam thu: 960.000 ₫",
+            "points": [
+                [
+                    139.983464,
+                    387.733363
+                ],
+                [
+                    676.1868000000001,
+                    409.459163
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Giờ xuất bến: 18:59 34, 32",
+            "points": [
+                [
+                    139.983464,
+                    322.035733
+                ],
+                [
+                    674.041597,
+                    347.209008
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã Code: M06Z2C TÀI 7",
+            "points": [
+                [
+                    141.283594,
+                    350.656483
+                ],
+                [
+                    672.968995,
+                    376.187529
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KHANG 0392625979",
+            "points": [
+                [
+                    138.499661,
+                    423.201984
+                ],
+                [
+                    321.220955,
+                    451.182377
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đón:",
+            "points": [
+                [
+                    137.102588,
+                    452.107527
+                ],
+                [
+                    182.803666,
+                    471.83482
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ghi chú: ck/480k",
+            "points": [
+                [
+                    140.438432,
+                    478.811145
+                ],
+                [
+                    273.0716,
+                    499.3729
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "N.viên: dung.thuantien",
+            "points": [
+                [
+                    139.104088,
+                    506.182305
+                ],
+                [
+                    319.30639599999995,
+                    528.012503
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "QUÝ KHÁCH LƯU Ý:",
+            "points": [
+                [
+                    137.102588,
+                    538.226603
+                ],
+                [
+                    340.222137,
+                    564.362769
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1/ Số tiền trên phiếu tạm thu đặt chỗ sẽ được quyết toán bù, trừ sau khi có phương",
+            "points": [
+                [
+                    141.772743,
+                    569.60334
+                ],
+                [
+                    674.0066449999999,
+                    588.596278
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "án gia phụ thụ trước và sau Tết Nguyên Đàn Ất Tỵ năm 2025 đã được cơ quan chức",
+            "points": [
+                [
+                    139.771243,
+                    590.966194
+                ],
+                [
+                    674.006645,
+                    609.525219
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "năng phê duyệt.",
+            "points": [
+                [
+                    137.769709,
+                    611.661471
+                ],
+                [
+                    244.683542,
+                    629.352637
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2. Khi đến bên Quý khách xuất trình phiếu tam thu đặt chỗ để đối lấy hóa đơn điện",
+            "points": [
+                [
+                    138.747105,
+                    632.914209
+                ],
+                [
+                    676.648634,
+                    651.713557
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tử theo quy định.",
+            "points": [
+                [
+                    138.013234,
+                    653.475975
+                ],
+                [
+                    246.77511700000002,
+                    668.677015
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3 việc đổi trả vé trong thời điểm phục vụ Tết công ty áp dụng theo Nghị định",
+            "points": [
+                [
+                    138.013234,
+                    676.240779
+                ],
+                [
+                    676.648634,
+                    694.1222
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10/2020 NĐ-CP và Thông tư hướng dẫn 12-2020-TT-BGTVT,",
+            "points": [
+                [
+                    139.481013,
+                    696.068173
+                ],
+                [
+                    530.128365,
+                    713.509008
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_RECEIPT_022192.jpg",
+    "imageData": null,
+    "imageHeight": 725,
+    "imageWidth": 785
+}

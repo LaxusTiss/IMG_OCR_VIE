@@ -1,0 +1,122 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Nếu bạn không thể sáng tạo",
+            "points": [
+                [
+                    299.319728,
+                    89.52381
+                ],
+                [
+                    982.8571420000001,
+                    182.040816
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thì hãy thử bắt chước theo",
+            "points": [
+                [
+                    299.319728,
+                    180.952381
+                ],
+                [
+                    941.793445,
+                    266.938776
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "người khác, tìm ra điểm khác",
+            "points": [
+                [
+                    309.84127,
+                    258.231293
+                ],
+                [
+                    1013.333333,
+                    334.421769
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "biệt, điểm giống và khác, khác, điểm",
+            "points": [
+                [
+                    306.87281,
+                    347.482993
+                ],
+                [
+                    1017.687075,
+                    436.734694
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tốt và xấu để kết hợp với",
+            "points": [
+                [
+                    310.995671,
+                    437.823129
+                ],
+                [
+                    917.551021,
+                    504.217687
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "những gì bạn đã có, từ đó tạo",
+            "points": [
+                [
+                    315.118532,
+                    525.986395
+                ],
+                [
+                    1007.8911559999999,
+                    607.619047
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2 ra sản phẩm của riêng bạn.",
+            "points": [
+                [
+                    315.943105,
+                    606.530612
+                ],
+                [
+                    983.9455780000001,
+                    692.517007
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_NOTE_RG_2025032900025.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}

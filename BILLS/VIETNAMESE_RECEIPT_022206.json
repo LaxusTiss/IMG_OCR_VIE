@@ -1,0 +1,394 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Thông tin đặt cọc",
+            "points": [
+                [
+                    249.336661,
+                    7.731158
+                ],
+                [
+                    538.837358,
+                    44.395655
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hãng xe: Thuận Tiến",
+            "points": [
+                [
+                    222.229555,
+                    68.508338
+                ],
+                [
+                    449.99543800000004,
+                    92.290716
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Loại xe: Limousine 34 giường",
+            "points": [
+                [
+                    221.898973,
+                    117.064024
+                ],
+                [
+                    542.556322,
+                    136.552365
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bến Xe Miền Đông -",
+            "points": [
+                [
+                    348.231061,
+                    157.211802
+                ],
+                [
+                    530.723254,
+                    181.759896
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quầy vé 24",
+            "points": [
+                [
+                    349.132637,
+                    186.339209
+                ],
+                [
+                    450.709178,
+                    209.16067600000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Điểm đón:",
+            "points": [
+                [
+                    221.110109,
+                    200.752768
+                ],
+                [
+                    309.839326,
+                    222.67339
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "292 Đinh Bộ Lĩnh, Bình",
+            "points": [
+                [
+                    346.427932,
+                    217.568584
+                ],
+                [
+                    549.505902,
+                    237.687515
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thạnh, Hồ Chí Minh",
+            "points": [
+                [
+                    347.930543,
+                    243.092598
+                ],
+                [
+                    522.834542,
+                    266.214354
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Giờ đón (dự",
+            "points": [
+                [
+                    221.110109,
+                    289.936678
+                ],
+                [
+                    327.720409,
+                    310.806315
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "kiến):",
+            "points": [
+                [
+                    221.110109,
+                    314.559847
+                ],
+                [
+                    269.11854999999997,
+                    338.207095
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "18:30 ngày 27/01/2025",
+            "points": [
+                [
+                    348.832108,
+                    303.149114
+                ],
+                [
+                    547.477378,
+                    324.319029
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bến Xe Đức Long Gia",
+            "points": [
+                [
+                    349.132603,
+                    357.500245
+                ],
+                [
+                    547.176837,
+                    380.922279
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Lai",
+            "points": [
+                [
+                    347.329474,
+                    386.627652
+                ],
+                [
+                    377.381709,
+                    404.944881
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Điểm trả:",
+            "points": [
+                [
+                    221.410615,
+                    398.338664
+                ],
+                [
+                    298.494591,
+                    418.45759499999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "43 Lý Nam Đế, phường",
+            "points": [
+                [
+                    348.23105,
+                    411.250821
+                ],
+                [
+                    550.257196,
+                    434.822994
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trà Bá, Pleiku, Gia Lai",
+            "points": [
+                [
+                    347.930532,
+                    441.879629
+                ],
+                [
+                    541.3166610000001,
+                    460.121794
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số ghế/ 18, 20 (Giá vé cọc:",
+            "points": [
+                [
+                    222.31218,
+                    481.216658
+                ],
+                [
+                    510.73850200000004,
+                    504.93897
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "giường: 560.000 VND/1 vé)",
+            "points": [
+                [
+                    221.711133,
+                    511.54521
+                ],
+                [
+                    510.73850200000004,
+                    533.465809
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sài Gòn - Gia Lai",
+            "points": [
+                [
+                    347.329496,
+                    553.284474
+                ],
+                [
+                    504.202154,
+                    572.127195
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tuyến: (xuất phát 18:30 ngày",
+            "points": [
+                [
+                    221.110097,
+                    578.808488
+                ],
+                [
+                    534.2543900000001,
+                    602.5308
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "27/01/2025)",
+            "points": [
+                [
+                    347.329496,
+                    607.935883
+                ],
+                [
+                    448.981172,
+                    629.556227
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tổng tiền",
+            "points": [
+                [
+                    219.607497,
+                    652.677995
+                ],
+                [
+                    327.795544,
+                    681.354973
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cọc:",
+            "points": [
+                [
+                    221.44724,
+                    688.36161
+                ],
+                [
+                    268.401451,
+                    707.765447
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1.120.000 VND",
+            "points": [
+                [
+                    347.926848,
+                    669.871748
+                ],
+                [
+                    507.74413000000004,
+                    692.2283090000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_RECEIPT_022206.jpg",
+    "imageData": null,
+    "imageHeight": 725,
+    "imageWidth": 785
+}

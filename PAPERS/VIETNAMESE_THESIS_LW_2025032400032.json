@@ -1,0 +1,426 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "-Khám phá, thăm dò những vấn đề khó và còn ít được biết đến, ví dụ như mãi dâm, ma túy,",
+            "points": [
+                [
+                    73.826385,
+                    147.471587
+                ],
+                [
+                    711.3059129999999,
+                    166.96818100000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HIV/AIDS",
+            "points": [
+                [
+                    74.417191,
+                    177.602686
+                ],
+                [
+                    152.994371,
+                    193.55444400000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Tìm hiểu nhận thức của cộng đồng về AIDS",
+            "points": [
+                [
+                    75.007997,
+                    213.051038
+                ],
+                [
+                    381.045435,
+                    233.729243
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Đề ra những biện pháp can thiệp phù hợp và phát hiện những quần thể cần được chú trọng",
+            "points": [
+                [
+                    74.417191,
+                    250.271807
+                ],
+                [
+                    710.124301,
+                    272.72243
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trước hết",
+            "points": [
+                [
+                    74.57832,
+                    280.940003
+                ],
+                [
+                    136.344388,
+                    299.201275
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Nhận biết những tồn tại trong những can thiệp đang triển khai và đưa ra những giải pháp",
+            "points": [
+                [
+                    73.987514,
+                    395.502631
+                ],
+                [
+                    709.372367,
+                    418.597769
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thích hợp đối với những tồn tại đó",
+            "points": [
+                [
+                    73.987514,
+                    426.117117
+                ],
+                [
+                    304.938897,
+                    447.600967
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Hoàn chỉnh những thông tin định lượng thu được trong các giám sát thường xuyên và các",
+            "points": [
+                [
+                    73.987514,
+                    468.010623
+                ],
+                [
+                    709.372367,
+                    486.808991
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nghiên cứu đánh giá bằng cách giúp giải thích những kết quả thu được từ nghiên cứu định",
+            "points": [
+                [
+                    73.987514,
+                    494.865435
+                ],
+                [
+                    709.9094630000001,
+                    516.349285
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lượng.",
+            "points": [
+                [
+                    74.52461,
+                    527.628306
+                ],
+                [
+                    119.103598,
+                    545.352482
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Thiết kế các công cụ điều tra chính xác hơn bằng cách phát hiện các chủ đề thích hợp nhất",
+            "points": [
+                [
+                    73.987514,
+                    563.076658
+                ],
+                [
+                    710.983655,
+                    584.0234109999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Thăm dò tính khả thi, chấp nhận và sự phù hợp của những chương trình mới",
+            "points": [
+                [
+                    74.52461,
+                    320.309157
+                ],
+                [
+                    595.507963,
+                    340.718814
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Phát triển những hoạt động về thông tin, giáo dục và truyền thông và tài liệu phù hợp",
+            "points": [
+                [
+                    73.987514,
+                    357.905894
+                ],
+                [
+                    654.58855,
+                    380.463936
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cho nghiên cứu điều tra bằng cách xác định các câu hỏi thích hợp và cách diễn đạt chúng cho",
+            "points": [
+                [
+                    73.987514,
+                    593.154047
+                ],
+                [
+                    709.372367,
+                    614.1007999999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phù hợp.",
+            "points": [
+                [
+                    73.987514,
+                    625.379822
+                ],
+                [
+                    134.67938900000001,
+                    645.789479
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ai có thể thực hiện nghiên cứu định tính",
+            "points": [
+                [
+                    74.900578,
+                    661.741237
+                ],
+                [
+                    363.321259,
+                    682.6879899999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Người nắm rõ thực địa",
+            "points": [
+                [
+                    72.752193,
+                    699.87507
+                ],
+                [
+                    239.78912400000002,
+                    720.2847270000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Người nắm rõ đối tượng nghiên cứu",
+            "points": [
+                [
+                    73.289289,
+                    738.008903
+                ],
+                [
+                    326.798715,
+                    760.566945
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Người được huấn luyện tốt",
+            "points": [
+                [
+                    73.826385,
+                    775.60564
+                ],
+                [
+                    267.718128,
+                    796.5523929999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CÁC PHƯƠNG PHÁP NGHIÊN CỨU ĐỊNH TÍNH CHỦ YẾU",
+            "points": [
+                [
+                    72.215097,
+                    814.27657
+                ],
+                [
+                    529.283998,
+                    834.686227
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PHỎNG VẤN SÂU",
+            "points": [
+                [
+                    74.900578,
+                    852.947499
+                ],
+                [
+                    215.082697,
+                    872.82006
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1. Phỏng vấn không cấu trúc",
+            "points": [
+                [
+                    74.900578,
+                    891.081332
+                ],
+                [
+                    280.07134199999996,
+                    913.102278
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Là phương pháp được sử dụng rộng rãi nhất trong nghiên cứu xã hội. Khi sử dụng phương",
+            "points": [
+                [
+                    73.289289,
+                    930.289358
+                ],
+                [
+                    709.7483339999999,
+                    952.310304
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "pháp này nghiên cứu viên phải nhớ một số chủ đề cần phỏng vấn và có thể sử dụng một danh",
+            "points": [
+                [
+                    73.289289,
+                    960.366747
+                ],
+                [
+                    710.2854299999999,
+                    981.3135
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mục chủ đề để khỏi bỏ sót trong khi phỏng vấn. Nghiên cứu viên có thể chủ động thay đổi thứ",
+            "points": [
+                [
+                    73.289289,
+                    989.369944
+                ],
+                [
+                    710.2854299999999,
+                    1010.316697
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tự của các chủ đề tuỳ theo hoàn cảnh phỏng vấn và câu trả lời của người được phỏng vấn.",
+            "points": [
+                [
+                    73.826385,
+                    1019.98443
+                ],
+                [
+                    673.762886,
+                    1042.005376
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_THESIS_LW_2025032400032.jpg",
+    "imageData": null,
+    "imageHeight": 1170,
+    "imageWidth": 827
+}

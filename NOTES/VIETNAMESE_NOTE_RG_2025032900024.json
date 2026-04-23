@@ -1,0 +1,346 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Nghe thầy đọc thơ",
+            "points": [
+                [
+                    306.972985,
+                    19.676285
+                ],
+                [
+                    566.775937,
+                    21.524441
+                ],
+                [
+                    564.116853,
+                    78.960662
+                ],
+                [
+                    305.505932,
+                    79.980689
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Tiếng thơ đỏ nắng xanh cây quanh nhà",
+            "points": [
+                [
+                    138.078184,
+                    139.07348
+                ],
+                [
+                    718.067942,
+                    139.651888
+                ],
+                [
+                    712.690439,
+                    194.960145
+                ],
+                [
+                    140.847808,
+                    193.276931
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Mái chèo nghe vọng sông xa",
+            "points": [
+                [
+                    234.709317,
+                    196.692696
+                ],
+                [
+                    638.48738,
+                    197.099047
+                ],
+                [
+                    632.481101,
+                    257.665189
+                ],
+                [
+                    216.368874,
+                    252.525741
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Em êm nghe tiếng của bà năm xưa",
+            "points": [
+                [
+                    133.834937,
+                    255.537708
+                ],
+                [
+                    661.038019,
+                    260.634544
+                ],
+                [
+                    656.259743,
+                    299.816403
+                ],
+                [
+                    134.153528,
+                    309.691544
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Nghe trăng thở động tàu dừa",
+            "points": [
+                [
+                    226.264468,
+                    311.664741
+                ],
+                [
+                    648.084464,
+                    313.223623
+                ],
+                [
+                    629.804082,
+                    366.264723
+                ],
+                [
+                    224.330589,
+                    368.230716
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Rào rào nghe chuyển cơn mưa giữa trời",
+            "points": [
+                [
+                    132.949943,
+                    374.691632
+                ],
+                [
+                    716.186171,
+                    369.075155
+                ],
+                [
+                    707.338068,
+                    433.13542
+                ],
+                [
+                    132.632348,
+                    426.798089
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Thêm yêu tiếng hát nụ cười",
+            "points": [
+                [
+                    215.807193,
+                    429.273935
+                ],
+                [
+                    616.609417,
+                    434.949743
+                ],
+                [
+                    610.204517,
+                    484.777388
+                ],
+                [
+                    222.861817,
+                    483.459448
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Nghe thơ em thấy đất trời dẹp ra.",
+            "points": [
+                [
+                    133.881405,
+                    487.723874
+                ],
+                [
+                    612.867359,
+                    489.461428
+                ],
+                [
+                    608.22355,
+                    538.532069
+                ],
+                [
+                    132.792337,
+                    545.934263
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Em nghe thầy đọc bao ngày",
+            "points": [
+                [
+                    244.249495,
+                    81.146635
+                ],
+                [
+                    653.096022,
+                    81.086659
+                ],
+                [
+                    638.519174,
+                    138.67955
+                ],
+                [
+                    242.07388,
+                    134.328321
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Trần Đăng Khoa",
+            "points": [
+                [
+                    322.647226,
+                    545.020886
+                ],
+                [
+                    595.392031,
+                    543.699025
+                ],
+                [
+                    585.439207,
+                    599.317745
+                ],
+                [
+                    325.494874,
+                    599.317745
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "gotiengviet.com.vn",
+            "points": [
+                [
+                    4.964418,
+                    67.484441
+                ],
+                [
+                    208.576963,
+                    95.904548
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vietnamese",
+            "points": [
+                [
+                    111.718223,
+                    17.346449
+                ],
+                [
+                    209.838433,
+                    29.844144999999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KEYBOARD",
+            "points": [
+                [
+                    120.227293,
+                    38.619124
+                ],
+                [
+                    204.520265,
+                    50.053186
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "a",
+            "points": [
+                [
+                    16.875679,
+                    15.772122
+                ],
+                [
+                    27.232467,
+                    27.629894
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ă",
+            "points": [
+                [
+                    52.148797,
+                    17.423205
+                ],
+                [
+                    63.256077000000005,
+                    34.384321
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "â",
+            "points": [
+                [
+                    87.722112,
+                    11.41927
+                ],
+                [
+                    98.529195,
+                    29.581173
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_NOTE_RG_2025032900024.jpg",
+    "imageData": null,
+    "imageHeight": 600,
+    "imageWidth": 800
+}

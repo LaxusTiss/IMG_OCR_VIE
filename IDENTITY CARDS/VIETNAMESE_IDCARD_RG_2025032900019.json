@@ -1,0 +1,346 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "BỘ GTVT",
+            "points": [
+                [
+                    137.769531,
+                    34.306232
+                ],
+                [
+                    272.32291499999997,
+                    66.318928
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MOT",
+            "points": [
+                [
+                    170.608994,
+                    74.576564
+                ],
+                [
+                    238.41308199999997,
+                    98.092198
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    169.46711,
+                    103.536236
+                ],
+                [
+                    237.411313,
+                    109.827366
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+            "points": [
+                [
+                    382.288237,
+                    39.130212
+                ],
+                [
+                    997.517055,
+                    40.165951
+                ],
+                [
+                    997.517055,
+                    75.381069
+                ],
+                [
+                    383.323976,
+                    72.273853
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Độc lập - Tự do - Hạnh phúc",
+            "points": [
+                [
+                    478.505048,
+                    78.001677
+                ],
+                [
+                    899.820517,
+                    115.935563
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GIẤY PHÉP LÁI XE/DRIVER'S LICENSE",
+            "points": [
+                [
+                    354.007844,
+                    120.514246
+                ],
+                [
+                    1033.164763,
+                    164.314468
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "So/No: 790130000208",
+            "points": [
+                [
+                    558.758738,
+                    166.879965
+                ],
+                [
+                    909.1313749999999,
+                    209.983402
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Họ tên/ Full name: KWAK JUSEOP",
+            "points": [
+                [
+                    350.732174,
+                    220.287474
+                ],
+                [
+                    908.608116,
+                    252.97484
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày sinh/ Date of Birth: 25/03/1955",
+            "points": [
+                [
+                    348.768744,
+                    264.270739
+                ],
+                [
+                    891.701855,
+                    297.690583
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quốc tịch/ Nationality: SOUTH KOREA",
+            "points": [
+                [
+                    349.882735,
+                    306.602544
+                ],
+                [
+                    924.286196,
+                    342.807364
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Noi cu trú/Address: 162 Nguyễn Văn Thủ",
+            "points": [
+                [
+                    348.211768,
+                    357.289314
+                ],
+                [
+                    929.299171,
+                    390.430632
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "P. Đa Kao, Q.1, TP. Hồ Chí Minh",
+            "points": [
+                [
+                    607.278298,
+                    388.969013
+                ],
+                [
+                    996.569584,
+                    420.358046
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hồ Chí Minh, ngày date 22 tháng/month 07 năm year 2013",
+            "points": [
+                [
+                    408.502367,
+                    443.911101
+                ],
+                [
+                    1028.909879,
+                    451.161273
+                ],
+                [
+                    1024.766924,
+                    478.090481
+                ],
+                [
+                    407.466629,
+                    471.876048
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "KT. GIẢM ĐỘC SỞ GTVT TPHCM",
+            "points": [
+                [
+                    548.243967,
+                    474.614917
+                ],
+                [
+                    951.231485,
+                    500.62064599999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PHÓ GIÁM ĐỐC",
+            "points": [
+                [
+                    700.370146,
+                    500.620646
+                ],
+                [
+                    899.5196,
+                    528.7671
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DƯƠNG HỒNG THANH",
+            "points": [
+                [
+                    616.060281,
+                    601.981019
+                ],
+                [
+                    980.4619680000001,
+                    639.0814399999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hang/Class: A1, B2",
+            "points": [
+                [
+                    62.555361,
+                    526.871747
+                ],
+                [
+                    303.495085,
+                    557.4033440000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Có giá trị đến Expires: 05/07/2015",
+            "points": [
+                [
+                    64.480928,
+                    584.441016
+                ],
+                [
+                    476.044199,
+                    612.800837
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": " SỞ GIAO THÔNG###",
+            "points": [
+                [
+                    629.030082,
+                    506.08997
+                ],
+                [
+                    764.819357,
+                    544.709694
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "VẬN TẢI",
+            "points": [
+                [
+                    646.490204,
+                    549.330545
+                ],
+                [
+                    744.1910879999999,
+                    591.947167
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_IDCARD_RG_2025032900019.jpg",
+    "imageData": null,
+    "imageHeight": 670,
+    "imageWidth": 1076
+}

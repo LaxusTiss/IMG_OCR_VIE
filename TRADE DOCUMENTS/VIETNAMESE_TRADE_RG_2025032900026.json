@@ -1,0 +1,1362 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Page 1 of 1",
+            "points": [
+                [
+                    759.638948,
+                    1097.166444
+                ],
+                [
+                    814.649231,
+                    1110.456988
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "SUB TOTAL",
+            "points": [
+                [
+                    543.862704,
+                    625.378716
+                ],
+                [
+                    618.860778,
+                    639.583741
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Total Ex Tax",
+            "points": [
+                [
+                    544.418966,
+                    659.547084
+                ],
+                [
+                    621.4899889999999,
+                    675.2565920000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MICRODYN",
+            "points": [
+                [
+                    674.647278,
+                    29.705259
+                ],
+                [
+                    805.559632,
+                    52.444126
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NADIR",
+            "points": [
+                [
+                    679.267698,
+                    57.293087
+                ],
+                [
+                    747.561034,
+                    74.043038
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    680.371875,
+                    87.365608
+                ],
+                [
+                    802.769884,
+                    95.325976
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Invoice No : INV/MNSG8/17/110435",
+            "points": [
+                [
+                    489.020122,
+                    159.512854
+                ],
+                [
+                    744.215128,
+                    178.149418
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Term  : TT before shipment",
+            "points": [
+                [
+                    490.844648,
+                    184.483901
+                ],
+                [
+                    721.933178,
+                    202.467845
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Date  : 20-Nov-2017",
+            "points": [
+                [
+                    488.710694,
+                    206.207098
+                ],
+                [
+                    685.2115269999999,
+                    222.143386
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Your reference   : 001/MUSG-RAM/2017",
+            "points": [
+                [
+                    490.13333,
+                    227.218069
+                ],
+                [
+                    738.649089,
+                    245.023984
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sales Person : NGUYEN THI THANH TRA",
+            "points": [
+                [
+                    490.13333,
+                    251.790237
+                ],
+                [
+                    767.54627,
+                    268.616821
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "RAM VIETNAM MTV CO, LTD",
+            "points": [
+                [
+                    89.461389,
+                    184.016583
+                ],
+                [
+                    267.223388,
+                    197.19376
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "C12A LASER HOANG CAU,",
+            "points": [
+                [
+                    89.833362,
+                    197.761191
+                ],
+                [
+                    254.69448,
+                    200.074
+                ],
+                [
+                    254.967553,
+                    212.384979
+                ],
+                [
+                    89.112624,
+                    210.194067
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "O CHO DUA WARD, DONG DA DISTRICT, HANOI CITY.",
+            "points": [
+                [
+                    89.193766,
+                    211.644655
+                ],
+                [
+                    420.221215,
+                    215.207488
+                ],
+                [
+                    419.706108,
+                    228.101836
+                ],
+                [
+                    87.97653,
+                    223.289615
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "VIETNAM",
+            "points": [
+                [
+                    89.49309,
+                    225.606535
+                ],
+                [
+                    147.97879999999998,
+                    239.50119700000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ATTN: ACCOUNT PAYABLE",
+            "points": [
+                [
+                    90.465376,
+                    257.70944
+                ],
+                [
+                    256.476059,
+                    259.316859
+                ],
+                [
+                    254.711702,
+                    271.805932
+                ],
+                [
+                    87.428889,
+                    270.700325
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "44,780.00",
+            "points": [
+                [
+                    748.304384,
+                    661.906497
+                ],
+                [
+                    810.4508920000001,
+                    675.608043
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0.00",
+            "points": [
+                [
+                    781.109139,
+                    692.934772
+                ],
+                [
+                    808.886022,
+                    706.554683
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "44,780.00",
+            "points": [
+                [
+                    746.68147,
+                    721.832164
+                ],
+                [
+                    809.668457,
+                    736.626404
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TOTAL",
+            "points": [
+                [
+                    551.676005,
+                    719.551143
+                ],
+                [
+                    594.895601,
+                    733.498376
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Interest charge at 1.5% per month will be levied on any amount",
+            "points": [
+                [
+                    83.572526,
+                    621.844224
+                ],
+                [
+                    413.000393,
+                    625.405407
+                ],
+                [
+                    411.222105,
+                    637.424399
+                ],
+                [
+                    82.683382,
+                    635.643808
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "outstanding for more than 30 days from the date of this bill.",
+            "points": [
+                [
+                    82.963967,
+                    636.701891
+                ],
+                [
+                    388.923914,
+                    638.777135
+                ],
+                [
+                    387.340702,
+                    651.371164
+                ],
+                [
+                    81.692016,
+                    649.573492
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Payment by: TT",
+            "points": [
+                [
+                    82.822431,
+                    756.862274
+                ],
+                [
+                    228.997706,
+                    772.8875969999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Please remit DBS BANK LTD",
+            "points": [
+                [
+                    82.733511,
+                    779.119668
+                ],
+                [
+                    274.344052,
+                    784.016294
+                ],
+                [
+                    271.67662,
+                    797.815878
+                ],
+                [
+                    81.399795,
+                    792.474103
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "12 MARINA BOULEVARD DBS ASIA CENTRAL",
+            "points": [
+                [
+                    179.739118,
+                    801.644152
+                ],
+                [
+                    461.153206,
+                    803.869891
+                ],
+                [
+                    458.485774,
+                    819.004919
+                ],
+                [
+                    177.96083,
+                    815.888884
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "44,780.00",
+            "points": [
+                [
+                    748.225123,
+                    629.273518
+                ],
+                [
+                    810.4508920000001,
+                    642.702677
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MICRODYN-NADIR SINGAPORE PTE LTD",
+            "points": [
+                [
+                    87.228425,
+                    17.836903
+                ],
+                [
+                    451.080348,
+                    23.050831
+                ],
+                [
+                    447.825858,
+                    39.996096
+                ],
+                [
+                    82.67214,
+                    37.389133
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "18 Tuas Avenue 8",
+            "points": [
+                [
+                    88.230981,
+                    40.555339
+                ],
+                [
+                    193.401557,
+                    42.839651
+                ],
+                [
+                    191.348336,
+                    54.718076
+                ],
+                [
+                    86.634031,
+                    53.575919
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Singapore 639233",
+            "points": [
+                [
+                    86.671739,
+                    55.529856
+                ],
+                [
+                    194.140642,
+                    57.040145
+                ],
+                [
+                    193.763558,
+                    70.443962
+                ],
+                [
+                    85.163403,
+                    72.143037
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Tel: 64577533",
+            "points": [
+                [
+                    85.831341,
+                    88.385894
+                ],
+                [
+                    204.128839,
+                    102.105476
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Fax: 64577517",
+            "points": [
+                [
+                    85.831334,
+                    104.06542
+                ],
+                [
+                    203.87788999999998,
+                    117.282453
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ROC 200510588R",
+            "points": [
+                [
+                    86.433603,
+                    118.136792
+                ],
+                [
+                    220.540915,
+                    132.911722
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "To:",
+            "points": [
+                [
+                    88.105778,
+                    160.988506
+                ],
+                [
+                    109.709769,
+                    175.556984
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "INVOICE",
+            "points": [
+                [
+                    433.028012,
+                    67.599287
+                ],
+                [
+                    544.272379,
+                    93.90592000000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GST NO: 200510588R",
+            "points": [
+                [
+                    390.897159,
+                    103.148795
+                ],
+                [
+                    517.644738,
+                    119.975559
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Item  Product  Description",
+            "points": [
+                [
+                    92.46527,
+                    350.700595
+                ],
+                [
+                    325.243179,
+                    354.128234
+                ],
+                [
+                    323.776092,
+                    366.3698
+                ],
+                [
+                    92.46527,
+                    363.921487
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    104.593189,
+                    400.548262
+                ],
+                [
+                    113.004498,
+                    412.398089
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    104.593189,
+                    424.835517
+                ],
+                [
+                    112.515468,
+                    438.350209
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "UA420-BT",
+            "points": [
+                [
+                    135.108624,
+                    400.156523
+                ],
+                [
+                    190.760143,
+                    414.35674
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "K-08UA08",
+            "points": [
+                [
+                    134.326189,
+                    426.01072
+                ],
+                [
+                    190.760143,
+                    440.30886
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "AQUADYN UA420 (BT)",
+            "points": [
+                [
+                    250.128273,
+                    402.898652
+                ],
+                [
+                    374.537289,
+                    416.70713
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KLAR 08 (UA08)",
+            "points": [
+                [
+                    250.51949,
+                    427.185907
+                ],
+                [
+                    337.860097,
+                    441.67992399999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "SHIP TERM: EXW SINGAPORE",
+            "points": [
+                [
+                    250.647559,
+                    453.281729
+                ],
+                [
+                    420.39324,
+                    455.489073
+                ],
+                [
+                    418.92358,
+                    469.468924
+                ],
+                [
+                    250.280144,
+                    467.261579
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "HS Code: 842121",
+            "points": [
+                [
+                    250.067898,
+                    468.819779
+                ],
+                [
+                    344.018344,
+                    470.688762
+                ],
+                [
+                    341.52959,
+                    481.902659
+                ],
+                [
+                    248.823521,
+                    480.656671
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Country of Origin: Singapore",
+            "points": [
+                [
+                    250.325077,
+                    483.841848
+                ],
+                [
+                    398.385173,
+                    497.00860800000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ship To Add:",
+            "points": [
+                [
+                    250.577582,
+                    509.237375
+                ],
+                [
+                    314.399015,
+                    521.288495
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "RAM VIETNAM MTV CO. L.TD",
+            "points": [
+                [
+                    249.855314,
+                    522.595125
+                ],
+                [
+                    407.90775299999996,
+                    534.884723
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "C12A LASER HOANG CAU,",
+            "points": [
+                [
+                    249.490296,
+                    536.118264
+                ],
+                [
+                    398.280422,
+                    548.544908
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "O CHO DUA WARD, DONG DA DISTRICT",
+            "points": [
+                [
+                    249.867874,
+                    550.729777
+                ],
+                [
+                    472.260159,
+                    562.8914560000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HANOI, CITY VIETNAM",
+            "points": [
+                [
+                    248.884285,
+                    564.390358
+                ],
+                [
+                    374.027107,
+                    576.35185
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ATTN: BUI THI ĐỊNH",
+            "points": [
+                [
+                    249.050199,
+                    577.348644
+                ],
+                [
+                    359.716774,
+                    589.4347290000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TEL: +84 4 35135689",
+            "points": [
+                [
+                    250.045705,
+                    591.303713
+                ],
+                [
+                    361.998132,
+                    603.3482690000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Qty",
+            "points": [
+                [
+                    584.034754,
+                    355.751879
+                ],
+                [
+                    610.2240830000001,
+                    370.23941399999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Rate",
+            "points": [
+                [
+                    665.836016,
+                    355.428128
+                ],
+                [
+                    696.309392,
+                    370.239414
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Amount",
+            "points": [
+                [
+                    743.757361,
+                    356.723109
+                ],
+                [
+                    798.5609559999999,
+                    369.43005500000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(USD)",
+            "points": [
+                [
+                    755.397085,
+                    372.586565
+                ],
+                [
+                    794.5193929999999,
+                    386.831289
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10 EA",
+            "points": [
+                [
+                    592.117882,
+                    404.637203
+                ],
+                [
+                    628.815276,
+                    417.991639
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2 EA",
+            "points": [
+                [
+                    595.674453,
+                    429.889225
+                ],
+                [
+                    628.0069639999999,
+                    442.27243200000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "218.00",
+            "points": [
+                [
+                    677.799035,
+                    405.932184
+                ],
+                [
+                    716.113055,
+                    417.18228
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "21.300.00",
+            "points": [
+                [
+                    661.632779,
+                    429.889225
+                ],
+                [
+                    715.304742,
+                    443.89115100000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2.180.00",
+            "points": [
+                [
+                    762.186907,
+                    404.960955
+                ],
+                [
+                    811.655633,
+                    418.558201
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "42.600.00",
+            "points": [
+                [
+                    756.690365,
+                    430.536728
+                ],
+                [
+                    810.443164,
+                    443.648354
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GST  0.00 %",
+            "points": [
+                [
+                    543.636531,
+                    691.277233
+                ],
+                [
+                    658.362774,
+                    706.358837
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MARINA BAY FINANCIAL CENTRE TOWER 3",
+            "points": [
+                [
+                    176.507203,
+                    817.996898
+                ],
+                [
+                    452.511429,
+                    821.389396
+                ],
+                [
+                    449.254795,
+                    836.492288
+                ],
+                [
+                    176.704496,
+                    832.207748
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "SINGAPORE 018982",
+            "points": [
+                [
+                    177.250258,
+                    834.086609
+                ],
+                [
+                    306.146952,
+                    836.827784
+                ],
+                [
+                    303.181187,
+                    851.218952
+                ],
+                [
+                    172.003136,
+                    848.249346
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Rayment by Cheque:",
+            "points": [
+                [
+                    542.826371,
+                    780.839215
+                ],
+                [
+                    667.600459,
+                    796.143474
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Please cross the cheque to the order of",
+            "points": [
+                [
+                    542.868569,
+                    805.288161
+                ],
+                [
+                    774.134939,
+                    819.532893
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MICRODYN-NADIR SINGAPORE PTE LTD",
+            "points": [
+                [
+                    542.157264,
+                    822.381837
+                ],
+                [
+                    801.698404,
+                    836.8936600000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MICRODYN-NADIR SINGAPORE PTE LTD",
+            "points": [
+                [
+                    542.157264,
+                    863.69158
+                ],
+                [
+                    800.80926,
+                    878.025333
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    535.84258,
+                    883.544652
+                ],
+                [
+                    781.408604,
+                    947.6522550000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "AUTHORIZED SIGNATURE",
+            "points": [
+                [
+                    581.714911,
+                    956.714977
+                ],
+                [
+                    748.8637080000001,
+                    970.092824
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "For Account of MICRODYN-NADIR SINGAPORE PTE LTD",
+            "points": [
+                [
+                    80.999,
+                    874.810627
+                ],
+                [
+                    438.96839,
+                    878.727928
+                ],
+                [
+                    435.056156,
+                    893.417808
+                ],
+                [
+                    78.064825,
+                    889.990169
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "A/C No: 0012-000586-014 (USD)",
+            "points": [
+                [
+                    82.561983,
+                    893.993189
+                ],
+                [
+                    329.097376,
+                    895.464752
+                ],
+                [
+                    321.381663,
+                    911.651947
+                ],
+                [
+                    79.769627,
+                    905.692123
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "NOTE: All bank charges including remitting and receiving",
+            "points": [
+                [
+                    80.14094,
+                    957.584401
+                ],
+                [
+                    443.46031,
+                    963.509319
+                ],
+                [
+                    441.860085,
+                    978.06215
+                ],
+                [
+                    79.116911,
+                    973.899834
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "bank charges is to be borne by you",
+            "points": [
+                [
+                    155.841801,
+                    975.68529
+                ],
+                [
+                    375.262768,
+                    979.842734
+                ],
+                [
+                    374.57836,
+                    993.320177
+                ],
+                [
+                    154.043152,
+                    991.792642
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_TRADE_RG_2025032900026.jpg",
+    "imageData": null,
+    "imageHeight": 1238,
+    "imageWidth": 875
+}

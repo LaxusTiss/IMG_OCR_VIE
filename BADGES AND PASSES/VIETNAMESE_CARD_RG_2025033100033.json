@@ -1,0 +1,234 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO",
+            "points": [
+                [
+                    433.851064,
+                    60.342666
+                ],
+                [
+                    756.3667310000001,
+                    87.679517
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HCM",
+            "points": [
+                [
+                    292.46453,
+                    91.146456
+                ],
+                [
+                    900.519106,
+                    127.269252
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "THẺ SINH VIÊN",
+            "points": [
+                [
+                    371.755223,
+                    145.599112
+                ],
+                [
+                    740.385329,
+                    179.228084
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Họ tên: NGUYỄN DƯƠNG QUYỀN",
+            "points": [
+                [
+                    300.706923,
+                    193.555766
+                ],
+                [
+                    848.72028,
+                    239.56300900000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày sinh: 19/03/1995",
+            "points": [
+                [
+                    299.318003,
+                    263.832787
+                ],
+                [
+                    605.824858,
+                    292.460757
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngành học: Công nghệ Chế tạo máy",
+            "points": [
+                [
+                    301.219997,
+                    308.559636
+                ],
+                [
+                    793.3821029999999,
+                    347.066551
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9704 1800 3182 0848",
+            "points": [
+                [
+                    319.365469,
+                    360.613318
+                ],
+                [
+                    790.8899220000001,
+                    398.395992
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thẻ có giá trị đến hết tháng 10 năm 2017",
+            "points": [
+                [
+                    305.932807,
+                    464.08078
+                ],
+                [
+                    872.234742,
+                    499.96902
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã số sinh viên:",
+            "points": [
+                [
+                    110.602817,
+                    491.451941
+                ],
+                [
+                    257.156,
+                    514.725569
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "13143610",
+            "points": [
+                [
+                    81.075058,
+                    528.186743
+                ],
+                [
+                    274.742382,
+                    563.57663
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ISO 9001:2000",
+            "points": [
+                [
+                    115.258277,
+                    205.551568
+                ],
+                [
+                    243.90247700000003,
+                    223.939895
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "VALID",
+            "points": [
+                [
+                    310.935148,
+                    422.590564
+                ],
+                [
+                    358.465706,
+                    436.081953
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FROM",
+            "points": [
+                [
+                    311.22402,
+                    440.786794
+                ],
+                [
+                    355.16598,
+                    455.111486
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "09/13",
+            "points": [
+                [
+                    370.652133,
+                    424.332756
+                ],
+                [
+                    462.988323,
+                    456.07937100000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_CARD_RG_2025033100033.jpg",
+    "imageData": null,
+    "imageHeight": 639,
+    "imageWidth": 1015
+}

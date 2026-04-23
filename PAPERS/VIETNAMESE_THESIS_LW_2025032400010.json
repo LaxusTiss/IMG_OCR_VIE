@@ -1,0 +1,618 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Journal of Inquiry into Languages and Cultures",
+            "points": [
+                [
+                    83.110761,
+                    73.303383
+                ],
+                [
+                    350.05584699999997,
+                    91.52498299999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ISSN 2525-2674",
+            "points": [
+                [
+                    435.119332,
+                    74.875941
+                ],
+                [
+                    521.70323,
+                    89.329286
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vol 2, Nº 1, 2018",
+            "points": [
+                [
+                    572.776997,
+                    75.521825
+                ],
+                [
+                    665.4432350000001,
+                    89.46947800000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tài liệu tham khảo",
+            "points": [
+                [
+                    77.910661,
+                    106.68875
+                ],
+                [
+                    203.278421,
+                    122.20998399999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đoàn Thiện Thuật (1977). Ngữ âm tiếng Việt. Hà Nội: Nhà xuất bản Đại học và Trung học chuyên",
+            "points": [
+                [
+                    85.651562,
+                    132.19247
+                ],
+                [
+                    662.915071,
+                    147.564944
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nghiệp Hà Nội.",
+            "points": [
+                [
+                    86.015214,
+                    149.728618
+                ],
+                [
+                    173.378368,
+                    165.307074
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đỗ Thị Kiều Oanh (2012). Phương ngữ Nam Bộ trong văn học dân gian. Luận văn thạc sĩ. Đại học Sư",
+            "points": [
+                [
+                    85.977983,
+                    169.125526
+                ],
+                [
+                    663.908188,
+                    184.357794
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phạm TP. HCM.",
+            "points": [
+                [
+                    85.546638,
+                    186.515174
+                ],
+                [
+                    179.52952399999998,
+                    202.959099
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hoàng Thị Châu (2004). Phương ngữ học tiếng Việt. Hà Nội: Nhà xuất bản Đại học Quốc gia Hà Nội.",
+            "points": [
+                [
+                    85.963657,
+                    207.311625
+                ],
+                [
+                    655.226814,
+                    224.257523
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Lê Hữu Tân (2017). Dạy học theo định hướng phát triển năng lực. https://nguyenhuu",
+            "points": [
+                [
+                    85.963657,
+                    228.255994
+                ],
+                [
+                    664.370074,
+                    243.488261
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dinh.wordpress.com",
+            "points": [
+                [
+                    83.106389,
+                    246.344312
+                ],
+                [
+                    199.20673799999997,
+                    262.338193
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nguyễn Thành Thi (2014). Dạy học Ngữ văn theo hướng phát triển năng lực và yêu cầu “Đổi mới căn",
+            "points": [
+                [
+                    84.915992,
+                    265.251364
+                ],
+                [
+                    664.065299,
+                    281.483249
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "bản, toàn diện” giáo dục phổ thông. Tạp chí Khoa Học Giáo Dục, 56(90), 9-14. Trường Đại học Sư",
+            "points": [
+                [
+                    86.328245,
+                    283.230009
+                ],
+                [
+                    663.906054,
+                    298.414676
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phạm Tp. Hồ Chí Minh.",
+            "points": [
+                [
+                    86.055505,
+                    299.804901
+                ],
+                [
+                    219.827628,
+                    316.16227899999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "",
+            "points": [
+                [
+                    179.737909,
+                    311.314096
+                ],
+                [
+                    180.018089,
+                    311.874217
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trịnh Cầm Lan (2007). Sự biến đổi ngôn từ của các cộng đồng chuyển cư đến thủ đô - nghiên cứu",
+            "points": [
+                [
+                    85.615638,
+                    319.936175
+                ],
+                [
+                    662.788307,
+                    334.242602
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trường hợp cộng đồng Nghệ-Tĩnh tại Hà Nội. Hà Nội: Nhà xuất bản Khoa học xã hội Hà Nội.",
+            "points": [
+                [
+                    85.615638,
+                    336.825707
+                ],
+                [
+                    606.730896,
+                    350.93343400000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trịnh Cấm Lan & Đinh Thị Lan Anh (2012). Biến thể ngôn ngữ mang tính đánh dấu và việc sử dụng",
+            "points": [
+                [
+                    84.621712,
+                    358.185998
+                ],
+                [
+                    663.981018,
+                    372.09502399999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "chúng trong các phương ngữ Việt hiện nay. Tạp Chí Ngôn Ngữ, (1), 19-31.",
+            "points": [
+                [
+                    86.112601,
+                    374.578779
+                ],
+                [
+                    504.55533199999996,
+                    389.878708
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vũ Thị Dung (2016). Đối mới dạy và học ngoại ngữ chuyên ngành theo hướng tiếp cận năng lực tại",
+            "points": [
+                [
+                    85.118675,
+                    395.442318
+                ],
+                [
+                    663.5834480000001,
+                    410.344846
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trường Đại học Quảng Bình. Nhà xuất bản Dân Trí.",
+            "points": [
+                [
+                    85.615638,
+                    411.835099
+                ],
+                [
+                    376.537698,
+                    426.141526
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MEASURES FOR TEACHING VIETNAMESE DIALECTS",
+            "points": [
+                [
+                    132.362852,
+                    463.330008
+                ],
+                [
+                    614.416829,
+                    481.113692
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FOR STUDENTS OF THE VIETNAMESE LANGUAGE AND",
+            "points": [
+                [
+                    120.435743,
+                    488.167555
+                ],
+                [
+                    628.7293589999999,
+                    504.957737
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "VIETNAMESE CULTURE AT BAC LIEU UNIVERSITY IN LINE WITH",
+            "points": [
+                [
+                    77.199974,
+                    511.018098
+                ],
+                [
+                    670.87181,
+                    528.801782
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "THE DEVELOPMENT OF LEARNERS' CAPACITY",
+            "points": [
+                [
+                    161.186698,
+                    536.849147
+                ],
+                [
+                    587.77962,
+                    553.043228
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Abstract: Organizing teaching hours to promote positive, self-awareness as well as",
+            "points": [
+                [
+                    117.453966,
+                    575.59572
+                ],
+                [
+                    631.8105290000001,
+                    589.2066960000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "positive impact on thought, sentiment, bring interest to study for learners is a very",
+            "points": [
+                [
+                    117.950929,
+                    592.485252
+                ],
+                [
+                    630.816604,
+                    604.9040249999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "important task of Bac Lieu University in the context of fundamental and comprehensive",
+            "points": [
+                [
+                    117.453966,
+                    607.38778
+                ],
+                [
+                    629.5245,
+                    622.0916080000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "renewal of higher education nowadays. As a lecturer directly teaching at the school, we",
+            "points": [
+                [
+                    117.950929,
+                    624.277312
+                ],
+                [
+                    631.114782,
+                    637.590237
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "propose some solutions to teach Vietnamese dialect according to the development of",
+            "points": [
+                [
+                    118.447892,
+                    640.173342
+                ],
+                [
+                    630.021463,
+                    654.0823680000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "learners' capacity to help them not only know the content of knowledge about Vietnamese",
+            "points": [
+                [
+                    117.453966,
+                    656.069372
+                ],
+                [
+                    631.611744,
+                    670.177099
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dialects but also know how to apply the knowledge and skills of the subject into practice in",
+            "points": [
+                [
+                    117.453966,
+                    672.462153
+                ],
+                [
+                    629.6238930000001,
+                    685.377677
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "communication as well as in their professional work after graduation. Then, we hope not",
+            "points": [
+                [
+                    116.957003,
+                    688.854934
+                ],
+                [
+                    631.214174,
+                    701.0750069999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "only to contribute to the teaching of Vietnamese dialect for Vietnamese language students",
+            "points": [
+                [
+                    117.453966,
+                    704.750964
+                ],
+                [
+                    630.617819,
+                    717.964539
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "and Vietnamese culture according to the capable development but also successfully",
+            "points": [
+                [
+                    116.46004,
+                    720.646994
+                ],
+                [
+                    630.617818,
+                    734.059269
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "implement the training work at Bac Lieu University in the current and future period.",
+            "points": [
+                [
+                    117.453966,
+                    735.549522
+                ],
+                [
+                    586.885087,
+                    752.1410030000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Keyword: capacity, dialect, solution, teaching",
+            "points": [
+                [
+                    117.950929,
+                    759.393567
+                ],
+                [
+                    380.14853600000004,
+                    776.77985
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    79.492911,
+                    988.877085
+                ],
+                [
+                    93.45715700000001,
+                    1002.0142999999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_THESIS_LW_2025032400010.jpg",
+    "imageData": null,
+    "imageHeight": 1064,
+    "imageWidth": 749
+}

@@ -1,0 +1,586 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "HỘI THẢO QUỐC TẾ",
+            "points": [
+                [
+                    91.454632,
+                    18.748817
+                ],
+                [
+                    249.110728,
+                    36.816447999999994
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ĐÓNG GÓP CỦA KHOA HỌC XÃ HỘI – NHÂN VĂN TRONG PHÁT TRIỂN KINH TẾ - XÃ HỘI",
+            "points": [
+                [
+                    90.964202,
+                    39.134992
+                ],
+                [
+                    724.83769,
+                    57.159929999999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- (2009b), Thi phân tích những bất cập trong chính sách giáo dục song ngữ ở vùng dân",
+            "points": [
+                [
+                    153.856314,
+                    91.905935
+                ],
+                [
+                    760.436232,
+                    111.021036
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tộc thiểu số của Việt Nam. Hội thảo Ngôn ngữ học toàn quốc “Chính sách của Đảng và",
+            "points": [
+                [
+                    152.93015,
+                    113.091866
+                ],
+                [
+                    758.570135,
+                    130.036083
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nhà nước Việt Nam về ngôn ngữ trong thời kỳ công nghiệp hoá, hiện đại hoá và hội nhập",
+            "points": [
+                [
+                    153.665201,
+                    133.327435
+                ],
+                [
+                    760.577539,
+                    148.584898
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "quốc tế”, Viện Ngôn ngữ học, Hà Nội ngày 26-27 tháng 11 năm 2009, 06 trang A4.",
+            "points": [
+                [
+                    153.76511,
+                    151.021887
+                ],
+                [
+                    711.287022,
+                    170.956454
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- (2010a), Vấn đề giáo dục tiếng mẹ đẻ các dân tộc thiểu số Việt Nam: những thuận lợi và",
+            "points": [
+                [
+                    154.305044,
+                    185.726411
+                ],
+                [
+                    759.945029,
+                    205.72822200000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "khó khăn. Proceedings \"2010 IC on Vietnamese and Taiwanese Studies\" National Cheng",
+            "points": [
+                [
+                    154.409157,
+                    207.662384
+                ],
+                [
+                    761.448719,
+                    224.606601
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Kung University, Taiwan, 15-16/10-2010, 38-1-38-18pp",
+            "points": [
+                [
+                    154.273494,
+                    226.594451
+                ],
+                [
+                    540.500955,
+                    246.28355399999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-(2010b), In the Shadow of Vietnamese as a National Language: The Position of",
+            "points": [
+                [
+                    153.520613,
+                    262.155914
+                ],
+                [
+                    761.196351,
+                    278.717926
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vietnamese Ethnic Minority Groups' Languages in their Bilingual Education, Symposium",
+            "points": [
+                [
+                    153.520593,
+                    281.011171
+                ],
+                [
+                    760.941865,
+                    297.827941
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "on The Universe of World Languages and Literatures, RIWL Osaka University,",
+            "points": [
+                [
+                    153.520593,
+                    301.395186
+                ],
+                [
+                    757.760982,
+                    318.21195600000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "November 26-2010, Osaka Japan.",
+            "points": [
+                [
+                    153.011641,
+                    320.250366
+                ],
+                [
+                    389.414816,
+                    338.59597199999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4- Trần Trí Dõi - Nguyễn Văn Lộc (2006), Thực trạng sử dụng ngôn ngữ của một số dân tộc thiểu",
+            "points": [
+                [
+                    91.226192,
+                    352.966742
+                ],
+                [
+                    759.669504,
+                    371.109844
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "số và vấn đề đặt ra cho giáo dục ngôn ngữ trong nhà trường ở Việt Bắc. Nxb Giáo dục, Hà Nội",
+            "points": [
+                [
+                    116.391488,
+                    373.188104
+                ],
+                [
+                    760.342007,
+                    392.247146
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2006, 216 tr.",
+            "points": [
+                [
+                    115.719853,
+                    394.858757
+                ],
+                [
+                    203.09218099999998,
+                    410.48966
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5- Nanette Gottlieb and Ping Chen (2001), Language planning and language policy East Asian",
+            "points": [
+                [
+                    90.923979,
+                    428.922074
+                ],
+                [
+                    760.626933,
+                    447.420568
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "perspectives, Curzon Press, 2001.",
+            "points": [
+                [
+                    113.86878,
+                    450.752558
+                ],
+                [
+                    342.14669,
+                    468.747451
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6- Hiến pháp Việt Nam (2002), Nxb Chính trị quốc gia, Hà Nội, 190tr.",
+            "points": [
+                [
+                    90.736214,
+                    482.142919
+                ],
+                [
+                    561.086181,
+                    502.990211
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7- Nguyễn Văn Khang (2003), Kế hoạch hoa ngôn ngữ, Nxb Khoa học xã hội.",
+            "points": [
+                [
+                    90.736198,
+                    519.39428
+                ],
+                [
+                    615.292602,
+                    538.735927
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- (2009), Khảo sát, nghiên cứu vai trò của tiếng nói và chữ viết Chăm trong đời sống xã hội",
+            "points": [
+                [
+                    122.984565,
+                    554.023946
+                ],
+                [
+                    760.051663,
+                    573.0870560000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "của người Chăm hiện nay: Thực trạng và kiến nghị đề xuất, Đề tài NCKH Cấp bộ, Viện Ngôn",
+            "points": [
+                [
+                    116.283008,
+                    574.153399
+                ],
+                [
+                    759.075694,
+                    594.0278020000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngữ học, 284 tr A4.",
+            "points": [
+                [
+                    116.271596,
+                    596.377004
+                ],
+                [
+                    247.17973899999998,
+                    613.068244
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- (2010), Sự tác động của xã hội đối với ngôn ngữ và những vấn đề đặt ra đối với chính sách",
+            "points": [
+                [
+                    124.68973,
+                    628.17577
+                ],
+                [
+                    760.3954100000001,
+                    647.5660210000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngôn ngữ ở Việt Nam hiện nay, Ngôn ngữ 8 (255) -2010, tr 12-29.",
+            "points": [
+                [
+                    115.363375,
+                    650.366507
+                ],
+                [
+                    558.604894,
+                    666.117798
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8- V. Lênnin (1998), Bàn về ngôn ngữ, Nxb Giáo dục. Hà Nội.",
+            "points": [
+                [
+                    91.767019,
+                    682.795622
+                ],
+                [
+                    510.602453,
+                    703.5270849999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9- Mai Văn Mô (2000), Giáo dục tiếng Việt trong hệ thống giáo dục song ngữ cho người dân tộc",
+            "points": [
+                [
+                    90.587494,
+                    718.959511
+                ],
+                [
+                    759.870568,
+                    737.249633
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thiểu số trên địa bàn Đak Lak-Từ góc nhìn thực tiễn, Luận văn Thạc sỹ Ngôn ngữ học, Trường",
+            "points": [
+                [
+                    116.532431,
+                    739.422819
+                ],
+                [
+                    758.943408,
+                    758.278037
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ĐH Khoa học Xã hội và Nhân văn, Hà Nội.",
+            "points": [
+                [
+                    116.345479,
+                    760.140057
+                ],
+                [
+                    407.076908,
+                    777.1836589999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- Nhiều tác giả (1993), Giáo dục ngôn ngữ và sự phát triển văn hoá các dân tộc thiểu số phía",
+            "points": [
+                [
+                    124.426682,
+                    792.031666
+                ],
+                [
+                    760.3486700000001,
+                    813.944479
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nam, Nxb. Khoa học Xã hội, Hà Nội.",
+            "points": [
+                [
+                    115.530449,
+                    815.849248
+                ],
+                [
+                    368.506581,
+                    831.955609
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10- Nhiều tác giả (1996), Văn hoá và sự phát triển các dân tộc ở Việt Nam, Nxb Văn hoá dân tộc,",
+            "points": [
+                [
+                    92.700748,
+                    847.643848
+                ],
+                [
+                    758.4848509999999,
+                    869.9261160000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hà Nội 1996, 540 trang.",
+            "points": [
+                [
+                    116.039137,
+                    870.971751
+                ],
+                [
+                    278.35137199999997,
+                    887.558295
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11- Vương Toàn (chủ biên) (2002), Nghiên cứu ngôn ngữ các dân tộc thiểu số ở Việt Nam từ",
+            "points": [
+                [
+                    92.900605,
+                    906.292035
+                ],
+                [
+                    760.2242530000001,
+                    922.828572
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "những năm 90, Viện Thông tin Khoa học xã hội xuất bản, Hà Nội, 240 tr.",
+            "points": [
+                [
+                    116.338485,
+                    924.044709
+                ],
+                [
+                    612.903129,
+                    942.80723
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "162 | TÀI LIỆU HỘI THẢO",
+            "points": [
+                [
+                    99.132484,
+                    1021.038967
+                ],
+                [
+                    303.090659,
+                    1039.766758
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_THESIS_LW_2025032400046.jpg",
+    "imageData": null,
+    "imageHeight": 1100,
+    "imageWidth": 850
+}

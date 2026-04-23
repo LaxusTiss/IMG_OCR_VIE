@@ -1,0 +1,4090 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "1",
+            "points": [
+                [
+                    162.164656,
+                    74.56931
+                ],
+                [
+                    183.107621,
+                    109.096901
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(Tiếp theo) Số đơn vị hành chính có đến 31/12/2013",
+            "points": [
+                [
+                    185.371726,
+                    75.701362
+                ],
+                [
+                    565.741256,
+                    94.946249
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phân theo địa phương",
+            "points": [
+                [
+                    185.937752,
+                    96.078301
+                ],
+                [
+                    354.0475,
+                    114.191136
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(Cont.) Number of administrative units as of 31 December 2013 by province",
+            "points": [
+                [
+                    185.371726,
+                    115.889214
+                ],
+                [
+                    682.908656,
+                    136.266153
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thành phố trực",
+            "points": [
+                [
+                    331.406456,
+                    151.288905
+                ],
+                [
+                    401.593691,
+                    166.265536
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thuộc tỉnh",
+            "points": [
+                [
+                    342.726978,
+                    167.397588
+                ],
+                [
+                    389.14111699999995,
+                    180.416188
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Cities under",
+            "points": [
+                [
+                    337.632743,
+                    182.114267
+                ],
+                [
+                    393.669326,
+                    196.26491900000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "provinces",
+            "points": [
+                [
+                    340.462874,
+                    197.962997
+                ],
+                [
+                    388.575091,
+                    208.717493
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quân",
+            "points": [
+                [
+                    410.084082,
+                    152.114884
+                ],
+                [
+                    438.951412,
+                    166.831562
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Urban",
+            "points": [
+                [
+                    410.650108,
+                    168.529641
+                ],
+                [
+                    438.951412,
+                    179.850163
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "districts",
+            "points": [
+                [
+                    406.1219,
+                    183.246319
+                ],
+                [
+                    443.479622,
+                    196.264919
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thị xã",
+            "points": [
+                [
+                    449.949486,
+                    152.872335
+                ],
+                [
+                    479.47567499999997,
+                    165.835052
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Towns",
+            "points": [
+                [
+                    450.909687,
+                    167.275354
+                ],
+                [
+                    481.63612700000004,
+                    180.478121
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Huyện",
+            "points": [
+                [
+                    492.198341,
+                    153.352436
+                ],
+                [
+                    521.004379,
+                    167.035304
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Rural",
+            "points": [
+                [
+                    493.398593,
+                    167.755455
+                ],
+                [
+                    521.004379,
+                    180.23807100000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "districts",
+            "points": [
+                [
+                    488.837637,
+                    182.398524
+                ],
+                [
+                    525.805386,
+                    195.121191
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phường",
+            "points": [
+                [
+                    534.447197,
+                    152.152184
+                ],
+                [
+                    572.615197,
+                    167.035304
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Wards",
+            "points": [
+                [
+                    539.008153,
+                    168.475606
+                ],
+                [
+                    569.974644,
+                    179.27787
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thị trấn",
+            "points": [
+                [
+                    583.657511,
+                    152.152184
+                ],
+                [
+                    619.905109,
+                    166.07510200000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Town",
+            "points": [
+                [
+                    588.938618,
+                    167.995505
+                ],
+                [
+                    615.824253,
+                    179.51792
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "districts",
+            "points": [
+                [
+                    585.097813,
+                    181.918423
+                ],
+                [
+                    621.825511,
+                    193.68088799999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Communes",
+            "points": [
+                [
+                    629.027021,
+                    167.755455
+                ],
+                [
+                    682.078141,
+                    179.99802100000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Хã",
+            "points": [
+                [
+                    647.990996,
+                    152.392234
+                ],
+                [
+                    662.394015,
+                    165.114901
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đà Nẵng",
+            "points": [
+                [
+                    190.665794,
+                    226.552663
+                ],
+                [
+                    232.650594,
+                    241.867873
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    421.714223,
+                    228.40105
+                ],
+                [
+                    429.635883,
+                    239.227319
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    504.363546,
+                    228.136995
+                ],
+                [
+                    512.549262,
+                    239.22732000000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "45",
+            "points": [
+                [
+                    548.460789,
+                    228.136995
+                ],
+                [
+                    561.135446,
+                    239.22732000000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11",
+            "points": [
+                [
+                    656.195371,
+                    228.136995
+                ],
+                [
+                    667.02164,
+                    239.491375
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quảng Nam",
+            "points": [
+                [
+                    191.45796,
+                    244.772482
+                ],
+                [
+                    247.43769400000002,
+                    258.239305
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    366.135604,
+                    245.332795
+                ],
+                [
+                    374.807741,
+                    255.76646
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "16",
+            "points": [
+                [
+                    500.011723,
+                    245.197293
+                ],
+                [
+                    512.8844270000001,
+                    256.037465
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "18",
+            "points": [
+                [
+                    549.199002,
+                    245.197293
+                ],
+                [
+                    561.1231909999999,
+                    256.443971
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "13",
+            "points": [
+                [
+                    596.218246,
+                    245.197293
+                ],
+                [
+                    607.329422,
+                    256.037465
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "213",
+            "points": [
+                [
+                    648.793079,
+                    245.197293
+                ],
+                [
+                    668.305388,
+                    256.579473
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quảng Ngãi",
+            "points": [
+                [
+                    190.736319,
+                    262.278138
+                ],
+                [
+                    246.66175,
+                    277.06019000000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    367.135475,
+                    263.63316
+                ],
+                [
+                    375.265604,
+                    273.980597
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "13",
+            "points": [
+                [
+                    500.173945,
+                    263.017241
+                ],
+                [
+                    512.245954,
+                    274.10378000000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9",
+            "points": [
+                [
+                    553.389333,
+                    263.756343
+                ],
+                [
+                    562.381748,
+                    273.73422800000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9",
+            "points": [
+                [
+                    600.199165,
+                    263.017241
+                ],
+                [
+                    607.713375,
+                    273.611045
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "166",
+            "points": [
+                [
+                    650.458142,
+                    263.509976
+                ],
+                [
+                    668.3197879999999,
+                    274.226964
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bình Định",
+            "points": [
+                [
+                    191.077896,
+                    278.967691
+                ],
+                [
+                    236.887648,
+                    292.494193
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    366.922417,
+                    280.049811
+                ],
+                [
+                    375.399025,
+                    291.051366
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    459.082981,
+                    280.230165
+                ],
+                [
+                    467.018529,
+                    290.871013
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9",
+            "points": [
+                [
+                    503.990966,
+                    280.230165
+                ],
+                [
+                    513.910401,
+                    291.23172
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "21",
+            "points": [
+                [
+                    547.997185,
+                    280.230165
+                ],
+                [
+                    560.441566,
+                    291.23172
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12",
+            "points": [
+                [
+                    594.889057,
+                    280.049811
+                ],
+                [
+                    608.054852,
+                    292.13348599999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "126",
+            "points": [
+                [
+                    649.89683,
+                    280.230165
+                ],
+                [
+                    669.7356990000001,
+                    291.953133
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Phú Yên",
+            "points": [
+                [
+                    190.961928,
+                    297.304036
+                ],
+                [
+                    232.250582,
+                    310.506803
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    366.91881,
+                    298.264238
+                ],
+                [
+                    374.84047,
+                    309.30655299999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    459.578231,
+                    298.504288
+                ],
+                [
+                    467.73994200000004,
+                    309.54660299999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    504.46764,
+                    298.024187
+                ],
+                [
+                    513.349502,
+                    309.06650199999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "16",
+            "points": [
+                [
+                    548.876949,
+                    298.024187
+                ],
+                [
+                    561.119515,
+                    309.546602
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    600.007666,
+                    298.264238
+                ],
+                [
+                    607.929326,
+                    309.30655299999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "88",
+            "points": [
+                [
+                    654.739138,
+                    298.264238
+                ],
+                [
+                    667.701855,
+                    309.786653
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Khánh Hoà",
+            "points": [
+                [
+                    190.409538,
+                    313.968133
+                ],
+                [
+                    244.673196,
+                    327.066257
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    365.363056,
+                    315.839293
+                ],
+                [
+                    375.186649,
+                    326.130676
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    457.517717,
+                    314.903713
+                ],
+                [
+                    467.34131,
+                    326.130677
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    503.828942,
+                    314.435923
+                ],
+                [
+                    513.652535,
+                    327.066257
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "35",
+            "points": [
+                [
+                    547.801216,
+                    314.435923
+                ],
+                [
+                    561.36713,
+                    328.001837
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    599.725924,
+                    315.839293
+                ],
+                [
+                    608.1461469999999,
+                    325.662886
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "99",
+            "points": [
+                [
+                    653.054001,
+                    315.371503
+                ],
+                [
+                    668.491076,
+                    326.598467
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ninh Thuận",
+            "points": [
+                [
+                    189.941748,
+                    331.744159
+                ],
+                [
+                    244.20540599999998,
+                    346.71344400000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    367.234217,
+                    332.211949
+                ],
+                [
+                    373.783279,
+                    344.842283
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    503.828942,
+                    332.211949
+                ],
+                [
+                    512.716955,
+                    344.37449300000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "15",
+            "points": [
+                [
+                    549.204587,
+                    333.147529
+                ],
+                [
+                    561.367131,
+                    344.842283
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3",
+            "points": [
+                [
+                    599.258133,
+                    331.744159
+                ],
+                [
+                    607.678356,
+                    345.777864
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "47",
+            "points": [
+                [
+                    654.925162,
+                    331.744159
+                ],
+                [
+                    668.023286,
+                    344.842283
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bình Thuận",
+            "points": [
+                [
+                    190.409538,
+                    349.520185
+                ],
+                [
+                    245.608776,
+                    363.55389
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    364.427476,
+                    349.520185
+                ],
+                [
+                    375.65444,
+                    361.214939
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    460.222056,
+                    349.779848
+                ],
+                [
+                    466.292688,
+                    362.560127
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    503.355496,
+                    350.099355
+                ],
+                [
+                    513.260212,
+                    362.24062
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "19",
+            "points": [
+                [
+                    548.405979,
+                    349.779848
+                ],
+                [
+                    562.464286,
+                    362.560127
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12",
+            "points": [
+                [
+                    595.693011,
+                    349.460341
+                ],
+                [
+                    607.514769,
+                    361.601606
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "96",
+            "points": [
+                [
+                    654.8018,
+                    349.460341
+                ],
+                [
+                    667.901586,
+                    361.282099
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tây Nguyên - Central Highlands",
+            "points": [
+                [
+                    164.678109,
+                    366.074703
+                ],
+                [
+                    312.29032900000004,
+                    381.091531
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    365.967499,
+                    366.713717
+                ],
+                [
+                    375.872215,
+                    378.85498199999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    458.624521,
+                    367.672238
+                ],
+                [
+                    468.529237,
+                    378.535475
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "52",
+            "points": [
+                [
+                    498.562892,
+                    367.033224
+                ],
+                [
+                    513.260213,
+                    379.174489
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "77",
+            "points": [
+                [
+                    546.808444,
+                    366.713717
+                ],
+                [
+                    560.547244,
+                    378.53547499999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "49",
+            "points": [
+                [
+                    594.095476,
+                    367.352731
+                ],
+                [
+                    607.8342759999999,
+                    378.535475
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "600",
+            "points": [
+                [
+                    649.370182,
+                    366.713717
+                ],
+                [
+                    668.5406,
+                    378.85498199999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Kon Tum",
+            "points": [
+                [
+                    190.374041,
+                    384.249935
+                ],
+                [
+                    233.658846,
+                    397.366543
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    367.448244,
+                    384.905765
+                ],
+                [
+                    374.82633599999997,
+                    396.218839
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    503.697006,
+                    385.397638
+                ],
+                [
+                    513.534462,
+                    397.03862699999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    548.293472,
+                    384.741808
+                ],
+                [
+                    562.2298679999999,
+                    397.202585
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    598.464496,
+                    384.57785
+                ],
+                [
+                    610.5973580000001,
+                    397.694458
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "86",
+            "points": [
+                [
+                    653.554248,
+                    384.249935
+                ],
+                [
+                    667.6546010000001,
+                    396.87467
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Gia Lai",
+            "points": [
+                [
+                    190.325018,
+                    401.086413
+                ],
+                [
+                    226.76902,
+                    414.834749
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    364.907066,
+                    401.30464
+                ],
+                [
+                    376.25489899999997,
+                    413.961838
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    458.090234,
+                    400.868185
+                ],
+                [
+                    467.910474,
+                    414.834749
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "14",
+            "points": [
+                [
+                    498.462332,
+                    400.213502
+                ],
+                [
+                    513.738261,
+                    414.834748
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "24",
+            "points": [
+                [
+                    547.999988,
+                    400.868185
+                ],
+                [
+                    561.966552,
+                    414.616521
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "14",
+            "points": [
+                [
+                    594.264231,
+                    401.522868
+                ],
+                [
+                    608.230795,
+                    413.74361100000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "184",
+            "points": [
+                [
+                    649.039348,
+                    401.741095
+                ],
+                [
+                    668.243373,
+                    413.525383
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đắk Lắk",
+            "points": [
+                [
+                    190.106791,
+                    417.45348
+                ],
+                [
+                    230.915345,
+                    432.72940900000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    365.343521,
+                    419.635755
+                ],
+                [
+                    375.818444,
+                    431.63827100000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    458.744916,
+                    419.635755
+                ],
+                [
+                    468.783384,
+                    432.074726
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "13",
+            "points": [
+                [
+                    498.68056,
+                    418.981073
+                ],
+                [
+                    512.647124,
+                    431.638271
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "20",
+            "points": [
+                [
+                    547.127078,
+                    419.417528
+                ],
+                [
+                    562.1847799999999,
+                    432.292954
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12",
+            "points": [
+                [
+                    594.482458,
+                    418.544617
+                ],
+                [
+                    609.5401599999999,
+                    432.511181
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "152",
+            "points": [
+                [
+                    649.694031,
+                    417.889935
+                ],
+                [
+                    669.552739,
+                    432.51118099999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đắk Nông",
+            "points": [
+                [
+                    190.106791,
+                    435.566367
+                ],
+                [
+                    237.89862699999998,
+                    451.278751
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    457.872006,
+                    437.530415
+                ],
+                [
+                    467.692246,
+                    448.005338
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    503.045111,
+                    436.439277
+                ],
+                [
+                    513.083579,
+                    447.78711
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    552.146312,
+                    437.09396
+                ],
+                [
+                    561.966552,
+                    448.44179299999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    598.628782,
+                    436.657505
+                ],
+                [
+                    609.103705,
+                    448.66002100000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "61",
+            "points": [
+                [
+                    653.622127,
+                    437.09396
+                ],
+                [
+                    666.715781,
+                    448.223566
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Lâm Đồng",
+            "points": [
+                [
+                    190.543246,
+                    452.369889
+                ],
+                [
+                    239.426219,
+                    468.736956
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    365.779976,
+                    454.11571
+                ],
+                [
+                    376.03667099999996,
+                    465.68177099999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    499.989925,
+                    453.242799
+                ],
+                [
+                    512.6471230000001,
+                    465.68177
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "18",
+            "points": [
+                [
+                    548.872898,
+                    453.897482
+                ],
+                [
+                    562.621234,
+                    466.55468
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12",
+            "points": [
+                [
+                    594.918913,
+                    453.461027
+                ],
+                [
+                    608.230794,
+                    465.899998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "117",
+            "points": [
+                [
+                    649.257576,
+                    452.369889
+                ],
+                [
+                    668.243374,
+                    465.68177000000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đông Nam Bộ - South East",
+            "points": [
+                [
+                    165.149557,
+                    471.195825
+                ],
+                [
+                    293.685589,
+                    485.598844
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    367.010049,
+                    471.850508
+                ],
+                [
+                    375.30269599999997,
+                    483.634796
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "19",
+            "points": [
+                [
+                    416.329478,
+                    471.850508
+                ],
+                [
+                    430.296042,
+                    483.853024
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    458.010941,
+                    471.63228
+                ],
+                [
+                    466.740043,
+                    482.543658
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "39",
+            "points": [
+                [
+                    499.474178,
+                    472.068735
+                ],
+                [
+                    512.349604,
+                    483.198341
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "374",
+            "points": [
+                [
+                    542.683234,
+                    471.414053
+                ],
+                [
+                    561.669032,
+                    483.41656900000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "33",
+            "points": [
+                [
+                    593.966711,
+                    471.850508
+                ],
+                [
+                    607.060365,
+                    483.19834099999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "465",
+            "points": [
+                [
+                    648.087146,
+                    471.63228
+                ],
+                [
+                    669.255219,
+                    483.19834099999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bình Phước",
+            "points": [
+                [
+                    190.245726,
+                    488.435802
+                ],
+                [
+                    246.330209,
+                    501.093
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3",
+            "points": [
+                [
+                    458.229169,
+                    488.65403
+                ],
+                [
+                    467.394726,
+                    500.22009099999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    503.838729,
+                    489.090485
+                ],
+                [
+                    513.004286,
+                    500.874773
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "14",
+            "points": [
+                [
+                    548.575379,
+                    489.090485
+                ],
+                [
+                    561.450805,
+                    500.656546
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    599.4224,
+                    488.435802
+                ],
+                [
+                    608.806185,
+                    500.43831800000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "92",
+            "points": [
+                [
+                    653.542835,
+                    488.65403
+                ],
+                [
+                    669.0369919999999,
+                    501.31122799999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tây Ninh",
+            "points": [
+                [
+                    190.682181,
+                    505.894007
+                ],
+                [
+                    234.98237600000002,
+                    520.078798
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    367.010049,
+                    507.639828
+                ],
+                [
+                    376.39383399999997,
+                    518.769434
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    502.529363,
+                    507.203373
+                ],
+                [
+                    513.658969,
+                    519.424116
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    553.158157,
+                    507.203373
+                ],
+                [
+                    561.669032,
+                    518.551206
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    599.4224,
+                    506.112235
+                ],
+                [
+                    607.278592,
+                    518.551206
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "80",
+            "points": [
+                [
+                    655.070427,
+                    506.985145
+                ],
+                [
+                    667.727625,
+                    518.7694329999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bình Dương",
+            "points": [
+                [
+                    189.746904,
+                    523.514318
+                ],
+                [
+                    249.84616499999998,
+                    537.924082
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    366.53011,
+                    524.568691
+                ],
+                [
+                    376.370925,
+                    535.8153359999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    457.206188,
+                    524.568691
+                ],
+                [
+                    467.749918,
+                    536.518252
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    504.301515,
+                    523.865776
+                ],
+                [
+                    512.736499,
+                    535.815337
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "41",
+            "points": [
+                [
+                    547.692658,
+                    524.554808
+                ],
+                [
+                    560.317393,
+                    536.0974229999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    598.011244,
+                    524.013748
+                ],
+                [
+                    608.4717390000001,
+                    535.376009
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "48",
+            "points": [
+                [
+                    654.642197,
+                    523.111982
+                ],
+                [
+                    668.349052,
+                    535.736717
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đồng Nai",
+            "points": [
+                [
+                    191.004043,
+                    539.917449
+                ],
+                [
+                    236.017856,
+                    555.8660510000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    367.183932,
+                    542.153235
+                ],
+                [
+                    374.78560200000004,
+                    553.1831099999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    459.596394,
+                    542.302287
+                ],
+                [
+                    467.04901199999995,
+                    553.034057
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9",
+            "points": [
+                [
+                    504.16305,
+                    542.451339
+                ],
+                [
+                    512.36093,
+                    553.183109
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "29",
+            "points": [
+                [
+                    548.431601,
+                    541.85513
+                ],
+                [
+                    561.548209,
+                    553.481214
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    599.55656,
+                    542.600392
+                ],
+                [
+                    608.499702,
+                    552.7359520000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "136",
+            "points": [
+                [
+                    649.787205,
+                    542.153235
+                ],
+                [
+                    669.3130639999999,
+                    553.928371
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bà Rịa - Vũng Tàu",
+            "points": [
+                [
+                    191.07459,
+                    558.694801
+                ],
+                [
+                    274.42629,
+                    572.303242
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    366.70853,
+                    559.120065
+                ],
+                [
+                    375.213806,
+                    571.0274509999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    503.218202,
+                    558.694801
+                ],
+                [
+                    512.999269,
+                    570.602187
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "24",
+            "points": [
+                [
+                    547.445635,
+                    559.545329
+                ],
+                [
+                    561.054076,
+                    571.027451
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    600.178343,
+                    559.120065
+                ],
+                [
+                    609.5341460000001,
+                    570.176923
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "51",
+            "points": [
+                [
+                    654.186843,
+                    558.694801
+                ],
+                [
+                    667.37002,
+                    571.877978
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TP. Hồ Chí Minh",
+            "points": [
+                [
+                    190.649326,
+                    574.429561
+                ],
+                [
+                    270.59891600000003,
+                    590.589585
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "19",
+            "points": [
+                [
+                    416.464392,
+                    575.705352
+                ],
+                [
+                    429.647569,
+                    588.463265
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    504.06873,
+                    575.705352
+                ],
+                [
+                    512.999269,
+                    588.0380019999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "259",
+            "points": [
+                [
+                    542.767733,
+                    575.705352
+                ],
+                [
+                    561.479339,
+                    588.0380019999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    600.603607,
+                    576.55588
+                ],
+                [
+                    608.258355,
+                    587.612738
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "58",
+            "points": [
+                [
+                    654.612107,
+                    575.280088
+                ],
+                [
+                    668.220548,
+                    589.313793
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đồng bằng sông Cửu Long",
+            "points": [
+                [
+                    164.527586,
+                    592.252119
+                ],
+                [
+                    295.68234900000004,
+                    607.3098209999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mekong River Delta",
+            "points": [
+                [
+                    164.662599,
+                    607.662949
+                ],
+                [
+                    259.37336,
+                    620.055437
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "14",
+            "points": [
+                [
+                    363.332893,
+                    607.091593
+                ],
+                [
+                    374.898954,
+                    618.8758809999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    422.690789,
+                    607.30982
+                ],
+                [
+                    430.546981,
+                    618.221198
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    453.679102,
+                    607.30982
+                ],
+                [
+                    465.899845,
+                    617.566515
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "103",
+            "points": [
+                [
+                    493.396518,
+                    606.43691
+                ],
+                [
+                    511.94586100000004,
+                    618.657653
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "202",
+            "points": [
+                [
+                    542.934174,
+                    607.30982
+                ],
+                [
+                    560.610606,
+                    618.0029699999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "125",
+            "points": [
+                [
+                    589.853099,
+                    606.873365
+                ],
+                [
+                    608.620669,
+                    618.002971
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1294",
+            "points": [
+                [
+                    643.537079,
+                    606.218682
+                ],
+                [
+                    667.978566,
+                    618.657653
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Long An",
+            "points": [
+                [
+                    189.841983,
+                    625.422708
+                ],
+                [
+                    229.777626,
+                    638.0799059999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    365.951623,
+                    625.640935
+                ],
+                [
+                    374.462498,
+                    635.679403
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    459.134791,
+                    625.20448
+                ],
+                [
+                    466.772756,
+                    636.334086
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "13",
+            "points": [
+                [
+                    500.161572,
+                    624.986253
+                ],
+                [
+                    512.81877,
+                    636.770541
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12",
+            "points": [
+                [
+                    549.044546,
+                    624.549797
+                ],
+                [
+                    561.701744,
+                    637.425223
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "14",
+            "points": [
+                [
+                    594.872333,
+                    624.549797
+                ],
+                [
+                    608.184214,
+                    636.552313
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "166",
+            "points": [
+                [
+                    650.083906,
+                    624.768025
+                ],
+                [
+                    668.8514759999999,
+                    636.334086
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tiền Giang",
+            "points": [
+                [
+                    191.369576,
+                    640.480409
+                ],
+                [
+                    240.907232,
+                    655.538111
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    367.260989,
+                    642.444457
+                ],
+                [
+                    374.026043,
+                    653.574063
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    458.698336,
+                    642.008002
+                ],
+                [
+                    466.554528,
+                    653.574063
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    504.962579,
+                    642.008002
+                ],
+                [
+                    512.3823160000001,
+                    653.3558350000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "22",
+            "points": [
+                [
+                    547.953408,
+                    642.008002
+                ],
+                [
+                    561.483517,
+                    653.3558350000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    599.891567,
+                    642.662685
+                ],
+                [
+                    608.4024420000001,
+                    652.91938
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "144",
+            "points": [
+                [
+                    650.956816,
+                    642.444457
+                ],
+                [
+                    668.851476,
+                    652.91938
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bến Tre",
+            "points": [
+                [
+                    190.496666,
+                    658.375069
+                ],
+                [
+                    229.12294400000002,
+                    671.68695
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    366.824534,
+                    659.902662
+                ],
+                [
+                    374.898954,
+                    671.0322679999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    504.526124,
+                    660.339117
+                ],
+                [
+                    513.255226,
+                    671.68695
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    549.262773,
+                    660.339117
+                ],
+                [
+                    561.483516,
+                    672.1234049999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    599.67334,
+                    659.466207
+                ],
+                [
+                    608.62067,
+                    672.341633
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "147",
+            "points": [
+                [
+                    648.338085,
+                    659.684435
+                ],
+                [
+                    667.54211,
+                    671.250496
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trà Vinh",
+            "points": [
+                [
+                    190.191703,
+                    675.983265
+                ],
+                [
+                    231.31225,
+                    688.9871989999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    365.217621,
+                    675.983265
+                ],
+                [
+                    374.00406300000003,
+                    688.9871989999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    504.746314,
+                    677.037638
+                ],
+                [
+                    512.82984,
+                    688.635741
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9",
+            "points": [
+                [
+                    553.247472,
+                    676.686181
+                ],
+                [
+                    560.979541,
+                    688.635742
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11",
+            "points": [
+                [
+                    595.070935,
+                    677.037638
+                ],
+                [
+                    607.7234109999999,
+                    689.338656
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "85",
+            "points": [
+                [
+                    654.46728,
+                    676.334723
+                ],
+                [
+                    667.4712139999999,
+                    689.338657
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vĩnh Long",
+            "points": [
+                [
+                    190.191703,
+                    694.259064
+                ],
+                [
+                    237.98994599999997,
+                    709.0202859999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    367.326367,
+                    695.664895
+                ],
+                [
+                    374.706978,
+                    706.208625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    459.056818,
+                    695.664895
+                ],
+                [
+                    467.491802,
+                    706.208625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    503.340484,
+                    694.961979
+                ],
+                [
+                    513.532756,
+                    707.262997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    548.327065,
+                    694.961979
+                ],
+                [
+                    562.736829,
+                    707.262997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    599.288427,
+                    695.664895
+                ],
+                [
+                    608.0748689999999,
+                    706.208625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "94",
+            "points": [
+                [
+                    654.46728,
+                    695.313437
+                ],
+                [
+                    668.174129,
+                    707.262998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đồng Tháp",
+            "points": [
+                [
+                    190.894618,
+                    710.074659
+                ],
+                [
+                    242.558895,
+                    726.593169
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    365.569078,
+                    711.831947
+                ],
+                [
+                    375.409893,
+                    723.43005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    458.353902,
+                    712.88632
+                ],
+                [
+                    467.843259,
+                    723.078592
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9",
+            "points": [
+                [
+                    503.340484,
+                    711.48049
+                ],
+                [
+                    513.181299,
+                    724.484424
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "17",
+            "points": [
+                [
+                    548.678523,
+                    711.831947
+                ],
+                [
+                    560.6280840000001,
+                    724.484423
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    599.288427,
+                    711.831947
+                ],
+                [
+                    608.4263259999999,
+                    723.43005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "119",
+            "points": [
+                [
+                    649.195415,
+                    711.129032
+                ],
+                [
+                    669.228502,
+                    723.43005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "An Giang",
+            "points": [
+                [
+                    190.191703,
+                    728.350458
+                ],
+                [
+                    234.82682699999998,
+                    742.760222
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    366.623451,
+                    729.053373
+                ],
+                [
+                    376.112808,
+                    740.3000179999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    458.70536,
+                    729.053373
+                ],
+                [
+                    467.491802,
+                    740.3000179999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    504.394857,
+                    729.053373
+                ],
+                [
+                    512.829841,
+                    740.651476
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "21",
+            "points": [
+                [
+                    547.62415,
+                    729.053373
+                ],
+                [
+                    561.330999,
+                    741.002934
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "16",
+            "points": [
+                [
+                    595.070935,
+                    728.701915
+                ],
+                [
+                    608.777784,
+                    741.002933
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "119",
+            "points": [
+                [
+                    650.601246,
+                    729.053373
+                ],
+                [
+                    668.174129,
+                    741.002934
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Kiên Giang",
+            "points": [
+                [
+                    189.594225,
+                    746.766839
+                ],
+                [
+                    242.558895,
+                    761.457769
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    365.498787,
+                    746.766839
+                ],
+                [
+                    376.710286,
+                    760.297959
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    458.670214,
+                    746.380236
+                ],
+                [
+                    467.562093,
+                    759.138149
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "13",
+            "points": [
+                [
+                    500.036782,
+                    746.766839
+                ],
+                [
+                    513.181299,
+                    759.911356
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "15",
+            "points": [
+                [
+                    548.748814,
+                    747.540046
+                ],
+                [
+                    561.893331,
+                    759.5247519999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12",
+            "points": [
+                [
+                    596.301036,
+                    746.766839
+                ],
+                [
+                    607.899139,
+                    759.524752
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "118",
+            "points": [
+                [
+                    650.425517,
+                    747.153443
+                ],
+                [
+                    668.595878,
+                    759.138149
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Cần Thơ",
+            "points": [
+                [
+                    191.527242,
+                    763.004184
+                ],
+                [
+                    234.05362,
+                    777.695114
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    420.783078,
+                    763.77739
+                ],
+                [
+                    430.834767,
+                    775.375493
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    502.743006,
+                    763.004184
+                ],
+                [
+                    513.567902,
+                    776.148701
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "44",
+            "points": [
+                [
+                    546.429194,
+                    763.390787
+                ],
+                [
+                    561.8933310000001,
+                    776.1487000000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    599.00726,
+                    763.77739
+                ],
+                [
+                    608.672346,
+                    776.1487
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "36",
+            "points": [
+                [
+                    653.131741,
+                    763.004184
+                ],
+                [
+                    668.5958780000001,
+                    776.535304
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hậu Giang",
+            "points": [
+                [
+                    190.754035,
+                    780.787941
+                ],
+                [
+                    241.39908499999999,
+                    797.4118890000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    366.658597,
+                    781.174545
+                ],
+                [
+                    374.777269,
+                    793.545855
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    459.443421,
+                    783.107562
+                ],
+                [
+                    467.948697,
+                    794.319062
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    501.969799,
+                    781.561148
+                ],
+                [
+                    514.3411090000001,
+                    793.932458
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    552.614848,
+                    781.947752
+                ],
+                [
+                    562.6665370000001,
+                    795.092269
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12",
+            "points": [
+                [
+                    594.368019,
+                    780.787941
+                ],
+                [
+                    608.285743,
+                    794.7056650000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "54",
+            "points": [
+                [
+                    653.131741,
+                    781.561148
+                ],
+                [
+                    667.822671,
+                    794.705665
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sóc Trăng",
+            "points": [
+                [
+                    191.140638,
+                    798.571699
+                ],
+                [
+                    239.466067,
+                    812.8760259999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    366.658597,
+                    799.344906
+                ],
+                [
+                    376.32368299999996,
+                    810.9430090000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    458.670214,
+                    798.571699
+                ],
+                [
+                    468.721903,
+                    811.329612
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    503.516212,
+                    798.185096
+                ],
+                [
+                    514.341108,
+                    810.9430090000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "17",
+            "points": [
+                [
+                    548.362211,
+                    798.185096
+                ],
+                [
+                    561.506728,
+                    810.556406
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12",
+            "points": [
+                [
+                    593.981416,
+                    797.411889
+                ],
+                [
+                    608.2857429999999,
+                    811.716216
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "80",
+            "points": [
+                [
+                    654.291551,
+                    799.344906
+                ],
+                [
+                    668.209275,
+                    810.556406
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bạc Liêu",
+            "points": [
+                [
+                    189.980828,
+                    815.968854
+                ],
+                [
+                    233.280413,
+                    831.046388
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    365.498787,
+                    817.128664
+                ],
+                [
+                    376.710287,
+                    828.726767
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    504.676023,
+                    817.515268
+                ],
+                [
+                    513.181299,
+                    828.726768
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    549.908624,
+                    814.809044
+                ],
+                [
+                    563.439744,
+                    828.340164
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    597.074243,
+                    817.901871
+                ],
+                [
+                    610.21876,
+                    828.3401640000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "50",
+            "points": [
+                [
+                    653.904948,
+                    815.968854
+                ],
+                [
+                    668.982482,
+                    829.499974
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Cà Mau",
+            "points": [
+                [
+                    189.980828,
+                    833.752612
+                ],
+                [
+                    229.800982,
+                    845.737318
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    366.658597,
+                    834.139215
+                ],
+                [
+                    376.32368299999996,
+                    846.123921
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    503.902816,
+                    834.525819
+                ],
+                [
+                    513.9545049999999,
+                    846.123922
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    549.135418,
+                    832.979405
+                ],
+                [
+                    561.506728,
+                    847.2837320000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9",
+            "points": [
+                [
+                    598.620657,
+                    833.752612
+                ],
+                [
+                    608.285743,
+                    845.737318
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "82",
+            "points": [
+                [
+                    654.291551,
+                    833.752612
+                ],
+                [
+                    670.528895,
+                    846.897129
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "16 Đơn vị Hành chính, Đất đai và Khí hậu - Administrative Unit, Land and Climate",
+            "points": [
+                [
+                    161.581268,
+                    882.826631
+                ],
+                [
+                    657.455372,
+                    902.73589
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_TABLE_007366.jpg",
+    "imageData": null,
+    "imageHeight": 1100,
+    "imageWidth": 850
+}

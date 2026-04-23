@@ -1,0 +1,842 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Số (No): 0",
+            "points": [
+                [
+                    607.785339,
+                    67.299614
+                ],
+                [
+                    673.1827390000001,
+                    86.47757
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ngày (Date) 20 tháng (mouth) 08 năm (year) 2022",
+            "points": [
+                [
+                    284.008817,
+                    105.483558
+                ],
+                [
+                    567.763867,
+                    122.632534
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đơn vị bán hàng (Seller): CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ",
+            "points": [
+                [
+                    52.335649,
+                    167.445296
+                ],
+                [
+                    499.808069,
+                    170.967718
+                ],
+                [
+                    497.69735,
+                    193.511216
+                ],
+                [
+                    51.632076,
+                    189.28431
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Mã số thuế (Tax code)",
+            "points": [
+                [
+                    52.855301,
+                    193.643359
+                ],
+                [
+                    173.08012,
+                    212.89025
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Địa chỉ (Addrest):",
+            "points": [
+                [
+                    52.505803,
+                    214.639967
+                ],
+                [
+                    152.11067400000002,
+                    234.32428700000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    507.001402,
+                    251.07883
+                ],
+                [
+                    567.394248,
+                    257.98042
+                ],
+                [
+                    555.906478,
+                    276.713306
+                ],
+                [
+                    494.528966,
+                    263.238774
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Họ tên người mua hàng (Buyer):",
+            "points": [
+                [
+                    53.326734,
+                    287.99768
+                ],
+                [
+                    231.56703,
+                    306.807141
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tên đơn vị (Company name): L",
+            "points": [
+                [
+                    53.676219,
+                    310.744006
+                ],
+                [
+                    221.956033,
+                    329.990897
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mã số thuế (Tax code):",
+            "points": [
+                [
+                    53.326734,
+                    333.490331
+                ],
+                [
+                    177.39596,
+                    354.04951000000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Địa chỉ (Address): S",
+            "points": [
+                [
+                    54.375217,
+                    359.736091
+                ],
+                [
+                    161.66887499999999,
+                    374.608688
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(6)=(4)x(5)",
+            "points": [
+                [
+                    706.268555,
+                    463.273285
+                ],
+                [
+                    771.9152839999999,
+                    480.816712
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đơn giá",
+            "points": [
+                [
+                    616.315889,
+                    420.816978
+                ],
+                [
+                    666.641878,
+                    437.794456
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.000",
+            "points": [
+                [
+                    748.885119,
+                    749.807927
+                ],
+                [
+                    790.2736080000001,
+                    765.1032759999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số lượng",
+            "points": [
+                [
+                    523.303682,
+                    419.521833
+                ],
+                [
+                    579.768343,
+                    437.638868
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thành tiên",
+            "points": [
+                [
+                    710.173462,
+                    419.331757
+                ],
+                [
+                    770.978943,
+                    434.722351
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(4)",
+            "points": [
+                [
+                    541.494581,
+                    464.419069
+                ],
+                [
+                    563.582166,
+                    481.30645899999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ký hiệu Serial: 1C22INE",
+            "points": [
+                [
+                    608.113915,
+                    35.041386
+                ],
+                [
+                    764.674767,
+                    52.214112
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(3)",
+            "points": [
+                [
+                    451.357524,
+                    464.399364
+                ],
+                [
+                    474.06550100000004,
+                    480.84959
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(Quantity)",
+            "points": [
+                [
+                    524.221223,
+                    441.528547
+                ],
+                [
+                    578.986909,
+                    457.673658
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(5)",
+            "points": [
+                [
+                    632.106091,
+                    465.209095
+                ],
+                [
+                    651.169224,
+                    482.356129
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.000",
+            "points": [
+                [
+                    749.838167,
+                    809.120846
+                ],
+                [
+                    790.185945,
+                    824.203915
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Cộng tiền hàng (Subtotal):",
+            "points": [
+                [
+                    511.168518,
+                    748.851577
+                ],
+                [
+                    659.225515,
+                    768.416591
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tiền thuế GTGT (VAI amount):",
+            "points": [
+                [
+                    485.751007,
+                    778.437704
+                ],
+                [
+                    658.4312180000001,
+                    797.0483290000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tổng cộng tiền thanh toán (Total payment):",
+            "points": [
+                [
+                    424.748979,
+                    806.751316
+                ],
+                [
+                    657.954636,
+                    825.9981799999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Người bán hàng (Seller)",
+            "points": [
+                [
+                    608.387217,
+                    877.34731
+                ],
+                [
+                    741.4320009999999,
+                    895.878397
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(Unit price)",
+            "points": [
+                [
+                    610.926862,
+                    439.595001
+                ],
+                [
+                    672.482282,
+                    456.75286800000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.000",
+            "points": [
+                [
+                    752.085876,
+                    487.787628
+                ],
+                [
+                    792.551818,
+                    503.555115
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Châu ",
+            "points": [
+                [
+                    447.130617,
+                    489.154904
+                ],
+                [
+                    479.53387599999996,
+                    505.041653
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "500",
+            "points": [
+                [
+                    570.018779,
+                    488.413047
+                ],
+                [
+                    594.372234,
+                    505.974601
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(Unit)",
+            "points": [
+                [
+                    445.806963,
+                    441.447728
+                ],
+                [
+                    479.267962,
+                    456.217442
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(Amount)",
+            "points": [
+                [
+                    714.082642,
+                    441.076874
+                ],
+                [
+                    766.619324,
+                    455.41705299999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "20",
+            "points": [
+                [
+                    665.817659,
+                    488.118464
+                ],
+                [
+                    683.880403,
+                    505.073847
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+            "points": [
+                [
+                    266.069397,
+                    35.189857
+                ],
+                [
+                    588.948669,
+                    62.799598
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số tài khoản (4 CN",
+            "points": [
+                [
+                    456.501801,
+                    382.128448
+                ],
+                [
+                    584.887513,
+                    399.487304
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0",
+            "points": [
+                [
+                    780.020911,
+                    779.200435
+                ],
+                [
+                    791.750403,
+                    795.680782
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(VAT INVOICE)",
+            "points": [
+                [
+                    361.643887,
+                    75.227523
+                ],
+                [
+                    488.542866,
+                    94.18455900000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hình thức thanh toán (Payment method): Chuyển khoản",
+            "points": [
+                [
+                    54.724689,
+                    382.832354
+                ],
+                [
+                    362.10183,
+                    400.329527
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "STT",
+            "points": [
+                [
+                    61.362223,
+                    421.328191
+                ],
+                [
+                    86.62087700000001,
+                    435.564523
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(No)",
+            "points": [
+                [
+                    57.86732,
+                    440.097879
+                ],
+                [
+                    87.41517400000001,
+                    457.43598899999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tên hàng hóa, dịch vụ",
+            "points": [
+                [
+                    193.215574,
+                    420.373802
+                ],
+                [
+                    318.158517,
+                    437.632375
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(Name of goods, services)",
+            "points": [
+                [
+                    187.17891,
+                    440.416016
+                ],
+                [
+                    322.527151,
+                    457.913189
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(2)",
+            "points": [
+                [
+                    246.592332,
+                    464.593936
+                ],
+                [
+                    263.431443,
+                    480.500445
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(1)",
+            "points": [
+                [
+                    63.903972,
+                    465.230223
+                ],
+                [
+                    83.284819,
+                    481.693446
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    69.305195,
+                    490.680645
+                ],
+                [
+                    79.710481,
+                    504.36023900000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    69.622909,
+                    516.76733
+                ],
+                [
+                    77.724738,
+                    530.208335
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chậu cây cảnh bằng sử",
+            "points": [
+                [
+                    95.675861,
+                    488.771843
+                ],
+                [
+                    227.052616,
+                    507.541543
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tỷ giả : 1USD - 23 265 VND",
+            "points": [
+                [
+                    97.264455,
+                    515.812941
+                ],
+                [
+                    268.75322,
+                    532.991977
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đơn vị tính",
+            "points": [
+                [
+                    430.036883,
+                    421.828258
+                ],
+                [
+                    496.916694,
+                    436.939453
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thuế suất GIGI (VAIrate): 0%",
+            "points": [
+                [
+                    57.772126,
+                    777.50703
+                ],
+                [
+                    249.817297,
+                    795.354141
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Số tiền viết bằng chữ (Amount be word): Mười nghìn đô la Mỹ.",
+            "points": [
+                [
+                    57.422627,
+                    835.947591
+                ],
+                [
+                    411.282039,
+                    853.444764
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Người mua hàng (Buyer)",
+            "points": [
+                [
+                    107.749304,
+                    877.590868
+                ],
+                [
+                    245.273919,
+                    895.437979
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_TRADE_RG_2025032900021.jpg",
+    "imageData": null,
+    "imageHeight": 914,
+    "imageWidth": 850
+}

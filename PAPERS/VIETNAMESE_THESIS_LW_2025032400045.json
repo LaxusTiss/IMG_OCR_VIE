@@ -1,0 +1,618 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "HỘI THẢO QUỐC TẾ",
+            "points": [
+                [
+                    91.841612,
+                    19.875209
+                ],
+                [
+                    248.245205,
+                    37.502907
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ĐÓNG GÓP CỦA KHOA HỌC XÃ HỘI – NHÂN VĂN TRONG PHÁT TRIỂN KINH TẾ - XÃ HỘI",
+            "points": [
+                [
+                    90.698472,
+                    38.093362
+                ],
+                [
+                    724.7119210000001,
+                    56.50892
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Như vậy, chúng ta cũng không bỏ qua được nhận thức chủ quan của người dân tộc thiểu số và càng",
+            "points": [
+                [
+                    91.371316,
+                    93.136109
+                ],
+                [
+                    759.9545949999999,
+                    111.36906
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "không thể bỏ qua mối tương quan giữ nhận thức chủ quan đó với thực tế kinh tế xã hội.",
+            "points": [
+                [
+                    90.852055,
+                    113.095801
+                ],
+                [
+                    673.5896909999999,
+                    132.553274
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chẳng hạn, trong ba yếu tố làm thành nội dung chính sách ngôn ngữ vùng dân tộc thiểu số",
+            "points": [
+                [
+                    140.971188,
+                    146.590439
+                ],
+                [
+                    760.607055,
+                    167.484047
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "của Nhà nước Việt Nam là tiếng phổ thông (ngôn ngữ quốc gia), tiếng mẹ đẻ của người dân tộc và",
+            "points": [
+                [
+                    91.09497,
+                    168.758048
+                ],
+                [
+                    760.09813,
+                    186.976262
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngoại ngữ, ở vùng này người ta cho rằng nhu cầu tiếng phổ thông (ngôn ngữ quốc gia) là cao hơn, ở",
+            "points": [
+                [
+                    90.716184,
+                    188.179138
+                ],
+                [
+                    759.525477,
+                    205.123355
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vùng khác nhu cầu ngoại ngữ là lớn hơn. Vậy thì về bản chất nhu cầu ấy có tác động như thế nào",
+            "points": [
+                [
+                    90.81317,
+                    207.516139
+                ],
+                [
+                    758.276775,
+                    224.332952
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nến sự phát triển bền vững xã hội vùng dân tộc? Chỉ khi nào trong nghiên cứu thực tế, người ta",
+            "points": [
+                [
+                    90.81317,
+                    226.014629
+                ],
+                [
+                    758.276775,
+                    243.95256700000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hiểu rõ mối quan hệ đó thì việc thực thi chính sách ngôn ngữ vùng dân tộc thiểu số mới biện chứng",
+            "points": [
+                [
+                    90.81317,
+                    244.665897
+                ],
+                [
+                    760.376157,
+                    262.871481
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "với sự phát triển kinh tế xã hội. Nói cách khác, lúc này trình độ sử dụng ngôn ngữ của một vài địa",
+            "points": [
+                [
+                    91.053129,
+                    264.8095
+                ],
+                [
+                    759.496441,
+                    282.186865
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phương đã có những tác động thực sự đến sự phát triển kinh tế xã hội. Hiểu được điều đó, chúng ta",
+            "points": [
+                [
+                    91.702017,
+                    284.569264
+                ],
+                [
+                    758.745741,
+                    302.50720199999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sẽ tập trung vào thúc đẩy hoạt động giáo dục ngôn ngữ có vai trò tác động tích cực đối với sự phát",
+            "points": [
+                [
+                    92.261843,
+                    304.188879
+                ],
+                [
+                    759.025654,
+                    320.910763
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "triển kinh tế xã hội vùng dân tộc thiểu số cụ thể nào đó của Việt Nam hiện nay.",
+            "points": [
+                [
+                    90.884243,
+                    322.009811
+                ],
+                [
+                    619.674101,
+                    340.854646
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tài liệu tham khảo chính",
+            "points": [
+                [
+                    90.81976,
+                    393.801018
+                ],
+                [
+                    271.49387,
+                    411.868658
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1- Trần Văn Bính chủ biên (2004), Văn hoá các dân tộc Tây Bắc thực trạng và những vấn đề đặt",
+            "points": [
+                [
+                    99.009083,
+                    427.139243
+                ],
+                [
+                    761.014302,
+                    447.179282
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ra, Nxb Chính trị quốc gia, Hà Nội.",
+            "points": [
+                [
+                    166.599436,
+                    448.617288
+                ],
+                [
+                    405.062404,
+                    467.06469899999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2- Bộ Giáo dục và Đào tạo (2004), Chinh sách, chiến lược sử dụng và dạy - học tiếng dân tộc,",
+            "points": [
+                [
+                    95.978863,
+                    483.234141
+                ],
+                [
+                    758.403952,
+                    501.87277900000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tiếng Việt cho các dân tộc thiểu số, Kỷ yếu Hội thảo quốc gia, Hà Nội 2004, 107 tr.",
+            "points": [
+                [
+                    166.581626,
+                    503.844648
+                ],
+                [
+                    724.219195,
+                    520.754105
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3- Trần Trí Dõi (1999), Nghiên cứu ngôn ngữ các dân tộc thiểu số Việt Nam, Nxb Đại học Quốc",
+            "points": [
+                [
+                    97.133136,
+                    537.552421
+                ],
+                [
+                    759.5582360000001,
+                    556.191059
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gia Hà Nội, Hà Nội 1999 (tái bản 2000), 301 tr.",
+            "points": [
+                [
+                    166.582378,
+                    560.610614
+                ],
+                [
+                    484.249983,
+                    578.7203440000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- (2003), Chính sách ngôn ngữ văn hoá dân tộc ở Việt Nam, Đại học Quốc gia Hà Nội, Hà",
+            "points": [
+                [
+                    153.77679,
+                    591.273996
+                ],
+                [
+                    759.925708,
+                    612.804604
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nội 2000, 184 tr.",
+            "points": [
+                [
+                    153.267844,
+                    615.923258
+                ],
+                [
+                    269.356896,
+                    632.1378090000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- (2004), Thực trạng giáo dục ngôn ngữ ở vùng dân tộc miền núi ba tỉnh phía Bắc Việt",
+            "points": [
+                [
+                    152.83778,
+                    649.104125
+                ],
+                [
+                    761.276938,
+                    666.685342
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nam, Nxb Đại học Quốc gia Hà Nội, Hà Nội 2004, 286 tr.",
+            "points": [
+                [
+                    153.851439,
+                    668.308916
+                ],
+                [
+                    544.600472,
+                    687.682163
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- (2008a), Vấn đề lựa chọn ngôn ngữ trong tiếp nhận giáo dục ngôn ngữ ở một vài dân tộc",
+            "points": [
+                [
+                    153.902953,
+                    702.74906
+                ],
+                [
+                    759.670162,
+                    721.653761
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "thiểu số của Việt Nam. Ngôn ngữ 11(234)-2008, tr 10-13.",
+            "points": [
+                [
+                    153.429269,
+                    722.983471
+                ],
+                [
+                    539.7236340000001,
+                    742.509851
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- (2008b), Về một vài đặc điểm trong hoạt động giáo dục song ngữ ở vùng dân tộc thiểu",
+            "points": [
+                [
+                    153.913066,
+                    756.445477
+                ],
+                [
+                    761.588804,
+                    776.85802
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "số của Việt Nam. Ngôn ngữ & đời sống, 12 (158)-2008, tr 28-32.",
+            "points": [
+                [
+                    154.046509,
+                    778.006642
+                ],
+                [
+                    589.189289,
+                    795.235806
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- (2008c), Về một vài đặc điểm trong hoạch định chính sách giáo dục song ngữ ở vùng",
+            "points": [
+                [
+                    153.731874,
+                    812.349038
+                ],
+                [
+                    759.753565,
+                    832.389056
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dân tộc thiểu số của Việt Nam. Toạ đàm KHQT “Trao đổi kinh nghiệm đào tạo, nghiên",
+            "points": [
+                [
+                    153.197464,
+                    833.459229
+                ],
+                [
+                    759.219159,
+                    851.295242
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cứu và hoạch định chính sách trong thời kỳ hội nhập”, ĐHKHXH &NV Hà Nội - Quỹ",
+            "points": [
+                [
+                    153.791953,
+                    853.779565
+                ],
+                [
+                    759.4319770000001,
+                    870.248919
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Rosa Luxemburg (CHLB Đức), Hà Nội ngày 5-6 tháng 12 năm 2008, 08 tr A4.",
+            "points": [
+                [
+                    154.185221,
+                    871.638699
+                ],
+                [
+                    682.905679,
+                    889.011439
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- (2009a), Chính sách giáo dục song ngữ ở vùng dân tộc thiểu số Việt Nam: Những dấu",
+            "points": [
+                [
+                    154.11233,
+                    907.613016
+                ],
+                [
+                    758.861672,
+                    924.939417
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hiệu bất cập và thử lý giải, Hội thảo KH “VAI TRÒ CÔNG DÂN TRONG QUÁ TRÌNH",
+            "points": [
+                [
+                    154.11231,
+                    926.468215
+                ],
+                [
+                    758.4799419999999,
+                    944.049432
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HOẠCH ĐỊNH CHÍNH SÁCH” Đại học KHXH & NV Hà Nội (Việt Nam) - Viện ROSA",
+            "points": [
+                [
+                    154.621243,
+                    945.833045
+                ],
+                [
+                    759.497809,
+                    963.923816
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "LUXEMBURG (Đức), Hà Nội, ngày 6-7 tháng 11 năm 2009, 08 tr A4.",
+            "points": [
+                [
+                    153.973521,
+                    966.761409
+                ],
+                [
+                    628.676818,
+                    982.0493819999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "161 | TÀI LIỆU HỘI THẢO",
+            "points": [
+                [
+                    98.915315,
+                    1020.037813
+                ],
+                [
+                    303.995474,
+                    1039.958516
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_THESIS_LW_2025032400045.jpg",
+    "imageData": null,
+    "imageHeight": 1100,
+    "imageWidth": 850
+}

@@ -1,0 +1,730 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "của hệ thống pháp luật và phù hợp với",
+            "points": [
+                [
+                    28.066028,
+                    11.591136
+                ],
+                [
+                    518.124616,
+                    47.654662
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "điều ước quốc tế mà VN là thành viên.",
+            "points": [
+                [
+                    25.58744,
+                    50.679359
+                ],
+                [
+                    515.568596,
+                    87.751104
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chính phủ cũng thảo luận về tình",
+            "points": [
+                [
+                    61.526625,
+                    91.628904
+                ],
+                [
+                    519.828628,
+                    126.994431
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hình ban hành văn bản quy định chi",
+            "points": [
+                [
+                    18.771389,
+                    130.717128
+                ],
+                [
+                    520.6806349999999,
+                    167.94398999999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tiết thi hành luật, pháp lệnh, nghị",
+            "points": [
+                [
+                    17.532121,
+                    171.666686
+                ],
+                [
+                    517.272609,
+                    208.893548
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "quyết của Quốc hội, Uy ban Thường",
+            "points": [
+                [
+                    18.771389,
+                    213.236711
+                ],
+                [
+                    519.828629,
+                    247.283759
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vụ Quốc hội. Thời gian qua, Chính",
+            "points": [
+                [
+                    15.482603,
+                    249.960765
+                ],
+                [
+                    518.992987,
+                    279.01395
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phủ, các bộ, ngành đã ban hành được",
+            "points": [
+                [
+                    8.652989,
+                    282.066076
+                ],
+                [
+                    519.812347,
+                    317.778656
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "116 văn bản; tuy nhiên tình trạng nợ,",
+            "points": [
+                [
+                    12.199604,
+                    321.374448
+                ],
+                [
+                    519.812347,
+                    350.35216799999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "chậm ban hành văn bản quy định chi",
+            "points": [
+                [
+                    16.145974,
+                    353.317032
+                ],
+                [
+                    521.787143,
+                    387.08912599999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tiết chưa được khắc phục triệt để, có",
+            "points": [
+                [
+                    20.427284,
+                    393.378461
+                ],
+                [
+                    520.998649,
+                    430.111756
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "văn bản chất lượng chưa bảo đảm...",
+            "points": [
+                [
+                    16.484112,
+                    432.861504
+                ],
+                [
+                    494.663905,
+                    470.440866
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Thủ tướng giao Văn phòng Chính",
+            "points": [
+                [
+                    60.259657,
+                    472.478632
+                ],
+                [
+                    516.50603,
+                    512.247783
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phủ chủ trì, nghiên cứu sửa đổi quy",
+            "points": [
+                [
+                    20.133187,
+                    513.758612
+                ],
+                [
+                    520.352496,
+                    552.6071109999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "chế làm việc của Chính phủ, trong",
+            "points": [
+                [
+                    16.820745,
+                    554.936818
+                ],
+                [
+                    519.011617,
+                    596.252988
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đó cần đẩy nhanh tiến độ soạn thảo,",
+            "points": [
+                [
+                    15.18037,
+                    597.543887
+                ],
+                [
+                    518.049392,
+                    633.886112
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trình, thẩm định, thẩm tra dự thảo",
+            "points": [
+                [
+                    12.651602,
+                    637.466989
+                ],
+                [
+                    516.662771,
+                    676.157564
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "văn bản; tăng cường trách nhiệm của",
+            "points": [
+                [
+                    14.758604,
+                    679.770478
+                ],
+                [
+                    516.168531,
+                    720.022676
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "người đứng đầu bộ ngành. Đặc biệt,",
+            "points": [
+                [
+                    11.685996,
+                    724.893959
+                ],
+                [
+                    514.760256,
+                    761.620885
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "đề cao vai trò của các phó thủ tướng",
+            "points": [
+                [
+                    16.82334,
+                    764.314198
+                ],
+                [
+                    514.956994,
+                    805.510336
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nhất là trong việc xử lý những vấn đề",
+            "points": [
+                [
+                    13.09896,
+                    807.666295
+                ],
+                [
+                    514.316869,
+                    847.813599
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "còn vướng mắc, chưa thống nhất giữa",
+            "points": [
+                [
+                    12.16788,
+                    850.552245
+                ],
+                [
+                    514.956994,
+                    888.834944
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "các bộ, cơ quan..",
+            "points": [
+                [
+                    551.51373,
+                    8.428247
+                ],
+                [
+                    789.939187,
+                    43.619277
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "“Những vấn đề thuộc thẩm quyền",
+            "points": [
+                [
+                    589.152169,
+                    46.433837
+                ],
+                [
+                    1044.693514,
+                    80.679954
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "của bộ trưởng thì bộ trưởng quyết",
+            "points": [
+                [
+                    554.253092,
+                    86.873574
+                ],
+                [
+                    1045.724442,
+                    125.06756800000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "định, những vấn đề thuộc thẩm quyền",
+            "points": [
+                [
+                    550.504212,
+                    130.416642
+                ],
+                [
+                    1041.600731,
+                    163.261563
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "của Thủ tướng, phó thủ tướng thì Thủ",
+            "points": [
+                [
+                    554.922558,
+                    169.201153
+                ],
+                [
+                    1043.978091,
+                    207.949999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tướng phó thủ tướng quyết định,",
+            "points": [
+                [
+                    554.457038,
+                    212.55325
+                ],
+                [
+                    1042.697842,
+                    247.04846899999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "những gì thuộc thẩm quyền Chính",
+            "points": [
+                [
+                    548.819763,
+                    250.191712
+                ],
+                [
+                    1047.541169,
+                    281.66276799999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phủ thì Chính phủ quyết định theo",
+            "points": [
+                [
+                    552.916559,
+                    284.547083
+                ],
+                [
+                    1049.653581,
+                    318.32559499999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nguyên tắc đa số”, Thủ tướng nêu rõ.",
+            "points": [
+                [
+                    552.916559,
+                    323.004607
+                ],
+                [
+                    1043.316343,
+                    352.168206
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Đặc biệt, Thủ tướng yêu cầu bộ, cơ",
+            "points": [
+                [
+                    592.277688,
+                    354.798133
+                ],
+                [
+                    1050.549024,
+                    389.58468600000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "quan nào chưa giao bộ trưởng trưởng",
+            "points": [
+                [
+                    555.300345,
+                    393.97046
+                ],
+                [
+                    1048.196628,
+                    434.350832
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngành trực tiếp phụ trách, chịu trách",
+            "points": [
+                [
+                    558.372953,
+                    437.555636
+                ],
+                [
+                    1046.084216,
+                    473.128823
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nhiệm về công tác xây dựng văn bản",
+            "points": [
+                [
+                    555.300345,
+                    476.525942
+                ],
+                [
+                    1044.675941,
+                    517.547249
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "quy phạm pháp luật thì trong tháng 9",
+            "points": [
+                [
+                    554.889153,
+                    521.540005
+                ],
+                [
+                    1045.48098,
+                    557.9464419999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "phải phân công lại và báo cáo lại Thủ",
+            "points": [
+                [
+                    551.816567,
+                    562.048594
+                ],
+                [
+                    1046.1851179999999,
+                    600.954759
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tướng Chính phủ.",
+            "points": [
+                [
+                    552.271862,
+                    603.439214
+                ],
+                [
+                    788.84438,
+                    639.815014
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chiều tối 28.9, Thủ tướng Phạm",
+            "points": [
+                [
+                    591.24966,
+                    643.325775
+                ],
+                [
+                    1046.587621,
+                    681.506328
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Minh Chính dự chương trình “Vui tết",
+            "points": [
+                [
+                    550.201081,
+                    683.239521
+                ],
+                [
+                    1049.498617,
+                    723.4276209999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trung thu” và thăm, tặng quà các bệnh",
+            "points": [
+                [
+                    552.761595,
+                    727.337479
+                ],
+                [
+                    1045.273792,
+                    766.4359370000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nhi có hoàn cảnh khó khăn đang điều",
+            "points": [
+                [
+                    547.640589,
+                    768.358829
+                ],
+                [
+                    1047.386204,
+                    810.854364
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trị tại Viện Huyết học - Truyền máu",
+            "points": [
+                [
+                    548.664799,
+                    813.482309
+                ],
+                [
+                    1048.090342,
+                    852.452572
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Trung ương.",
+            "points": [
+                [
+                    550.055929,
+                    854.550745
+                ],
+                [
+                    716.980876,
+                    894.079193
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mai Thu - TTXVN",
+            "points": [
+                [
+                    821.325404,
+                    857.437166
+                ],
+                [
+                    1046.3293250000002,
+                    892.497592
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "VIETNAMESE_NEWSPAPER_032902.jpg",
+    "imageData": null,
+    "imageHeight": 910,
+    "imageWidth": 1076
+}
