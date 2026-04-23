@@ -49,3 +49,11 @@ Continue training on Kaggle:
 - If your GitHub repo becomes too large, keep only the code in GitHub and upload the raw dataset separately as a Kaggle Dataset.
 
 More detail is in [README_KAGGLE.md](./README_KAGGLE.md).
+
+## Gradio demo
+
+Run a simple demo for cropped text images:
+
+```bash
+python app_gradio.py --checkpoint runs/crnn_baseline/best.pt --charset runs/crnn_baseline/charset.txt
+```

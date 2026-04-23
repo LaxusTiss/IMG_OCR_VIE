@@ -65,3 +65,11 @@ Recommended Kaggle settings:
 ## Important limitation
 
 This baseline is a text recognition model trained on cropped word regions. It does not detect text boxes at inference time by itself. Since your dataset already contains polygons, this is the fastest path to a working baseline. If you want, the next step can be adding a detection model or exporting to PaddleOCR/MMOCR format.
+
+## Gradio demo
+
+After training, you can run a small demo for cropped text images:
+
+```bash
+python app_gradio.py --checkpoint /kaggle/working/crnn_run/best.pt --charset /kaggle/working/crnn_run/charset.txt
+```
