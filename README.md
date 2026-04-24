@@ -57,3 +57,9 @@ Run a simple demo for cropped text images:
 ```bash
 python app_gradio.py --checkpoint runs/crnn_baseline/best.pt --charset runs/crnn_baseline/charset.txt
 ```
+
+Run full-document OCR using existing dataset annotations:
+
+```bash
+python app_gradio_annotated.py --checkpoint runs/crnn_baseline/best.pt --charset runs/crnn_baseline/charset.txt --data-root .
+```

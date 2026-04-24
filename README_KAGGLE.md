@@ -73,3 +73,9 @@ After training, you can run a small demo for cropped text images:
 ```bash
 python app_gradio.py --checkpoint /kaggle/working/crnn_run/best.pt --charset /kaggle/working/crnn_run/charset.txt
 ```
+
+For a full-document demo using the dataset's existing json annotations:
+
+```bash
+python app_gradio_annotated.py --checkpoint /kaggle/working/crnn_run/best.pt --charset /kaggle/working/crnn_run/charset.txt --data-root .
+```
